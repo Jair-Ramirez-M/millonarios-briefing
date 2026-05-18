@@ -1,0 +1,555 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Millonarios · Briefing Diario</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=Spline+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#070b1d;--bg-2:#0a1130;--surface:#0f1740;--surface-2:#141d4f;
+    --line:#26315f;--line-soft:#1b2550;--ink:#eef1ff;--ink-mute:#8b95c4;
+    --ink-faint:#5b6499;--azul:#3f74ff;--azul-soft:#6f93ff;
+    --ok:#3fd7a0;--warn:#ffc24b;--bad:#ff5b6e;
+    --shadow:0 24px 60px -28px rgba(0,0,0,.85);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:
+      radial-gradient(900px 520px at 82% -8%,rgba(63,116,255,.20),transparent 60%),
+      radial-gradient(700px 480px at 6% 4%,rgba(63,116,255,.10),transparent 55%),
+      var(--bg);
+    color:var(--ink);font-family:'Spline Sans',sans-serif;
+    -webkit-font-smoothing:antialiased;line-height:1.5;padding:28px 22px 70px;
+  }
+  .wrap{max-width:1140px;margin:0 auto}
+  .mono{font-family:'JetBrains Mono',monospace}
+
+  .topbar{display:flex;align-items:center;justify-content:space-between;
+    gap:18px;flex-wrap:wrap;padding-bottom:20px;border-bottom:1px solid var(--line-soft)}
+  .brand{display:flex;align-items:center;gap:14px}
+  .crest{width:46px;height:46px;border-radius:12px;flex:none;
+    background:linear-gradient(150deg,#4f81ff,#1c3bb8);display:grid;place-items:center;
+    font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:20px;color:#fff;
+    box-shadow:0 8px 22px -8px rgba(63,116,255,.8);border:1px solid rgba(255,255,255,.18)}
+  .brand h1{font-family:'Bricolage Grotesque',sans-serif;font-weight:800;
+    font-size:21px;letter-spacing:-.02em;line-height:1.05}
+  .brand h1 span{color:var(--azul-soft)}
+  .brand .sub{font-size:11.5px;color:var(--ink-faint);letter-spacing:.14em;text-transform:uppercase}
+  .clock{text-align:right}
+  .clock .d{font-size:12.5px;color:var(--ink-mute);text-transform:capitalize}
+  .clock .t{font-size:13px;color:var(--azul-soft);letter-spacing:.04em}
+
+  .controls{display:flex;align-items:center;justify-content:space-between;
+    gap:14px;flex-wrap:wrap;margin:22px 0 26px}
+  .shiftbadge{display:flex;align-items:center;gap:10px;background:var(--azul);
+    color:#fff;border-radius:11px;padding:9px 16px;font-weight:600;font-size:13px;
+    box-shadow:0 6px 18px -8px var(--azul)}
+  .shiftbadge .dot{width:7px;height:7px;border-radius:50%;background:#fff;
+    box-shadow:0 0 0 4px rgba(255,255,255,.25)}
+  .refresh{font-family:'Spline Sans',sans-serif;font-weight:600;font-size:12.5px;
+    color:var(--ink);background:var(--surface);border:1px solid var(--line);
+    padding:9px 16px;border-radius:10px;cursor:pointer;transition:.18s;
+    display:flex;align-items:center;gap:8px}
+  .refresh:hover{border-color:var(--azul);color:var(--azul-soft)}
+  .dispatch{font-family:'Spline Sans',sans-serif;font-weight:600;font-size:12.5px;
+    color:#fff;background:var(--azul);border:1px solid transparent;
+    padding:9px 16px;border-radius:10px;cursor:pointer;transition:.18s;
+    display:flex;align-items:center;gap:8px;box-shadow:0 4px 14px -6px var(--azul)}
+  .dispatch:hover{background:#2d5fe0}
+  .dispatch:disabled{opacity:.5;cursor:not-allowed}
+  .dispatch.ok{background:var(--ok);box-shadow:0 4px 14px -6px var(--ok)}
+  .dispatch.err{background:var(--bad);box-shadow:0 4px 14px -6px var(--bad)}
+
+  /* Modal de configuración de GitHub */
+  .modal-bg{position:fixed;inset:0;background:rgba(4,7,20,.82);backdrop-filter:blur(4px);
+    z-index:60;display:flex;align-items:center;justify-content:center;padding:20px}
+  .modal-bg.hidden{display:none}
+  .modal{background:var(--bg-2);border:1px solid var(--line);border-radius:18px;
+    padding:28px 26px;width:min(460px,100%);box-shadow:var(--shadow)}
+  .modal h3{font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:18px;
+    margin-bottom:6px}
+  .modal .hint{font-size:12.5px;color:var(--ink-mute);line-height:1.55;margin-bottom:20px}
+  .modal label{display:block;font-size:11.5px;font-weight:600;letter-spacing:.06em;
+    text-transform:uppercase;color:var(--ink-faint);margin-bottom:5px}
+  .modal input{width:100%;background:var(--surface);border:1px solid var(--line);
+    border-radius:9px;padding:10px 13px;color:var(--ink);font-family:'JetBrains Mono',monospace;
+    font-size:13px;outline:none;margin-bottom:14px}
+  .modal input:focus{border-color:var(--azul)}
+  .modal .row{display:flex;gap:10px;margin-top:4px}
+  .modal .btn{flex:1;padding:10px;border-radius:9px;font-weight:600;font-size:13px;
+    cursor:pointer;border:1px solid var(--line);background:var(--surface);color:var(--ink);transition:.15s}
+  .modal .btn.primary{background:var(--azul);border-color:var(--azul);color:#fff}
+  .modal .btn:hover{opacity:.85}
+
+  .sec-head{display:flex;align-items:baseline;gap:12px;margin:34px 0 16px}
+  .sec-head .ix{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--azul-soft);
+    border:1px solid var(--line);border-radius:6px;padding:2px 7px}
+  .sec-head h2{font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:16px}
+  .sec-head .ln{flex:1;height:1px;background:var(--line-soft)}
+  .sec-head .meta{font-size:11.5px;color:var(--ink-faint)}
+
+  .lead{background:linear-gradient(160deg,var(--surface),var(--bg-2));
+    border:1px solid var(--line);border-radius:16px;padding:22px 24px;box-shadow:var(--shadow)}
+  .lead .kicker{font-size:11px;letter-spacing:.18em;text-transform:uppercase;
+    color:var(--azul-soft);margin-bottom:9px}
+  .lead p{font-size:15px;color:#dfe4ff;line-height:1.62;margin-bottom:10px}
+  .lead p:last-child{margin-bottom:0}
+
+  .items{display:flex;flex-direction:column;gap:9px;margin-top:14px}
+  .item{display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:start;
+    background:var(--surface);border:1px solid var(--line-soft);border-radius:12px;
+    padding:13px 15px;transition:.16s;text-decoration:none;color:inherit}
+  .item:hover{border-color:var(--azul);transform:translateX(2px)}
+  .tag{font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+    padding:5px 8px;border-radius:6px;white-space:nowrap;background:rgba(63,116,255,.13);
+    color:var(--azul-soft);border:1px solid rgba(63,116,255,.25)}
+  .item .txt{font-size:14px;color:#e6e9ff}
+  .item .src{margin-top:6px;font-size:11.5px;color:var(--ink-mute);
+    display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .item .src .who{color:var(--ink);font-weight:500}
+  .item .src .time{color:var(--ink-faint)}
+  .cred{font-size:10px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
+    padding:4px 8px;border-radius:20px;white-space:nowrap;align-self:center}
+  .cred.alta{background:rgba(63,215,160,.13);color:var(--ok);border:1px solid rgba(63,215,160,.3)}
+  .cred.media{background:rgba(255,194,75,.12);color:var(--warn);border:1px solid rgba(255,194,75,.3)}
+  .cred.baja{background:rgba(255,91,110,.12);color:var(--bad);border:1px solid rgba(255,91,110,.3)}
+
+  .rumors{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+  .rumor{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+    padding:16px 17px;cursor:pointer;transition:.18s;position:relative;overflow:hidden}
+  .rumor::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--warn)}
+  .rumor.s-confirmado::before{background:var(--ok)}
+  .rumor.s-humo::before,.rumor.s-desmentido::before{background:var(--bad)}
+  .rumor:hover{border-color:var(--azul);transform:translateY(-2px);box-shadow:var(--shadow)}
+  .rumor .r-top{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:9px}
+  .rumor .cat{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint)}
+  .status{font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;
+    padding:4px 9px;border-radius:20px}
+  .status.confirmado{background:rgba(63,215,160,.14);color:var(--ok)}
+  .status.desarrollo{background:rgba(255,194,75,.13);color:var(--warn)}
+  .status.humo,.status.desmentido{background:rgba(255,91,110,.13);color:var(--bad)}
+  .rumor h3{font-family:'Bricolage Grotesque',sans-serif;font-weight:700;
+    font-size:15.5px;letter-spacing:-.01em;margin-bottom:7px}
+  .rumor .r-foot{display:flex;align-items:center;gap:8px;margin-top:12px;
+    padding-top:11px;border-top:1px solid var(--line-soft);font-size:11px;color:var(--ink-faint)}
+  .first-pill{background:rgba(63,116,255,.14);border:1px solid rgba(63,116,255,.3);
+    color:var(--azul-soft);font-weight:600;font-size:10px;padding:3px 7px;border-radius:5px}
+  .r-foot .arrow{margin-left:auto;color:var(--azul-soft);font-weight:600}
+
+  .board{background:var(--surface);border:1px solid var(--line);border-radius:16px;
+    overflow:hidden;box-shadow:var(--shadow)}
+  .board .row{display:grid;grid-template-columns:34px 1.9fr .9fr .8fr .8fr 1fr;
+    gap:12px;align-items:center;padding:13px 18px;border-bottom:1px solid var(--line-soft)}
+  .board .row:last-child{border-bottom:0}
+  .board .row.head{background:var(--bg-2);font-size:10px;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--ink-faint);font-weight:700}
+  .board .row:not(.head):hover{background:var(--surface-2)}
+  .rank{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:13px;
+    color:var(--ink-faint);text-align:center}
+  .rank.top{color:var(--azul-soft)}
+  .src-cell .nm{font-weight:600;font-size:13.5px}
+  .src-cell .hd{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-faint)}
+  .typechip{display:inline-block;font-size:9.5px;font-weight:700;letter-spacing:.05em;
+    text-transform:uppercase;padding:3px 7px;border-radius:5px;margin-top:4px;
+    background:var(--surface-2);color:var(--ink-mute);border:1px solid var(--line)}
+  .stat{font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:500}
+  .stat .bar{height:4px;border-radius:2px;background:var(--line);margin-top:5px;overflow:hidden}
+  .stat .bar i{display:block;height:100%;border-radius:2px}
+  .tier{font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;
+    padding:5px 9px;border-radius:7px;text-align:center;display:block}
+  .tier.Alta{background:rgba(63,215,160,.13);color:var(--ok);border:1px solid rgba(63,215,160,.3)}
+  .tier.Media{background:rgba(255,194,75,.12);color:var(--warn);border:1px solid rgba(255,194,75,.3)}
+  .tier.Baja{background:rgba(255,91,110,.12);color:var(--bad);border:1px solid rgba(255,91,110,.3)}
+  .tier.Vigilada{background:rgba(255,91,110,.16);color:var(--bad);border:1px solid rgba(255,91,110,.4)}
+  .tier.SinDatos{background:var(--surface-2);color:var(--ink-faint);border:1px solid var(--line)}
+
+  /* Tier numérico (0-4) — badge pequeño junto al nombre de la fuente */
+  .ntier{display:inline-flex;align-items:center;justify-content:center;
+    width:20px;height:20px;border-radius:5px;font-family:'JetBrains Mono',monospace;
+    font-size:9.5px;font-weight:700;flex:none;margin-right:6px}
+  .ntier.t0{background:rgba(63,116,255,.25);color:#7fa9ff;border:1px solid rgba(63,116,255,.5)}
+  .ntier.t1{background:rgba(63,215,160,.18);color:var(--ok);border:1px solid rgba(63,215,160,.4)}
+  .ntier.t2{background:rgba(255,194,75,.15);color:var(--warn);border:1px solid rgba(255,194,75,.4)}
+  .ntier.t3{background:rgba(255,91,110,.12);color:var(--bad);border:1px solid rgba(255,91,110,.3)}
+  .ntier.t4{background:rgba(255,91,110,.2);color:#ff2040;border:1px solid rgba(255,91,110,.5)}
+
+  /* Score de credibilidad del rumor */
+  .score-wrap{display:flex;align-items:center;gap:8px;margin-top:8px}
+  .score-bar{flex:1;height:5px;border-radius:3px;background:var(--line);overflow:hidden}
+  .score-bar i{display:block;height:100%;border-radius:3px;transition:width .4s}
+  .score-pct{font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:700;
+    white-space:nowrap;min-width:36px;text-align:right}
+
+  .empty{background:var(--surface);border:1px dashed var(--line);border-radius:14px;
+    padding:26px 22px;text-align:center;color:var(--ink-mute);font-size:13px;line-height:1.6}
+  .empty b{color:var(--ink);display:block;margin-bottom:5px;font-size:14px}
+
+  .overlay{position:fixed;inset:0;background:rgba(4,7,20,.74);backdrop-filter:blur(3px);
+    opacity:0;pointer-events:none;transition:.22s;z-index:40}
+  .overlay.on{opacity:1;pointer-events:auto}
+  .drawer{position:fixed;top:0;right:0;bottom:0;width:min(480px,94vw);background:var(--bg-2);
+    border-left:1px solid var(--line);transform:translateX(102%);
+    transition:transform .28s cubic-bezier(.4,0,.2,1);z-index:50;display:flex;flex-direction:column}
+  .drawer.on{transform:translateX(0)}
+  .drawer .dh{padding:20px 22px;border-bottom:1px solid var(--line);
+    display:flex;justify-content:space-between;align-items:flex-start;gap:14px}
+  .drawer .dh h3{font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:18px}
+  .drawer .dh .cat{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--azul-soft);margin-bottom:6px}
+  .closeb{background:var(--surface);border:1px solid var(--line);color:var(--ink-mute);
+    width:30px;height:30px;border-radius:8px;cursor:pointer;font-size:15px;flex:none}
+  .closeb:hover{color:var(--bad);border-color:var(--bad)}
+  .drawer .dbody{overflow-y:auto;padding:20px 22px;flex:1}
+  .tl-title{font-size:11px;letter-spacing:.13em;text-transform:uppercase;
+    color:var(--ink-faint);margin-bottom:14px}
+  .tl{position:relative;padding-left:26px}
+  .tl::before{content:"";position:absolute;left:7px;top:4px;bottom:8px;width:2px;background:var(--line)}
+  .tl-node{position:relative;padding-bottom:18px}
+  .tl-node:last-child{padding-bottom:0}
+  .tl-node::before{content:"";position:absolute;left:-23px;top:3px;width:12px;height:12px;
+    border-radius:50%;background:var(--bg-2);border:2px solid var(--azul)}
+  .tl-node.first::before{background:var(--azul);box-shadow:0 0 0 4px rgba(63,116,255,.2)}
+  .tl-node.niega::before{border-color:var(--bad)}
+  .tl-node.confirma::before{border-color:var(--ok);background:var(--ok)}
+  .tn-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:4px}
+  .tn-who{font-weight:600;font-size:13px}
+  .tn-when{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-faint)}
+  .stance{font-size:9.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;
+    padding:2px 6px;border-radius:4px}
+  .stance.afirma{background:rgba(63,116,255,.14);color:var(--azul-soft)}
+  .stance.confirma{background:rgba(63,215,160,.14);color:var(--ok)}
+  .stance.niega{background:rgba(255,91,110,.14);color:var(--bad)}
+  .stance.matiza{background:rgba(255,194,75,.13);color:var(--warn)}
+  .tn-link{display:inline-block;margin-top:6px;font-size:11px;color:var(--azul-soft);
+    text-decoration:none;border-bottom:1px dashed var(--line)}
+  .tn-link:hover{color:#fff}
+
+  .note{margin-top:40px;padding:16px 18px;border:1px dashed var(--line);border-radius:12px;
+    font-size:12px;color:var(--ink-faint);line-height:1.6;background:rgba(15,23,64,.5)}
+  .fade{opacity:0;transform:translateY(14px);animation:fu .5s forwards}
+  @keyframes fu{to{opacity:1;transform:none}}
+  @media(max-width:720px){
+    .rumors{grid-template-columns:1fr}
+    .board .row{grid-template-columns:28px 1.6fr .9fr;gap:8px}
+    .board .col-scoop,.board .col-humo{display:none}
+    .item{grid-template-columns:1fr;gap:8px}.cred{justify-self:start}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="topbar">
+    <div class="brand">
+      <div class="crest">M</div>
+      <div>
+        <h1>MILLONARIOS · <span>BRIEFING</span></h1>
+        <div class="sub">Monitoreo &amp; Inteligencia de Fuentes</div>
+      </div>
+    </div>
+    <div class="clock">
+      <div class="d" id="genDate">cargando…</div>
+      <div class="t mono" id="genTime"></div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="shiftbadge"><span class="dot"></span><span id="shiftLabel">—</span></div>
+    <div style="display:flex;gap:10px">
+      <button class="refresh" id="refreshBtn">↻ Recargar</button>
+      <button class="dispatch" id="dispatchBtn">⚡ Generar ahora</button>
+    </div>
+  </div>
+
+  <!-- Modal configuración GitHub -->
+  <div class="modal-bg hidden" id="modalBg">
+    <div class="modal">
+      <h3>Conectar con GitHub</h3>
+      <p class="hint">
+        Para disparar el briefing desde aquí necesitas un
+        <strong>Personal Access Token</strong> con permiso <code>workflow</code>.<br>
+        Se guarda solo en tu navegador (localStorage). Nunca sale a ningún servidor.
+      </p>
+      <label>Usuario / Organización de GitHub</label>
+      <input id="cfgOwner" placeholder="tu-usuario" autocomplete="off">
+      <label>Nombre del repositorio</label>
+      <input id="cfgRepo" placeholder="millonarios-briefing" autocomplete="off">
+      <label>Personal Access Token (scope: workflow)</label>
+      <input id="cfgPat" type="password" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" autocomplete="off">
+      <div class="row">
+        <button class="btn" id="cfgCancel">Cancelar</button>
+        <button class="btn primary" id="cfgSave">Guardar y disparar</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="content"></div>
+
+  <div class="note">
+    <b>Cómo leerlo.</b> Cada publicación trae su fuente y hora. En el Radar de Rumores,
+    toca una tarjeta para ver quién lo dijo primero y quién lo contradijo. En Quién es Quién,
+    los porcentajes se calculan con los rumores ya resueltos: las fuentes nuevas aparecen
+    como “Sin datos” hasta acumular suficiente historial.
+  </div>
+</div>
+
+<div class="overlay" id="overlay"></div>
+<aside class="drawer" id="drawer">
+  <div class="dh">
+    <div><div class="cat" id="dCat">—</div><h3 id="dTitle">—</h3></div>
+    <button class="closeb" id="closeBtn">✕</button>
+  </div>
+  <div class="dbody">
+    <div class="tl-title">Línea de tiempo · quién lo dijo</div>
+    <div class="tl" id="dTimeline"></div>
+  </div>
+</aside>
+
+<script>
+const STATUS_LABEL = {confirmado:"Confirmado",desarrollo:"En desarrollo",
+                      humo:"Humo",desmentido:"Desmentido"};
+const STANCE_LABEL = {afirma:"Afirma",confirma:"Oficial",niega:"Niega",matiza:"Matiza"};
+const CRED_LABEL   = {alta:"Confiable",media:"Por verificar",baja:"Dudoso"};
+const TIER_LABEL   = {0:"T0 · Oficial",1:"T1 · Confiable",2:"T2 · Verificar",
+                      3:"T3 · Dudoso",4:"T4 · Clickbait"};
+
+function scoreColor(s){
+  if(s>=75) return "var(--ok)";
+  if(s>=50) return "var(--warn)";
+  if(s>=30) return "#ff8c42";
+  return "var(--bad)";
+}
+function tierBadge(t){
+  const n = t!=null ? t : 3;
+  return `<span class="ntier t${n}" title="${TIER_LABEL[n]||'T'+n}">T${n}</span>`;
+}
+let RUMORS = [];
+
+function esc(s){const d=document.createElement("div");d.textContent=s||"";return d.innerHTML;}
+
+async function load(){
+  const c = document.getElementById("content");
+  let data;
+  try{
+    const r = await fetch("./data/briefing.json?ts="+Date.now());
+    if(!r.ok) throw new Error(r.status);
+    data = await r.json();
+  }catch(e){
+    c.innerHTML = `<div class="empty"><b>Aún no hay briefing generado.</b>
+      El primer reporte aparecerá cuando GitHub Actions ejecute el flujo
+      (o cuando corras <span class="mono">python run.py</span>).</div>`;
+    document.getElementById("genDate").textContent = "sin datos";
+    return;
+  }
+  render(data);
+}
+
+function render(d){
+  RUMORS = d.rumors || [];
+  document.getElementById("shiftLabel").textContent = d.shift_label || "Briefing";
+  const gen = new Date(d.generated_at);
+  document.getElementById("genDate").textContent =
+    gen.toLocaleDateString("es-CO",{weekday:"long",day:"numeric",month:"short"});
+  document.getElementById("genTime").textContent =
+    "Actualizado " + gen.toLocaleTimeString("es-CO",{hour:"2-digit",minute:"2-digit"});
+
+  const s = d.stats || {};
+  let html = "";
+
+  // 01 — Briefing
+  html += secHead("01","El Briefing",
+    `${s.items||0} publicaciones · ${s.sources||0} fuentes`);
+  const paras = (d.summary||"").split(/\n+/).filter(Boolean)
+    .map(p=>`<p>${esc(p)}</p>`).join("") || "<p>Sin resumen disponible.</p>";
+  html += `<div class="lead fade"><div class="kicker">Resumen del día</div>${paras}</div>`;
+
+  if((d.items||[]).length){
+    html += `<div class="items">` + d.items.map(it=>`
+      <a class="item fade" href="${esc(it.url)}" target="_blank" rel="noopener">
+        <span class="tag">${esc(it.tag)}</span>
+        <div>
+          <div class="txt">${esc(it.title)}</div>
+          <div class="src"><span class="who">${esc(it.source)}</span><span>·</span>
+            <span class="time mono">${esc(it.date)} ${esc(it.time)}</span></div>
+        </div>
+        <span class="cred ${it.cred}">${CRED_LABEL[it.cred]||"—"}</span>
+      </a>`).join("") + `</div>`;
+  }else{
+    html += `<div class="empty">Sin publicaciones nuevas en esta ventana de tiempo.</div>`;
+  }
+
+  // 02 — Radar de Rumores
+  html += secHead("02","Radar de Rumores","Toca una tarjeta para ver el hilo");
+  if(RUMORS.length){
+    html += `<div class="rumors">` + RUMORS.map((r,i)=>{
+      const sc = r.score ?? 0;
+      const scC = scoreColor(sc);
+      return `
+      <div class="rumor s-${r.status} fade" onclick="openDrawer(${i})">
+        <div class="r-top">
+          <span class="cat">${esc(r.categoria)}</span>
+          <span class="status ${r.status}">${STATUS_LABEL[r.status]||r.status}</span>
+        </div>
+        <h3>${esc(r.titulo)}</h3>
+        <div class="score-wrap">
+          <div class="score-bar"><i style="width:${sc}%;background:${scC}"></i></div>
+          <span class="score-pct" style="color:${scC}">${sc}%</span>
+        </div>
+        <div class="r-foot">
+          <span class="first-pill">1.º · ${esc(r.first_source||"—")}</span>
+          <span>${r.timeline.length} fuente(s)</span>
+          <span class="arrow">Ver hilo →</span>
+        </div>
+      </div>`;
+    }).join("") + `</div>`;
+  }else{
+    html += `<div class="empty"><b>El radar está calentando motores.</b>
+      Aún no se han detectado afirmaciones de mercado. Aparecerán aquí cuando
+      las fuentes empiecen a hablar de llegadas, salidas o renovaciones.</div>`;
+  }
+
+  // 03 — Quién es Quién
+  html += secHead("03","Quién es Quién","Historial de aciertos por fuente");
+  const srcs = d.sources || [];
+  if(srcs.length){
+    html += `<div class="board"><div class="row head">
+      <div>#</div><div>Fuente</div><div>Aciertos</div>
+      <div class="col-scoop">Primicias</div><div class="col-humo">Humo</div>
+      <div>Confianza</div></div>` +
+      srcs.map((sc,i)=>{
+        const acc = sc.accuracy==null ? "—" : sc.accuracy+"%";
+        const accN = sc.accuracy||0;
+        const accC = accN>=80?"var(--ok)":accN>=55?"var(--warn)":"var(--bad)";
+        const humoC = sc.humo_rate<=10?"var(--ok)":sc.humo_rate<=30?"var(--warn)":"var(--bad)";
+        const earnedCls = (sc.tier_earned||"SinDatos").replace(/\s/g,"");
+        return `<div class="row">
+          <div class="rank ${i===0?'top':''}">${i+1}</div>
+          <div class="src-cell">
+            <div class="nm">${tierBadge(sc.tier)}${esc(sc.name)}</div>
+            <div class="hd">${esc(sc.handle)}</div>
+            <span class="typechip">${esc(sc.type)}</span></div>
+          <div class="stat" style="color:${sc.accuracy==null?'var(--ink-faint)':accC}">${acc}
+            <div class="bar"><i style="width:${accN}%;background:${accC}"></i></div></div>
+          <div class="stat col-scoop">${sc.scoops}</div>
+          <div class="stat col-humo" style="color:${humoC}">${sc.humo_rate}%</div>
+          <div><span class="tier ${earnedCls}">${esc(sc.tier_earned||"Sin datos")}</span></div>
+        </div>`;
+      }).join("") + `</div>`;
+  }else{
+    html += `<div class="empty"><b>Sin historial todavía.</b>
+      El ranking de fuentes se construye a medida que los rumores se resuelven.
+      Marca desenlaces con <span class="mono">python run.py resolve</span>
+      y la tabla cobrará vida.</div>`;
+  }
+
+  document.getElementById("content").innerHTML = html;
+}
+
+function secHead(ix,title,meta){
+  return `<div class="sec-head fade"><span class="ix mono">${ix}</span>
+    <h2>${title}</h2><div class="ln"></div><div class="meta">${meta}</div></div>`;
+}
+
+function openDrawer(i){
+  const r = RUMORS[i]; if(!r) return;
+  document.getElementById("dCat").textContent =
+    `${r.categoria} · ${STATUS_LABEL[r.status]||r.status}`;
+  document.getElementById("dTitle").textContent = r.titulo;
+  document.getElementById("dTimeline").innerHTML = r.timeline.map(n=>`
+    <div class="tl-node ${n.is_first?'first ':''}${n.postura}">
+      <div class="tn-top">
+        ${tierBadge(n.tier)}
+        <span class="tn-who">${esc(n.source)}</span>
+        ${n.is_first?'<span class="first-pill">Primicia</span>':''}
+        <span class="stance ${n.postura}">${STANCE_LABEL[n.postura]||n.postura}</span>
+      </div>
+      <div class="tn-when">${esc(n.when_label||"")}</div>
+      <a class="tn-link" href="${esc(n.url)}" target="_blank" rel="noopener">Ver fuente ↗</a>
+    </div>`).join("");
+  document.getElementById("overlay").classList.add("on");
+  document.getElementById("drawer").classList.add("on");
+}
+function closeDrawer(){
+  document.getElementById("overlay").classList.remove("on");
+  document.getElementById("drawer").classList.remove("on");
+}
+document.getElementById("closeBtn").onclick = closeDrawer;
+document.getElementById("overlay").onclick = closeDrawer;
+document.getElementById("refreshBtn").onclick = load;
+document.addEventListener("keydown",e=>{if(e.key==="Escape"){closeDrawer();closeModal();}});
+
+// ── Disparador de GitHub Actions ──────────────────────────────────────────
+const LS = {
+  get owner(){ return localStorage.getItem("mb_owner")||""; },
+  get repo(){  return localStorage.getItem("mb_repo")||"";  },
+  get pat(){   return localStorage.getItem("mb_pat")||"";   },
+  set owner(v){ localStorage.setItem("mb_owner",v); },
+  set repo(v){  localStorage.setItem("mb_repo",v);  },
+  set pat(v){   localStorage.setItem("mb_pat",v);   },
+};
+
+function openModal(){
+  document.getElementById("cfgOwner").value = LS.owner;
+  document.getElementById("cfgRepo").value  = LS.repo;
+  document.getElementById("cfgPat").value   = LS.pat;
+  document.getElementById("modalBg").classList.remove("hidden");
+}
+function closeModal(){
+  document.getElementById("modalBg").classList.add("hidden");
+}
+
+async function dispatchWorkflow(owner, repo, pat){
+  const btn = document.getElementById("dispatchBtn");
+  btn.disabled = true;
+  btn.textContent = "Enviando…";
+  try {
+    const res = await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/actions/workflows/briefing.yml/dispatches`,
+      { method:"POST",
+        headers:{ Authorization:`Bearer ${pat}`,
+                  Accept:"application/vnd.github+json",
+                  "X-GitHub-Api-Version":"2022-11-28",
+                  "Content-Type":"application/json" },
+        body: JSON.stringify({ ref:"main" }) }
+    );
+    if(res.status === 204){
+      btn.textContent = "✓ Disparado";
+      btn.classList.add("ok");
+      setTimeout(()=>{ btn.textContent="⚡ Generar ahora";
+                       btn.classList.remove("ok"); btn.disabled=false; }, 4000);
+    } else {
+      const msg = await res.json().catch(()=>({}));
+      throw new Error(msg.message || `HTTP ${res.status}`);
+    }
+  } catch(e){
+    btn.textContent = "✗ Error: " + e.message;
+    btn.classList.add("err");
+    setTimeout(()=>{ btn.textContent="⚡ Generar ahora";
+                     btn.classList.remove("err"); btn.disabled=false; }, 5000);
+  }
+}
+
+document.getElementById("dispatchBtn").onclick = async function(){
+  if(!LS.owner || !LS.repo || !LS.pat){ openModal(); return; }
+  await dispatchWorkflow(LS.owner, LS.repo, LS.pat);
+};
+document.getElementById("cfgCancel").onclick = closeModal;
+document.getElementById("modalBg").onclick = function(e){
+  if(e.target===this) closeModal();
+};
+document.getElementById("cfgSave").onclick = async function(){
+  const owner = document.getElementById("cfgOwner").value.trim();
+  const repo  = document.getElementById("cfgRepo").value.trim();
+  const pat   = document.getElementById("cfgPat").value.trim();
+  if(!owner||!repo||!pat){ alert("Completa los tres campos."); return; }
+  LS.owner=owner; LS.repo=repo; LS.pat=pat;
+  closeModal();
+  await dispatchWorkflow(owner, repo, pat);
+};
+
+load();
+</script>
+</body>
+</html>

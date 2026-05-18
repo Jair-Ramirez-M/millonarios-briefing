@@ -1,0 +1,96 @@
+# ===========================================================================
+#  FUENTES DE MONITOREO  ·  Millonarios FC (equipo masculino)
+# ===========================================================================
+#  Edita libremente este archivo. Para agregar un canal de YouTube basta con
+#  pegar su @handle. Para agregar una web con RSS, ponla bajo "rss".
+#
+#  El campo "type" y "weight" son solo la confianza INICIAL (arranque en frio).
+#  El motor de credibilidad recalcula la confianza real con los datos que se
+#  van acumulando, asi que no te preocupes por afinarlos al milimetro.
+#    type:   oficial | periodista | partidario | prensa | agregador
+#    weight: 0.0 a 1.0  (prior de confianza; oficial = 1.0)
+# ===========================================================================
+
+youtube:
+  - handle: "@MillonariosFCOficial"
+    name: "Millonarios FC (Canal Oficial)"
+    type: oficial
+    tier: 0          # Fuente oficial del club — verdad de tierra
+    weight: 1.0
+  - handle: "@EduardoLuisOficial"
+    name: "Eduardo Luis"
+    type: periodista
+    tier: 1          # Periodista con historial comprobable, cercano al club
+    weight: 0.6
+  - handle: "@GuilloArango"
+    name: "Guillo Arango"
+    type: periodista
+    tier: 2          # Generalmente correcto; verificar antes de dar por hecho
+    weight: 0.55
+  - handle: "@CasaleSports"
+    name: "Casale Sports"
+    type: periodista
+    tier: 2
+    weight: 0.55
+  - handle: "@pacheandrademultimedia"
+    name: "Pache Andrade Multimedia"
+    type: periodista
+    tier: 2
+    weight: 0.55
+  - handle: "@LosMillonariosNetTV"
+    name: "Los Millonarios .NET TV"
+    type: partidario
+    tier: 3          # Fuente partidaria; amplifica más de lo que genera
+    weight: 0.5
+  - handle: "@Las5DeMillos"
+    name: "Las 5 de Millos"
+    type: partidario
+    tier: 3
+    weight: 0.5
+  - handle: "@CasaAzulRadioTV"
+    name: "Casa Azul Radio TV"
+    type: partidario
+    tier: 3
+    weight: 0.5
+  - handle: "@dimensionazul1946"
+    name: "Dimension Azul 1946"
+    type: partidario
+    tier: 3
+    weight: 0.5
+  - handle: "@NoticiasMillos"
+    name: "Noticias Millos"
+    type: partidario
+    tier: 3
+    weight: 0.5
+  - handle: "@BarbaAzul1946"
+    name: "Barba Azul 1946"
+    type: partidario
+    tier: 3
+    weight: 0.5
+  - handle: "@NoticiasMillonariosFC"
+    name: "Noticias Millonarios FC"
+    type: partidario
+    tier: 3
+    weight: 0.5
+
+# Webs que se raspan (sin RSS propio confirmado).
+scrape:
+  - url: "https://tineus.co/deportes/futbol/millonarios-fc"
+    name: "Tineus (agregador de prensa)"
+    parser: tineus
+    type: agregador
+    tier: 2          # Agrega medios reales; confiabilidad media por naturaleza
+    weight: 0.55
+
+# Webs con RSS propio (verificados y activos).
+rss:
+  - url: "https://www.eltiempo.com/rss/deportes.xml"
+    name: "El Tiempo Deportes"
+    type: prensa
+    tier: 2
+    weight: 0.65
+  - url: "https://www.espn.com/espn/rss/news"
+    name: "ESPN Deportes"
+    type: prensa
+    tier: 2
+    weight: 0.60

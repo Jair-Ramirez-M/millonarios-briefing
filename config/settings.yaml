@@ -1,0 +1,40 @@
+# ===========================================================================
+#  AJUSTES GENERALES  ·  Briefing Millonarios FC
+# ===========================================================================
+
+team: "Millonarios FC"
+timezone: "America/Bogota"          # Colombia, UTC-5 (sin horario de verano)
+
+# Cuantos dias de historial se conservan en data/items.json
+retention_days: 60
+
+# Para la seccion "Briefing del dia" se muestran publicaciones de las ultimas N horas.
+# Para el analisis de rumores (Radar + Quien es Quien) se usa todo el historial.
+briefing_window_hours: 24
+# Ventana mas amplia para el analisis de credibilidad (rumores historicos).
+analysis_window_hours: 720
+
+# --- Capa de analisis con IA (Groq — capa gratuita, 14.400 req/dia) ---
+# Si no hay GROQ_API_KEY, el sistema funciona en modo basico con reglas.
+# Modelos: llama-3.3-70b-versatile (mejor calidad) | llama-3.1-8b-instant (mas rapido)
+groq_model: "llama-3.3-70b-versatile"
+
+# --- Filtro de relevancia (equipo masculino) -------------------------------
+# Se descarta cualquier publicacion cuyo titulo contenga una palabra excluida.
+exclude_keywords:
+  - "femenino"
+  - "fútbol femenino"
+  - "futbol femenino"
+  - "sub-20"
+  - "sub 20"
+  - "sub-17"
+  - "sub 17"
+
+# Para fuentes generalistas (Tineus trae varios equipos): se conserva el item
+# solo si el titulo menciona algo del club. Los canales de YouTube de la lista
+# ya son 100% Millonarios, asi que a ellos no se les aplica este filtro.
+include_keywords:
+  - "millonarios"
+  - "millos"
+  - "embajador"
+  - "azul"

@@ -1,0 +1,207 @@
+{
+  "generated_at": "2026-05-18T10:40:00.745445-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 4,
+    "sources": 2,
+    "rumors": 5
+  },
+  "summary": "Hoy, el equipo Millonarios FC no ha tenido un día muy destacado en cuanto a noticias concretas sobre su plantel o mercado. Sin embargo, es importante mencionar que el panorama general del fútbol colombiano ha estado lleno de emoción con los partidos de semifinales de ida, donde equipos como Santa Fe y Nacional han tenido actuaciones destacadas. En cuanto a rumores y mercado, no hay noticias confirmadas sobre el equipo, pero es probable que en los próximos días se especule sobre posibles movimientos en el mercado de transferencias.",
+  "items": [
+    {
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "🚨100% SANTA FE ¡A PESCAR EN BARRANQUILLA! | LLAVE ABIERTA | 3 BATALLAS PARA EL 🦁",
+      "source": "Eduardo Luis",
+      "source_type": "periodista",
+      "cred": "alta",
+      "date": "Hoy",
+      "time": "09:10",
+      "url": "https://www.youtube.com/watch?v=u484eyKOd5w"
+    },
+    {
+      "tag": "Partido",
+      "tipo": "opinion",
+      "title": "¿ERAN PENALES? EL TOXI ACLARA. SANTA FE SALVA EL EMPATE ANTE JUNIOR. OPINIÓN COMPLETA AQUÍ. #ELTOXI",
+      "source": "Eduardo Luis",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "17:49",
+      "url": "https://www.youtube.com/shorts/SQ4KGfJsqPc"
+    },
+    {
+      "tag": "Partido",
+      "tipo": "opinion",
+      "title": "¿ERA ROJA PARA ANGULO? EDUARDO LUIS ACLARA LA JUGADA. NACIONAL GANÓ AL TOLIMA CON POLÉMICA. #ElToxi",
+      "source": "Eduardo Luis",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "12:18",
+      "url": "https://www.youtube.com/shorts/A_uY5b1eHow"
+    },
+    {
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "⚽ Tolima con 10, Santa Fe de milagro y Nacional pisa fuerte — Semifinales de ida | Antonio Casale",
+      "source": "Casale Sports",
+      "source_type": "periodista",
+      "cred": "alta",
+      "date": "Ayer",
+      "time": "10:47",
+      "url": "https://www.youtube.com/watch?v=z10lduxDxcA"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "llegada-rodallega",
+      "titulo": "¿Rodallega al Mundia? | Millonarios mientras tanto…",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Pache Andrade Multimedia",
+      "timeline": [
+        {
+          "source": "Pache Andrade Multimedia",
+          "handle": "@pacheandrademultimedia",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-05-14T06:10:48+00:00",
+          "url": "https://www.youtube.com/watch?v=shEQW-NGG8o",
+          "is_first": true,
+          "when_label": "14 may 01:10"
+        }
+      ]
+    },
+    {
+      "tema": "salida-millonarios-toma-decisin",
+      "titulo": "Millonarios toma decisión sobre primera salida del equipo",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-05-08T13:23:00-05:00",
+          "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-toma-decision-sobre-primera-salida-del-equipo-582623",
+          "is_first": true,
+          "when_label": "8 may 13:23"
+        }
+      ]
+    },
+    {
+      "tema": "interes-guillermo",
+      "titulo": "Millonarios QUIERE A DUVÁN VERGARA | Guillermo DE AMORES SALDRÁ | Fichajes y salidas 2026-II",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 35,
+      "first_source": "Noticias Millonarios FC",
+      "timeline": [
+        {
+          "source": "Noticias Millonarios FC",
+          "handle": "@NoticiasMillonariosFC",
+          "tier": 3,
+          "postura": "afirma",
+          "when": "2026-05-14T19:49:51+00:00",
+          "url": "https://www.youtube.com/watch?v=Jaq4Uu0ztI4",
+          "is_first": true,
+          "when_label": "14 may 14:49"
+        }
+      ]
+    },
+    {
+      "tema": "llegada-nuevo",
+      "titulo": "El ARQUERO que PUEDE LLEGAR A MILLONARIOS | Nuevo JUGADOR FIRMÓ CONTRATO | Previo VS LLANEROS",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 35,
+      "first_source": "Noticias Millonarios FC",
+      "timeline": [
+        {
+          "source": "Noticias Millonarios FC",
+          "handle": "@NoticiasMillonariosFC",
+          "tier": 3,
+          "postura": "afirma",
+          "when": "2026-05-11T17:56:58+00:00",
+          "url": "https://www.youtube.com/watch?v=ys0bch89gbU",
+          "is_first": true,
+          "when_label": "11 may 12:56"
+        }
+      ]
+    },
+    {
+      "tema": "salida-rodrigo-contreras",
+      "titulo": "Rodrigo Contreras SE VA DE MILLONARIOS: \"Me replanteo muchas cosas\" | Millonarios CHIFLADO",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 35,
+      "first_source": "Noticias Millonarios FC",
+      "timeline": [
+        {
+          "source": "Noticias Millonarios FC",
+          "handle": "@NoticiasMillonariosFC",
+          "tier": 3,
+          "postura": "afirma",
+          "when": "2026-04-29T19:59:10+00:00",
+          "url": "https://www.youtube.com/watch?v=x6mFW93hV4A",
+          "is_first": true,
+          "when_label": "29 abr 14:59"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "@pacheandrademultimedia",
+      "name": "Pache Andrade Multimedia",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@NoticiasMillonariosFC",
+      "name": "Noticias Millonarios FC",
+      "type": "partidario",
+      "tier": 3,
+      "n_claims": 3,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
