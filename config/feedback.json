@@ -1,1 +1,26 @@
-{"dismissed":{},"source_filters":{}}
+{
+  "dismissed": {
+    "e7967738c62da470": {
+      "reason": "No habla de Millos",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "title": "¿ERAN PENALES? EL TOXI ACLARA. SANTA FE SALVA EL EMPATE ANTE JUNIOR. OPINIÓN COMPLETA AQUÍ. #ELTOXI",
+      "ts": "2026-05-18T16:10:22.501Z"
+    },
+    "50e095928a9d4f8c": {
+      "reason": "No habla de Millos",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "title": "¿ERA ROJA PARA ANGULO? EDUARDO LUIS ACLARA LA JUGADA. NACIONAL GANÓ AL TOLIMA CON POLÉMICA. #ElToxi",
+      "ts": "2026-05-18T16:10:32.187Z"
+    },
+    "29471035a34fabb1": {
+      "reason": "No habla de Millos",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "title": "🚨100% SANTA FE ¡A PESCAR EN BARRANQUILLA! | LLAVE ABIERTA | 3 BATALLAS PARA EL 🦁",
+      "ts": "2026-05-18T16:10:52.426Z"
+    }
+  },
+  "source_filters": {}
+}
