@@ -227,6 +227,35 @@
     text-decoration:none;border-bottom:1px dashed var(--line)}
   .tn-link:hover{color:#fff}
 
+  /* ── Feedback de relevancia ─────────────────────────────────────────── */
+  .item{cursor:default}
+  .item-link{color:inherit;text-decoration:none;display:block;font-size:14px;color:#e6e9ff}
+  .item-link:hover{color:var(--azul-soft)}
+  .item.dismissed{opacity:.35;border-color:rgba(255,91,110,.2)!important}
+  .item.dismissed:hover{transform:none;border-color:rgba(255,91,110,.2)!important}
+  .item-right{display:flex;flex-direction:column;align-items:flex-end;gap:7px}
+  .fb-no{background:none;border:1px solid var(--line);color:var(--ink-faint);
+    border-radius:7px;padding:3px 9px;font-size:13px;cursor:pointer;line-height:1;transition:.15s}
+  .fb-no:hover:not(:disabled){border-color:var(--bad);color:var(--bad)}
+  .fb-no:disabled{opacity:.4;cursor:not-allowed}
+  .fb-undo{background:none;border:1px solid rgba(63,116,255,.35);color:var(--azul-soft);
+    border-radius:7px;padding:3px 9px;font-size:11px;cursor:pointer;white-space:nowrap;transition:.15s}
+  .fb-undo:hover{border-color:var(--azul);color:#fff}
+  .fb-form{grid-column:1/-1;padding-top:10px;border-top:1px solid var(--line-soft);
+    display:flex;flex-direction:column;gap:8px}
+  .fb-form.hidden{display:none}
+  .fb-textarea{background:var(--surface-2);border:1px solid var(--line);border-radius:8px;
+    padding:8px 10px;color:var(--ink);font-family:'Spline Sans',sans-serif;font-size:13px;
+    resize:vertical;min-height:46px;outline:none;width:100%}
+  .fb-textarea:focus{border-color:var(--azul)}
+  .fb-form-row{display:flex;justify-content:space-between;align-items:center;gap:8px}
+  .fb-form-hint{font-size:11px;color:var(--ink-faint)}
+  .fb-cancel-btn,.fb-confirm-btn{padding:5px 14px;border-radius:7px;font-size:12.5px;
+    font-weight:600;cursor:pointer;border:1px solid var(--line);background:var(--surface);color:var(--ink);transition:.15s}
+  .fb-confirm-btn{background:var(--bad);border-color:var(--bad);color:#fff}
+  .fb-cancel-btn:hover{border-color:var(--line-soft)}
+  .fb-badge{font-size:11px;color:var(--warn);font-weight:600;letter-spacing:.03em}
+
   .note{margin-top:40px;padding:16px 18px;border:1px dashed var(--line);border-radius:12px;
     font-size:12px;color:var(--ink-faint);line-height:1.6;background:rgba(15,23,64,.5)}
   .fade{opacity:0;transform:translateY(14px);animation:fu .5s forwards}
@@ -259,7 +288,7 @@
     <div class="shiftbadge"><span class="dot"></span><span id="shiftLabel">—</span></div>
     <div style="display:flex;gap:10px">
       <button class="refresh" id="refreshBtn">↻ Recargar</button>
-      <button class="dispatch" id="dispatchBtn">⚡ Generar ahora</button>
+      <button class="dispatch" id="dispatchBtn">⚡ Generar ahora<span class="fb-badge" id="fbBadge"></span></button>
     </div>
   </div>
 
@@ -366,16 +395,36 @@ function render(d){
   html += `<div class="lead fade"><div class="kicker">Resumen del día</div>${paras}</div>`;
 
   if((d.items||[]).length){
-    html += `<div class="items">` + d.items.map(it=>`
-      <a class="item fade" href="${esc(it.url)}" target="_blank" rel="noopener">
+    html += `<div class="items">` + d.items.map(it=>{
+      const dismissed = FB.isDismissed(it.id);
+      return `
+      <div class="item fade${dismissed?' dismissed':''}" data-id="${esc(it.id||'')}">
         <span class="tag">${esc(it.tag)}</span>
         <div>
-          <div class="txt">${esc(it.title)}</div>
+          <a class="item-link" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>
           <div class="src"><span class="who">${esc(it.source)}</span><span>·</span>
             <span class="time mono">${esc(it.date)} ${esc(it.time)}</span></div>
         </div>
-        <span class="cred ${it.cred}">${CRED_LABEL[it.cred]||"—"}</span>
-      </a>`).join("") + `</div>`;
+        <div class="item-right">
+          <span class="cred ${it.cred}">${CRED_LABEL[it.cred]||"—"}</span>
+          ${dismissed
+            ? `<button class="fb-undo" onclick="fbUndo(this)">↩ Restaurar</button>`
+            : `<button class="fb-no" title="Marcar como no relevante" onclick="fbStart(this)">👎</button>`}
+        </div>
+        <div class="fb-form hidden"
+             data-source="${esc(it.source)}"
+             data-handle="${esc(it.source_handle||'')}">
+          <textarea class="fb-textarea" placeholder="¿Por qué no es relevante? (opcional) — ej: habla de otro equipo"></textarea>
+          <div class="fb-form-row">
+            <span class="fb-form-hint">El feedback se sincroniza al generar el próximo briefing</span>
+            <div style="display:flex;gap:8px">
+              <button class="fb-cancel-btn" onclick="fbCancel(this)">Cancelar</button>
+              <button class="fb-confirm-btn" onclick="fbConfirm(this)">Descartar</button>
+            </div>
+          </div>
+        </div>
+      </div>`;
+    }).join("") + `</div>`;
   }else{
     html += `<div class="empty">Sin publicaciones nuevas en esta ventana de tiempo.</div>`;
   }
@@ -480,6 +529,114 @@ document.getElementById("overlay").onclick = closeDrawer;
 document.getElementById("refreshBtn").onclick = load;
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){closeDrawer();closeModal();}});
 
+// ── Feedback de relevancia ────────────────────────────────────────────────
+const FB = {
+  KEY: 'mfc_fb_v1',
+  get(){
+    try{ return JSON.parse(localStorage.getItem(this.KEY)||'{"dismissed":{}}'); }
+    catch(e){ return {dismissed:{}}; }
+  },
+  save(d){ localStorage.setItem(this.KEY, JSON.stringify(d)); },
+  isDismissed(id){ return !!(id && this.get().dismissed[id]); },
+  dismiss(id, reason, source, handle, title){
+    const d = this.get();
+    d.dismissed[id] = {reason, source, source_handle:handle, title,
+                       ts: new Date().toISOString()};
+    this.save(d);
+    this._badge();
+  },
+  undo(id){
+    const d = this.get();
+    delete d.dismissed[id];
+    this.save(d);
+    this._badge();
+  },
+  count(){ return Object.keys(this.get().dismissed).length; },
+  _badge(){
+    const n = this.count();
+    const el = document.getElementById('fbBadge');
+    if(el) el.textContent = n > 0 ? ` · ${n} sin sync` : '';
+  }
+};
+
+function fbStart(btn){
+  const item = btn.closest('.item');
+  item.querySelector('.fb-form').classList.remove('hidden');
+  item.querySelector('.fb-form textarea').focus();
+  btn.disabled = true;
+}
+function fbCancel(btn){
+  const item = btn.closest('.item');
+  item.querySelector('.fb-form').classList.add('hidden');
+  const noBtn = item.querySelector('.fb-no');
+  if(noBtn) noBtn.disabled = false;
+}
+function fbConfirm(btn){
+  const form   = btn.closest('.fb-form');
+  const item   = form.closest('.item');
+  const id     = item.dataset.id;
+  const reason = form.querySelector('textarea').value.trim();
+  FB.dismiss(id, reason, form.dataset.source, form.dataset.handle,
+             item.querySelector('.item-link')?.textContent || '');
+  item.classList.add('dismissed');
+  form.classList.add('hidden');
+  const noBtn = item.querySelector('.fb-no');
+  if(noBtn){
+    const u = document.createElement('button');
+    u.className = 'fb-undo'; u.textContent = '↩ Restaurar';
+    u.onclick = () => fbUndo(u);
+    noBtn.replaceWith(u);
+  }
+}
+function fbUndo(btn){
+  const item = btn.closest('.item');
+  FB.undo(item.dataset.id);
+  item.classList.remove('dismissed');
+  const u = item.querySelector('.fb-undo');
+  if(u){
+    const n = document.createElement('button');
+    n.className = 'fb-no'; n.title = 'Marcar como no relevante'; n.textContent = '👎';
+    n.onclick = () => fbStart(n);
+    u.replaceWith(n);
+  }
+}
+
+async function syncFeedback(owner, repo, pat){
+  const fb = FB.get();
+  if(!Object.keys(fb.dismissed).length) return;
+  let sha = null;
+  try{
+    const r = await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/contents/config/feedback.json`,
+      {headers:{Authorization:`Bearer ${pat}`, Accept:'application/vnd.github+json'}}
+    );
+    if(r.ok){
+      const d = await r.json(); sha = d.sha;
+      const remote = JSON.parse(atob(d.content.replace(/\n/g,'')));
+      // remoto + local (local tiene prioridad)
+      fb.dismissed = {...(remote.dismissed||{}), ...fb.dismissed};
+      fb.source_filters = {...(remote.source_filters||{}), ...(fb.source_filters||{})};
+    }
+  }catch(e){}
+  const body = {
+    message: `feedback: ${Object.keys(fb.dismissed).length} items descartados`,
+    content: btoa(unescape(encodeURIComponent(JSON.stringify(fb, null, 2))))
+  };
+  if(sha) body.sha = sha;
+  try{
+    await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/contents/config/feedback.json`,
+      {method:'PUT',
+       headers:{Authorization:`Bearer ${pat}`, Accept:'application/vnd.github+json',
+                'Content-Type':'application/json'},
+       body: JSON.stringify(body)}
+    );
+  }catch(e){ console.warn('syncFeedback failed', e); }
+}
+
+// inicializar badge al cargar
+window.addEventListener('DOMContentLoaded', ()=>{ FB._badge(); });
+
 // ── Disparador de GitHub Actions ──────────────────────────────────────────
 const LS = {
   get owner(){ return localStorage.getItem("mb_owner")||""; },
@@ -503,6 +660,8 @@ function closeModal(){
 async function dispatchWorkflow(owner, repo, pat){
   const btn = document.getElementById("dispatchBtn");
   btn.disabled = true;
+  btn.textContent = "Sincronizando feedback…";
+  await syncFeedback(owner, repo, pat);
   btn.textContent = "Enviando…";
   try {
     const res = await fetch(

@@ -53,10 +53,12 @@ def build(analysis: dict, ledger: dict, settings: dict) -> dict:
     for it in analysis["items"]:
         date_lbl, time_lbl = _fmt(it.get("published") or it.get("first_seen"))
         items_out.append({
+            "id": it.get("id", ""),
             "tag": it.get("tag", "Plantel"),
             "tipo": it.get("tipo", "noticia"),
             "title": it["title"],
             "source": it["source"],
+            "source_handle": it.get("source_handle", ""),
             "source_type": it.get("source_type", ""),
             "cred": it.get("cred", "media"),
             "date": date_lbl,

@@ -114,6 +114,31 @@ def merge_history(new_items: list[dict], history: list[dict],
     return kept
 
 
+def apply_feedback(items: list[dict], feedback: dict,
+                   settings: dict) -> list[dict]:
+    """
+    Filtra items descartados por el usuario y aplica reglas de fuente.
+    - dismissed: items marcados como no relevantes desde el tablero.
+    - source_filters: fuentes generalistas que deben pasar por include_keywords
+      aunque sean YouTube (ej: Eduardo Luis cubre varios equipos).
+    """
+    dismissed = set(feedback.get("dismissed", {}).keys())
+    source_filters = feedback.get("source_filters", {})
+    inc = [k.lower() for k in settings.get("include_keywords", [])]
+
+    out = []
+    for it in items:
+        if it.get("id") in dismissed:
+            continue
+        handle = it.get("source_handle", "")
+        if source_filters.get(handle) == "require_keywords" and inc:
+            text = f"{it.get('title','')} {it.get('summary','')}".lower()
+            if not any(k in text for k in inc):
+                continue
+        out.append(it)
+    return out
+
+
 def recent_items(items: list[dict], window_hours: int) -> list[dict]:
     """Items publicados (o vistos por primera vez) dentro de la ventana."""
     cutoff = dt.datetime.now(UTC) - dt.timedelta(hours=window_hours)

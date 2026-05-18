@@ -35,6 +35,7 @@ SITE_DATA = ROOT / "docs" / "data"
 ITEMS_FILE = DATA / "items.json"
 LEDGER_FILE = DATA / "ledger.json"
 LOCK_FILE = CFG / "channels.lock.json"
+FEEDBACK_FILE = CFG / "feedback.json"
 BRIEFING_FILE = SITE_DATA / "briefing.json"
 
 
@@ -65,14 +66,23 @@ def cmd_run():
 
     items = cmd_collect(settings, sources)
 
+    # Feedback del usuario (items descartados manualmente desde el tablero).
+    feedback = pipeline.load_json(FEEDBACK_FILE, {"dismissed": {}})
+    n_dismissed = len(feedback.get("dismissed", {}))
+    if n_dismissed:
+        print(f"Feedback: {n_dismissed} items descartados por el usuario")
+
     # Ventana corta para el briefing visual (noticias del dia).
-    briefing_items = pipeline.recent_items(
-        items, settings.get("briefing_window_hours", 24))
+    briefing_items = pipeline.apply_feedback(
+        pipeline.recent_items(items, settings.get("briefing_window_hours", 24)),
+        feedback, settings)
     print(f"Publicaciones en la ventana del briefing: {len(briefing_items)}")
 
     # Ventana larga para el analisis de rumores (hasta 30 dias de historial).
     analysis_hours = settings.get("analysis_window_hours", 720)
-    analysis_items = pipeline.recent_items(items, analysis_hours)
+    analysis_items = pipeline.apply_feedback(
+        pipeline.recent_items(items, analysis_hours),
+        feedback, settings)
     print(f"Publicaciones para analisis de rumores: {len(analysis_items)}")
 
     print("Analizando...")
