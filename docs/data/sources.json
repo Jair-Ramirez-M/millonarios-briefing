@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-05-18T16:16:55.489689+00:00",
+  "sources": [
+    {
+      "name": "Millonarios FC (Canal Oficial)",
+      "handle": "@MillonariosFCOficial",
+      "type": "youtube",
+      "tier": 0,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Eduardo Luis",
+      "handle": "@EduardoLuisOficial",
+      "type": "youtube",
+      "tier": 1,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Guillo Arango",
+      "handle": "@GuilloArango",
+      "type": "youtube",
+      "tier": 2,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Casale Sports",
+      "handle": "@CasaleSports",
+      "type": "youtube",
+      "tier": 2,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Pache Andrade Multimedia",
+      "handle": "@pacheandrademultimedia",
+      "type": "youtube",
+      "tier": 2,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Los Millonarios .NET TV",
+      "handle": "@LosMillonariosNetTV",
+      "type": "youtube",
+      "tier": 3,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Las 5 de Millos",
+      "handle": "@Las5DeMillos",
+      "type": "youtube",
+      "tier": 3,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Casa Azul Radio TV",
+      "handle": "@CasaAzulRadioTV",
+      "type": "youtube",
+      "tier": 3,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Dimension Azul 1946",
+      "handle": "@dimensionazul1946",
+      "type": "youtube",
+      "tier": 3,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Noticias Millos",
+      "handle": "@NoticiasMillos",
+      "type": "youtube",
+      "tier": 3,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Barba Azul 1946",
+      "handle": "@BarbaAzul1946",
+      "type": "youtube",
+      "tier": 3,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Noticias Millonarios FC",
+      "handle": "@NoticiasMillonariosFC",
+      "type": "youtube",
+      "tier": 3,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Tineus (agregador de prensa)",
+      "handle": "tineus.co",
+      "type": "scrape",
+      "tier": 2,
+      "items": 50,
+      "status": "ok"
+    },
+    {
+      "name": "El Tiempo Deportes",
+      "handle": "eltiempo.com",
+      "type": "rss",
+      "tier": 2,
+      "items": 10,
+      "status": "ok"
+    },
+    {
+      "name": "ESPN Deportes",
+      "handle": "espn.com",
+      "type": "rss",
+      "tier": 2,
+      "items": 32,
+      "status": "ok"
+    },
+    {
+      "name": "Futbolred",
+      "handle": "futbolred.com",
+      "type": "rss",
+      "tier": 2,
+      "items": 20,
+      "status": "ok"
+    },
+    {
+      "name": "Millonarios FC (X Oficial)",
+      "handle": "@MillonariosFC",
+      "type": "twitter",
+      "tier": 0,
+      "items": 1,
+      "status": "ok"
+    },
+    {
+      "name": "Eduardo Luis (X)",
+      "handle": "@EduardoLuisR",
+      "type": "twitter",
+      "tier": 1,
+      "items": 1,
+      "status": "ok"
+    },
+    {
+      "name": "Wintor Barrera (X)",
+      "handle": "@WintorBarrera",
+      "type": "twitter",
+      "tier": 1,
+      "items": 1,
+      "status": "ok"
+    },
+    {
+      "name": "Casale Sports (X)",
+      "handle": "@CasaleSports",
+      "type": "twitter",
+      "tier": 2,
+      "items": 1,
+      "status": "ok"
+    },
+    {
+      "name": "Futbolred (X)",
+      "handle": "@futbolred",
+      "type": "twitter",
+      "tier": 2,
+      "items": 1,
+      "status": "ok"
+    }
+  ]
+}

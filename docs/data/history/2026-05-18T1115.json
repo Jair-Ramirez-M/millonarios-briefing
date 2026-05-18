@@ -1,0 +1,255 @@
+{
+  "generated_at": "2026-05-18T11:15:33.580170-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 4,
+    "sources": 2,
+    "rumors": 7
+  },
+  "summary": "Hoy se destacan las noticias sobre el destino de Beckham David Castro, quien parece tener un nuevo club. Además, se habla de la vuelta de Sergio Mosquera y el previo al partido contra Sao Paulo. En cuanto a rumores y mercado, hay especulaciones sobre posibles movimientos de jugadores, aunque no hay confirmaciones oficiales. Se habla de la visita de Santa Fe a Barranquilla y las batallas que se avecinan para el equipo.",
+  "items": [
+    {
+      "id": "06eb81890ca44ed6",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Este es el CLUB AL QUE IRÁ BECKHAM DAVID CASTRO | Vuelve SERGIO MOSQUERA | Previo VS SAO PAULO",
+      "source": "Noticias Millonarios FC",
+      "source_handle": "@NoticiasMillonariosFC",
+      "source_type": "partidario",
+      "cred": "alta",
+      "date": "Hoy",
+      "time": "10:43",
+      "url": "https://www.youtube.com/watch?v=UePeHNKDMvo"
+    },
+    {
+      "id": "29471035a34fabb1",
+      "tag": "Partido",
+      "tipo": "opinion",
+      "title": "🚨100% SANTA FE ¡A PESCAR EN BARRANQUILLA! | LLAVE ABIERTA | 3 BATALLAS PARA EL 🦁",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "09:10",
+      "url": "https://www.youtube.com/watch?v=u484eyKOd5w"
+    },
+    {
+      "id": "e7967738c62da470",
+      "tag": "Partido",
+      "tipo": "opinion",
+      "title": "¿ERAN PENALES? EL TOXI ACLARA. SANTA FE SALVA EL EMPATE ANTE JUNIOR. OPINIÓN COMPLETA AQUÍ. #ELTOXI",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "17:49",
+      "url": "https://www.youtube.com/shorts/SQ4KGfJsqPc"
+    },
+    {
+      "id": "50e095928a9d4f8c",
+      "tag": "Partido",
+      "tipo": "opinion",
+      "title": "¿ERA ROJA PARA ANGULO? EDUARDO LUIS ACLARA LA JUGADA. NACIONAL GANÓ AL TOLIMA CON POLÉMICA. #ElToxi",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "12:18",
+      "url": "https://www.youtube.com/shorts/A_uY5b1eHow"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "llegada-rodallega",
+      "titulo": "¿Rodallega al Mundia? | Millonarios mientras tanto…",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Pache Andrade Multimedia",
+      "timeline": [
+        {
+          "source": "Pache Andrade Multimedia",
+          "handle": "@pacheandrademultimedia",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-05-14T06:10:48+00:00",
+          "url": "https://www.youtube.com/watch?v=shEQW-NGG8o",
+          "is_first": true,
+          "when_label": "14 may 01:10"
+        }
+      ]
+    },
+    {
+      "tema": "salida-millonarios-toma-decisin",
+      "titulo": "Millonarios toma decisión sobre primera salida del equipo",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-05-08T13:23:00-05:00",
+          "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-toma-decision-sobre-primera-salida-del-equipo-582623",
+          "is_first": true,
+          "when_label": "8 may 13:23"
+        }
+      ]
+    },
+    {
+      "tema": "interes-guillermo",
+      "titulo": "Millonarios QUIERE A DUVÁN VERGARA | Guillermo DE AMORES SALDRÁ | Fichajes y salidas 2026-II",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 35,
+      "first_source": "Noticias Millonarios FC",
+      "timeline": [
+        {
+          "source": "Noticias Millonarios FC",
+          "handle": "@NoticiasMillonariosFC",
+          "tier": 3,
+          "postura": "afirma",
+          "when": "2026-05-14T19:49:51+00:00",
+          "url": "https://www.youtube.com/watch?v=Jaq4Uu0ztI4",
+          "is_first": true,
+          "when_label": "14 may 14:49"
+        }
+      ]
+    },
+    {
+      "tema": "llegada-nuevo",
+      "titulo": "El ARQUERO que PUEDE LLEGAR A MILLONARIOS | Nuevo JUGADOR FIRMÓ CONTRATO | Previo VS LLANEROS",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 35,
+      "first_source": "Noticias Millonarios FC",
+      "timeline": [
+        {
+          "source": "Noticias Millonarios FC",
+          "handle": "@NoticiasMillonariosFC",
+          "tier": 3,
+          "postura": "afirma",
+          "when": "2026-05-11T17:56:58+00:00",
+          "url": "https://www.youtube.com/watch?v=ys0bch89gbU",
+          "is_first": true,
+          "when_label": "11 may 12:56"
+        }
+      ]
+    },
+    {
+      "tema": "salida-rodrigo-contreras",
+      "titulo": "Rodrigo Contreras SE VA DE MILLONARIOS: \"Me replanteo muchas cosas\" | Millonarios CHIFLADO",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 35,
+      "first_source": "Noticias Millonarios FC",
+      "timeline": [
+        {
+          "source": "Noticias Millonarios FC",
+          "handle": "@NoticiasMillonariosFC",
+          "tier": 3,
+          "postura": "afirma",
+          "when": "2026-04-29T19:59:10+00:00",
+          "url": "https://www.youtube.com/watch?v=x6mFW93hV4A",
+          "is_first": true,
+          "when_label": "29 abr 14:59"
+        }
+      ]
+    },
+    {
+      "tema": "beckham-david-castro-salida",
+      "titulo": "Beckham David Castro sale de Millonarios FC",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 35,
+      "first_source": "Noticias Millonarios FC",
+      "timeline": [
+        {
+          "source": "Noticias Millonarios FC",
+          "handle": "@NoticiasMillonariosFC",
+          "tier": 3,
+          "postura": "afirma",
+          "when": "2026-05-18T15:43:06+00:00",
+          "url": "https://www.youtube.com/watch?v=UePeHNKDMvo",
+          "is_first": true,
+          "when_label": "Hoy 10:43"
+        }
+      ]
+    },
+    {
+      "tema": "beckham-david-castro",
+      "titulo": "Beckham David Castro tiene nuevo club",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 35,
+      "first_source": "Noticias Millonarios FC",
+      "timeline": [
+        {
+          "source": "Noticias Millonarios FC",
+          "handle": "@NoticiasMillonariosFC",
+          "tier": 3,
+          "postura": "afirma",
+          "when": "2026-05-18T15:43:06+00:00",
+          "url": "https://www.youtube.com/watch?v=UePeHNKDMvo",
+          "is_first": true,
+          "when_label": "Hoy 10:43"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "@pacheandrademultimedia",
+      "name": "Pache Andrade Multimedia",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@NoticiasMillonariosFC",
+      "name": "Noticias Millonarios FC",
+      "type": "partidario",
+      "tier": 3,
+      "n_claims": 5,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}

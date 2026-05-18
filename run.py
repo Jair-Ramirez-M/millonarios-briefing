@@ -37,6 +37,7 @@ LEDGER_FILE = DATA / "ledger.json"
 LOCK_FILE = CFG / "channels.lock.json"
 FEEDBACK_FILE = CFG / "feedback.json"
 BRIEFING_FILE = SITE_DATA / "briefing.json"
+SOURCES_FILE = SITE_DATA / "sources.json"
 
 
 def _load_cfg():
@@ -57,6 +58,14 @@ def cmd_collect(settings, sources) -> list:
                                     settings.get("retention_days", 21))
     pipeline.save_json(ITEMS_FILE, merged)
     print(f"Historial: {len(merged)} items ({len(fresh)} en este lote)")
+
+    # Publica el estado de las fuentes para el dashboard.
+    import datetime as _dt
+    stats = collectors.get_last_stats()
+    pipeline.save_json(SOURCES_FILE, {
+        "generated_at": _dt.datetime.now(_dt.timezone.utc).isoformat(),
+        "sources": stats,
+    })
     return merged
 
 

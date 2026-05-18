@@ -227,6 +227,27 @@
     text-decoration:none;border-bottom:1px dashed var(--line)}
   .tn-link:hover{color:#fff}
 
+  /* ── Fuentes monitoreadas ───────────────────────────────────────────── */
+  .sources-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(188px,1fr));gap:10px}
+  .src-card{background:var(--surface);border:1px solid var(--line-soft);border-radius:12px;
+    padding:13px 14px;transition:.16s}
+  .src-card:hover{border-color:var(--azul)}
+  .src-card-top{display:flex;align-items:center;gap:7px;margin-bottom:9px}
+  .src-type{font-size:9.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
+    padding:2px 7px;border-radius:5px;background:var(--surface-2);color:var(--ink-faint);
+    border:1px solid var(--line)}
+  .src-dot{width:7px;height:7px;border-radius:50%;margin-left:auto;flex:none}
+  .src-dot.ok{background:var(--ok);box-shadow:0 0 0 3px rgba(63,215,160,.2)}
+  .src-dot.vacio{background:var(--warn)}
+  .src-dot.error{background:var(--bad);box-shadow:0 0 0 3px rgba(255,91,110,.2)}
+  .src-card-name{font-size:12.5px;font-weight:600;color:var(--ink);
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-bottom:3px}
+  .src-card-handle{font-family:'JetBrains Mono',monospace;font-size:10px;
+    color:var(--ink-faint);margin-bottom:8px}
+  .src-card-stat{font-family:'JetBrains Mono',monospace;font-size:11px;
+    color:var(--ink-mute)}
+  .src-card-stat b{color:var(--azul-soft);font-weight:700}
+
   /* ── Feedback de relevancia ─────────────────────────────────────────── */
   .item{cursor:default}
   .item-link{color:inherit;text-decoration:none;display:block;font-size:14px;color:#e6e9ff}
@@ -360,7 +381,7 @@ function esc(s){const d=document.createElement("div");d.textContent=s||"";return
 
 async function load(){
   const c = document.getElementById("content");
-  let data;
+  let data, sourcesData = null;
   try{
     const r = await fetch("./data/briefing.json?ts="+Date.now());
     if(!r.ok) throw new Error(r.status);
@@ -372,10 +393,14 @@ async function load(){
     document.getElementById("genDate").textContent = "sin datos";
     return;
   }
-  render(data);
+  try{
+    const rs = await fetch("./data/sources.json?ts="+Date.now());
+    if(rs.ok) sourcesData = await rs.json();
+  }catch(e){}
+  render(data, sourcesData);
 }
 
-function render(d){
+function render(d, sourcesData){
   RUMORS = d.rumors || [];
   document.getElementById("shiftLabel").textContent = d.shift_label || "Briefing";
   const gen = new Date(d.generated_at);
@@ -491,6 +516,35 @@ function render(d){
       El ranking de fuentes se construye a medida que los rumores se resuelven.
       Marca desenlaces con <span class="mono">python run.py resolve</span>
       y la tabla cobrará vida.</div>`;
+  }
+
+  // 04 — Fuentes Monitoreadas
+  const TYPE_LABEL = {youtube:"YouTube", twitter:"X / Twitter", rss:"RSS",
+                      scrape:"Web", tineus:"Prensa"};
+  const srcList = (sourcesData && sourcesData.sources) || [];
+  const totalOk = srcList.filter(s=>s.status==="ok").length;
+  html += secHead("04","Fuentes Monitoreadas",
+    `${srcList.length} configuradas · ${totalOk} activas en el último run`);
+  if(srcList.length){
+    html += `<div class="sources-grid">` + srcList.map(s=>{
+      const typeLabel = TYPE_LABEL[s.type] || s.type;
+      const dotCls   = s.status === "ok" ? "ok" : s.status === "vacio" ? "vacio" : "error";
+      const statTxt  = s.status === "error"
+        ? `<span style="color:var(--bad)">Sin acceso</span>`
+        : `<b>${s.items}</b> items`;
+      return `<div class="src-card">
+        <div class="src-card-top">
+          ${tierBadge(s.tier)}
+          <span class="src-type">${esc(typeLabel)}</span>
+          <span class="src-dot ${dotCls}" title="${s.status}"></span>
+        </div>
+        <div class="src-card-name" title="${esc(s.name)}">${esc(s.name)}</div>
+        <div class="src-card-handle">${esc(s.handle)}</div>
+        <div class="src-card-stat">${statTxt}</div>
+      </div>`;
+    }).join("") + `</div>`;
+  } else {
+    html += `<div class="empty">Las estadísticas de fuentes aparecen tras el primer run completo.</div>`;
   }
 
   document.getElementById("content").innerHTML = html;

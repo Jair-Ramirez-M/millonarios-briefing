@@ -94,3 +94,39 @@ rss:
     type: prensa
     tier: 2
     weight: 0.60
+  - url: "https://www.futbolred.com/rss/futbol-colombiano"
+    name: "Futbolred"
+    type: prensa
+    tier: 2
+    weight: 0.65
+
+# Cuentas de X / Twitter (se leen via Nitter RSS — sin costo, sin API key).
+# Agrega mas handles aqui; Nitter soporta cualquier cuenta publica.
+# IMPORTANTE: si Eduardo Luis cubre varios equipos, aplica filtro en feedback.json:
+#   "source_filters": {"@EduardoLuis": "require_keywords"}
+twitter:
+  - handle: "@MillonariosFC"
+    name: "Millonarios FC (X Oficial)"
+    type: oficial
+    tier: 0
+    weight: 1.0
+  - handle: "@EduardoLuisR"
+    name: "Eduardo Luis (X)"
+    type: periodista
+    tier: 1
+    weight: 0.60
+  - handle: "@WintorBarrera"
+    name: "Wintor Barrera (X)"
+    type: periodista
+    tier: 1
+    weight: 0.60
+  - handle: "@CasaleSports"
+    name: "Casale Sports (X)"
+    type: periodista
+    tier: 2
+    weight: 0.55
+  - handle: "@futbolred"
+    name: "Futbolred (X)"
+    type: prensa
+    tier: 2
+    weight: 0.65

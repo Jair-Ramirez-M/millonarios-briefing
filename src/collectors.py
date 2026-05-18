@@ -35,6 +35,22 @@ UA = {"User-Agent": "Mozilla/5.0 (compatible; MillosBriefingBot/1.0; +github-act
 YT_RSS = "https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
 UTC = dt.timezone.utc
 
+# Instancias Nitter (frontend alternativo de X) con RSS gratuito.
+# Se prueban en orden; si una falla se intenta la siguiente.
+NITTER_INSTANCES = [
+    "https://nitter.privacydev.net",
+    "https://nitter.poast.org",
+    "https://xcancel.com",
+    "https://nitter.1d4.us",
+]
+
+# ── Estadísticas del último run (se rellenan en collect_all) ────────────────
+_LAST_STATS: list[dict] = []
+
+def get_last_stats() -> list[dict]:
+    """Devuelve las estadísticas de recolección del último run."""
+    return list(_LAST_STATS)
+
 # Python 3.12+ genera SSLEOFError con YouTube. Suprimimos la advertencia y
 # usamos verify=False solo para peticiones a dominios de Google/YouTube
 # (datos públicos, no enviamos credenciales).
@@ -229,7 +245,13 @@ def collect_youtube(channels: list[dict], cache: dict) -> list[dict]:
                 "published": _iso_from_struct(e.get("published_parsed")),
                 "thumbnail": _yt_thumb(e),
             })
-        print(f"  + YouTube {ch['name']}: {len(feed.entries)} videos")
+        n = len(feed.entries)
+        print(f"  + YouTube {ch['name']}: {n} videos")
+        _LAST_STATS.append({
+            "name": ch["name"], "handle": ch["handle"],
+            "type": "youtube", "tier": int(ch.get("tier", 3)),
+            "items": n, "status": "ok" if n > 0 else "vacio",
+        })
         time.sleep(0.3)  # cortesia
     return items
 
@@ -320,18 +342,28 @@ def collect_tineus(url: str, name: str, type_: str, weight: float) -> list[dict]
         })
 
     print(f"  + Tineus: {len(items)} titulares de prensa")
+    _LAST_STATS.append({
+        "name": name, "handle": "tineus.co",
+        "type": "scrape", "tier": 2,
+        "items": len(items), "status": "ok" if items else "error",
+    })
     return items
 
 
 # --------------------------------------------------------------------------
 # RSS generico (para webs que en el futuro tengan feed propio)
 # --------------------------------------------------------------------------
-def collect_rss(url: str, name: str, type_: str, weight: float) -> list[dict]:
+def collect_rss(url: str, name: str, type_: str, weight: float,
+                tier: int = 2) -> list[dict]:
     items: list[dict] = []
     try:
-        feed = feedparser.parse(url)
+        r = requests.get(url, headers=UA, timeout=20, verify=False)
+        feed = feedparser.parse(r.text if r.status_code == 200 else "")
     except Exception as exc:
         print(f"  ! RSS {name} fallo: {exc}")
+        _LAST_STATS.append({"name": name, "handle": _domain(url),
+                             "type": "rss", "tier": tier,
+                             "items": 0, "status": "error"})
         return items
 
     for e in feed.entries:
@@ -340,7 +372,7 @@ def collect_rss(url: str, name: str, type_: str, weight: float) -> list[dict]:
             "source": name,
             "source_handle": _domain(url),
             "source_type": type_,
-            "source_tier": 2,                 # prensa con RSS propio: tier 2 por defecto
+            "source_tier": tier,
             "source_weight": float(weight),
             "title": e.get("title", "").strip(),
             "summary": re.sub(r"<[^>]+>", "", e.get("summary", ""))[:600],
@@ -350,6 +382,61 @@ def collect_rss(url: str, name: str, type_: str, weight: float) -> list[dict]:
             "thumbnail": "",
         })
     print(f"  + RSS {name}: {len(items)} entradas")
+    _LAST_STATS.append({"name": name, "handle": _domain(url),
+                         "type": "rss", "tier": tier,
+                         "items": len(items),
+                         "status": "ok" if items else "vacio"})
+    return items
+
+
+# --------------------------------------------------------------------------
+# Twitter / X  (via Nitter RSS — gratuito, sin API key)
+# --------------------------------------------------------------------------
+def collect_twitter_nitter(accounts: list[dict]) -> list[dict]:
+    """Recolecta tweets recientes via Nitter RSS con fallback entre instancias."""
+    items: list[dict] = []
+    for acc in accounts:
+        handle = acc["handle"].lstrip("@")
+        found = 0
+        status = "error"
+        for base in NITTER_INSTANCES:
+            try:
+                rss_url = f"{base}/{handle}/rss"
+                r = requests.get(rss_url, headers=UA, timeout=12, verify=False)
+                if r.status_code != 200:
+                    continue
+                feed = feedparser.parse(r.text)
+                if not feed.entries:
+                    continue
+                for e in feed.entries[:15]:
+                    title = re.sub(r"<[^>]+>", "", e.get("title", "")).strip()
+                    summary = re.sub(r"<[^>]+>", "", e.get("summary", "")).strip()[:500]
+                    items.append({
+                        "origin":        "twitter",
+                        "source":        acc.get("name", f"@{handle}"),
+                        "source_handle": f"@{handle}",
+                        "source_type":   acc.get("type", "periodista"),
+                        "source_tier":   int(acc.get("tier", 2)),
+                        "source_weight": float(acc.get("weight", 0.6)),
+                        "title":         title or summary[:120],
+                        "summary":       summary,
+                        "url":           e.get("link", ""),
+                        "published":     _iso_from_struct(e.get("published_parsed")),
+                        "thumbnail":     "",
+                    })
+                found = len(feed.entries)
+                status = "ok"
+                break   # instancia funcionó, no probamos más
+            except Exception:
+                continue
+        print(f"  + X/Twitter @{handle}: {found} tweets"
+              + ("" if status == "ok" else " (sin acceso a Nitter)"))
+        _LAST_STATS.append({
+            "name": acc.get("name", f"@{handle}"),
+            "handle": f"@{handle}",
+            "type": "twitter", "tier": int(acc.get("tier", 2)),
+            "items": found, "status": status,
+        })
     return items
 
 
@@ -358,6 +445,8 @@ def collect_rss(url: str, name: str, type_: str, weight: float) -> list[dict]:
 # --------------------------------------------------------------------------
 def collect_all(sources: dict, channel_cache: dict) -> list[dict]:
     """Ejecuta todos los recolectores definidos en config/sources.yaml."""
+    global _LAST_STATS
+    _LAST_STATS = []   # reset al inicio de cada run
     items: list[dict] = []
 
     if sources.get("youtube"):
@@ -374,7 +463,13 @@ def collect_all(sources: dict, channel_cache: dict) -> list[dict]:
     for s in sources.get("rss", []):
         print(f"Recolectando {s['name']}...")
         items += collect_rss(s["url"], s["name"],
-                             s.get("type", "prensa"), s.get("weight", 0.5))
+                             s.get("type", "prensa"),
+                             s.get("weight", 0.5),
+                             int(s.get("tier", 2)))
+
+    if sources.get("twitter"):
+        print("Recolectando X / Twitter (via Nitter)...")
+        items += collect_twitter_nitter(sources["twitter"])
 
     print(f"Total recolectado: {len(items)} items crudos")
     return items
