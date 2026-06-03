@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T16:39:31.586072+00:00",
+  "generated_at": "2026-06-03T03:38:57.031862+00:00",
   "sources": [
     {
       "name": "Millonarios FC (Canal Oficial)",
@@ -86,8 +86,8 @@
       "handle": "@BarbaAzul1946",
       "type": "youtube",
       "tier": 3,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Noticias Millonarios FC",
