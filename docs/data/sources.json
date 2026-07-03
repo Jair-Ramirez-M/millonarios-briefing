@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T14:09:25.258828+00:00",
+  "generated_at": "2026-07-03T02:32:02.471447+00:00",
   "sources": [
     {
       "name": "Millonarios FC (Canal Oficial)",
@@ -118,8 +118,8 @@
       "handle": "espn.com",
       "type": "rss",
       "tier": 2,
-      "items": 59,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Futbolred",
@@ -134,8 +134,8 @@
       "handle": "@MillonariosFC",
       "type": "twitter",
       "tier": 0,
-      "items": 0,
-      "status": "error"
+      "items": 1,
+      "status": "ok"
     },
     {
       "name": "Eduardo Luis (X)",
@@ -166,8 +166,8 @@
       "handle": "@futbolred",
       "type": "twitter",
       "tier": 2,
-      "items": 0,
-      "status": "error"
+      "items": 1,
+      "status": "ok"
     }
   ]
 }
