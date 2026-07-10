@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T02:33:28.710899+00:00",
+  "generated_at": "2026-07-10T14:33:41.873569+00:00",
   "sources": [
     {
       "name": "Millonarios FC (Canal Oficial)",
@@ -66,14 +66,6 @@
       "status": "ok"
     },
     {
-      "name": "Dimension Azul 1946",
-      "handle": "@dimensionazul1946",
-      "type": "youtube",
-      "tier": 3,
-      "items": 15,
-      "status": "ok"
-    },
-    {
       "name": "Noticias Millos",
       "handle": "@NoticiasMillos",
       "type": "youtube",
@@ -118,7 +110,7 @@
       "handle": "espn.com",
       "type": "rss",
       "tier": 2,
-      "items": 49,
+      "items": 45,
       "status": "ok"
     },
     {
