@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T01:58:21.150258+00:00",
+  "generated_at": "2026-07-15T13:48:52.993693+00:00",
   "sources": [
     {
       "name": "Millonarios FC (Canal Oficial)",
@@ -134,40 +134,40 @@
       "handle": "@MillonariosFC",
       "type": "twitter",
       "tier": 0,
-      "items": 1,
-      "status": "ok"
+      "items": 0,
+      "status": "error"
     },
     {
       "name": "Eduardo Luis (X)",
       "handle": "@EduardoLuisR",
       "type": "twitter",
       "tier": 1,
-      "items": 1,
-      "status": "ok"
+      "items": 0,
+      "status": "error"
     },
     {
       "name": "Wintor Barrera (X)",
       "handle": "@WintorBarrera",
       "type": "twitter",
       "tier": 1,
-      "items": 1,
-      "status": "ok"
+      "items": 0,
+      "status": "error"
     },
     {
       "name": "Casale Sports (X)",
       "handle": "@CasaleSports",
       "type": "twitter",
       "tier": 2,
-      "items": 1,
-      "status": "ok"
+      "items": 0,
+      "status": "error"
     },
     {
       "name": "Futbolred (X)",
       "handle": "@futbolred",
       "type": "twitter",
       "tier": 2,
-      "items": 1,
-      "status": "ok"
+      "items": 0,
+      "status": "error"
     }
   ]
 }
