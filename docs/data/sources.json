@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T01:18:12.321112+00:00",
+  "generated_at": "2026-08-09T12:56:00.798777+00:00",
   "sources": [
     {
       "name": "Millonarios FC (Canal Oficial)",
@@ -126,8 +126,8 @@
       "handle": "futbolred.com",
       "type": "rss",
       "tier": 2,
-      "items": 0,
-      "status": "error"
+      "items": 20,
+      "status": "ok"
     },
     {
       "name": "Millonarios FC (X Oficial)",
