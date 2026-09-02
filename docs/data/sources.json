@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:32:04.002063+00:00",
+  "generated_at": "2026-09-02T16:12:20.810368+00:00",
   "sources": [
     {
       "name": "Millonarios FC (Canal Oficial)",
@@ -14,40 +14,48 @@
       "handle": "@EduardoLuisOficial",
       "type": "youtube",
       "tier": 1,
-      "items": 0,
-      "status": "vacio"
+      "items": 15,
+      "status": "ok"
     },
     {
       "name": "Guillo Arango",
       "handle": "@GuilloArango",
       "type": "youtube",
       "tier": 2,
-      "items": 0,
-      "status": "vacio"
+      "items": 15,
+      "status": "ok"
     },
     {
       "name": "Casale Sports",
       "handle": "@CasaleSports",
       "type": "youtube",
       "tier": 2,
-      "items": 0,
-      "status": "vacio"
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Pache Andrade Multimedia",
+      "handle": "@pacheandrademultimedia",
+      "type": "youtube",
+      "tier": 2,
+      "items": 15,
+      "status": "ok"
     },
     {
       "name": "Los Millonarios .NET TV",
       "handle": "@LosMillonariosNetTV",
       "type": "youtube",
       "tier": 3,
-      "items": 0,
-      "status": "vacio"
+      "items": 15,
+      "status": "ok"
     },
     {
       "name": "Las 5 de Millos",
       "handle": "@Las5DeMillos",
       "type": "youtube",
       "tier": 3,
-      "items": 0,
-      "status": "vacio"
+      "items": 15,
+      "status": "ok"
     },
     {
       "name": "Casa Azul Radio TV",
@@ -62,16 +70,32 @@
       "handle": "@dimensionazul1946",
       "type": "youtube",
       "tier": 3,
-      "items": 0,
-      "status": "vacio"
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Noticias Millos",
+      "handle": "@NoticiasMillos",
+      "type": "youtube",
+      "tier": 3,
+      "items": 15,
+      "status": "ok"
+    },
+    {
+      "name": "Barba Azul 1946",
+      "handle": "@BarbaAzul1946",
+      "type": "youtube",
+      "tier": 3,
+      "items": 15,
+      "status": "ok"
     },
     {
       "name": "Noticias Millonarios FC",
       "handle": "@NoticiasMillonariosFC",
       "type": "youtube",
       "tier": 3,
-      "items": 0,
-      "status": "vacio"
+      "items": 15,
+      "status": "ok"
     },
     {
       "name": "Tineus (agregador de prensa)",
