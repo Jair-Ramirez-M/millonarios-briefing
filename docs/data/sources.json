@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T15:08:53.057305+00:00",
+  "generated_at": "2026-09-07T02:31:38.991150+00:00",
   "sources": [
     {
       "name": "Millonarios FC (Canal Oficial)",
@@ -95,14 +95,6 @@
       "type": "youtube",
       "tier": 3,
       "items": 15,
-      "status": "ok"
-    },
-    {
-      "name": "Tineus (agregador de prensa)",
-      "handle": "tineus.co",
-      "type": "scrape",
-      "tier": 2,
-      "items": 50,
       "status": "ok"
     },
     {
