@@ -1,56 +1,16 @@
 {
-  "generated_at": "2026-10-11T12:30:15.522852-05:00",
-  "shift": "manana",
-  "shift_label": "Edicion Manana",
+  "generated_at": "2026-10-11T22:59:11.020008-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
   "team": "Millonarios FC",
   "stats": {
     "items": 0,
     "sources": 0,
-    "rumors": 6
+    "rumors": 3
   },
   "summary": "No hubo publicaciones nuevas de las fuentes monitoreadas en esta ventana de tiempo.",
   "items": [],
   "rumors": [
-    {
-      "tema": "salida-nacional-va-con",
-      "titulo": "🚨NACIONAL VA CON TODOS LOS MUÑECOS! | MILLOS TENDRÁ UN CLIMA HOSTIL? | RODALLEGA SE VA DE SANTA FE?",
-      "categoria": "Salida",
-      "status": "desarrollo",
-      "score": 80,
-      "first_source": "Eduardo Luis",
-      "timeline": [
-        {
-          "source": "Eduardo Luis",
-          "handle": "@EduardoLuisOficial",
-          "tier": 1,
-          "postura": "afirma",
-          "when": "2026-10-08T18:21:44+00:00",
-          "url": "https://www.youtube.com/watch?v=SFDEaXCE0Ro",
-          "is_first": true,
-          "when_label": "8 oct 13:21"
-        }
-      ]
-    },
-    {
-      "tema": "interes-llegó",
-      "titulo": "¿Llegó la hora de VENDER Millonarios? El síntoma del fracaso que nadie quiere admitir",
-      "categoria": "Interes",
-      "status": "desarrollo",
-      "score": 62,
-      "first_source": "Casale Sports",
-      "timeline": [
-        {
-          "source": "Casale Sports",
-          "handle": "@CasaleSports",
-          "tier": 2,
-          "postura": "afirma",
-          "when": "2026-10-07T21:00:15+00:00",
-          "url": "https://www.youtube.com/shorts/iOZRgTDd3qg",
-          "is_first": true,
-          "when_label": "7 oct 16:00"
-        }
-      ]
-    },
     {
       "tema": "renovacion-siete",
       "titulo": "Siete en la puerta de salida y solo uno renovaría con Millonarios",
@@ -68,26 +28,6 @@
           "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-rodrigo-contreras-seria-el-unico-de-siete-que-renueva-606063",
           "is_first": true,
           "when_label": "7 oct 19:35"
-        }
-      ]
-    },
-    {
-      "tema": "interes-bustos",
-      "titulo": "Bustos quiere a Ureña y a Souza: ¿qué respondemos?",
-      "categoria": "Interes",
-      "status": "desarrollo",
-      "score": 62,
-      "first_source": "Pache Andrade Multimedia",
-      "timeline": [
-        {
-          "source": "Pache Andrade Multimedia",
-          "handle": "@pacheandrademultimedia",
-          "tier": 2,
-          "postura": "afirma",
-          "when": "2026-10-07T06:26:42+00:00",
-          "url": "https://www.youtube.com/watch?v=R12aDsqIrnk",
-          "is_first": true,
-          "when_label": "7 oct 01:26"
         }
       ]
     },
@@ -134,54 +74,9 @@
   ],
   "sources": [
     {
-      "handle": "@EduardoLuisOficial",
-      "name": "Eduardo Luis",
-      "type": "periodista",
-      "tier": 1,
-      "n_claims": 1,
-      "hits": 0,
-      "misses": 0,
-      "scoops": 0,
-      "humo": 0,
-      "resolved": 0,
-      "accuracy": null,
-      "humo_rate": 0,
-      "tier_earned": "Sin datos"
-    },
-    {
-      "handle": "@CasaleSports",
-      "name": "Casale Sports",
-      "type": "periodista",
-      "tier": 2,
-      "n_claims": 1,
-      "hits": 0,
-      "misses": 0,
-      "scoops": 0,
-      "humo": 0,
-      "resolved": 0,
-      "accuracy": null,
-      "humo_rate": 0,
-      "tier_earned": "Sin datos"
-    },
-    {
       "handle": "colombia.com",
       "name": "Colombia.com",
       "type": "prensa",
-      "tier": 2,
-      "n_claims": 1,
-      "hits": 0,
-      "misses": 0,
-      "scoops": 0,
-      "humo": 0,
-      "resolved": 0,
-      "accuracy": null,
-      "humo_rate": 0,
-      "tier_earned": "Sin datos"
-    },
-    {
-      "handle": "@pacheandrademultimedia",
-      "name": "Pache Andrade Multimedia",
-      "type": "periodista",
       "tier": 2,
       "n_claims": 1,
       "hits": 0,

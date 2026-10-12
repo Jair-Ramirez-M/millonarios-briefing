@@ -1,0 +1,122 @@
+{
+  "generated_at": "2026-10-11T22:59:11.020008-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 0,
+    "sources": 0,
+    "rumors": 3
+  },
+  "summary": "No hubo publicaciones nuevas de las fuentes monitoreadas en esta ventana de tiempo.",
+  "items": [],
+  "rumors": [
+    {
+      "tema": "renovacion-siete",
+      "titulo": "Siete en la puerta de salida y solo uno renovaría con Millonarios",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T19:35:00-05:00",
+          "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-rodrigo-contreras-seria-el-unico-de-siete-que-renueva-606063",
+          "is_first": true,
+          "when_label": "7 oct 19:35"
+        }
+      ]
+    },
+    {
+      "tema": "interes-james",
+      "titulo": "James, Cuadrado y Quintero: los millonarios negocios con los que también “juegan” fuera de la cancha",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "As",
+      "timeline": [
+        {
+          "source": "As",
+          "handle": "elcolombiano.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-05T22:47:00-05:00",
+          "url": "https://www.elcolombiano.com/negocios/negocios-james-rodriguez-cuadrado-quintero-fuera-cancha-LO41921785",
+          "is_first": true,
+          "when_label": "5 oct 22:47"
+        }
+      ]
+    },
+    {
+      "tema": "salida-leonai",
+      "titulo": "Leonai rompe el silencio en Millonarios tras la salida de Bustos: “No voy a dejar de hacer las cosas bien”",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-02T20:32:00-05:00",
+          "url": "https://primertiempo.co/futbol/leonai-rompe-el-silencio-en-millonarios-tras-la-salida-de-bustos-no-voy-a-dejar-de-hacer-las-cosas-bien/",
+          "is_first": true,
+          "when_label": "2 oct 20:32"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "elcolombiano.com",
+      "name": "As",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
