@@ -1,0 +1,284 @@
+{
+  "generated_at": "2026-10-12T16:03:21.061582-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 7,
+    "sources": 4,
+    "rumors": 5
+  },
+  "summary": "Se procesaron 7 publicaciones de 4 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: ¿Millonarios de Alberto Gamero entra en crisis?Eliminación y dudas en la Liga BetPlay; Millonarios recupera a Julián Angulo y Once Caldas recibe una noticia clave con Dayro Moreno; Balompié Positivo se coronó campeón del Festival Social Azul y Blanco de Millonarios en Cartagena.",
+  "items": [
+    {
+      "id": "27b309e86cd235a7",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Millonarios de Alberto Gamero entra en crisis?Eliminación y dudas en la Liga BetPlay",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "16:03",
+      "url": "https://primertiempo.co/futbol/millonarios-de-alberto-gamero-entra-en-crisiseliminacion-y-dudas-en-la-liga-betplay/"
+    },
+    {
+      "id": "e722b0346db1cff9",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Millonarios recupera a Julián Angulo y Once Caldas recibe una noticia clave con Dayro Moreno",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "16:03",
+      "url": "https://primertiempo.co/futbol/millonarios-recupera-a-julian-angulo-y-once-caldas-recibe-una-noticia-clave-con-dayro-moreno/"
+    },
+    {
+      "id": "60d806eaf83752ad",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Balompié Positivo se coronó campeón del Festival Social Azul y Blanco de Millonarios en Cartagena",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "16:03",
+      "url": "https://primertiempo.co/futbol/balompie-positivo-se-corono-campeon-del-festival-social-azul-y-blanco-de-millonarios-en-cartagena/"
+    },
+    {
+      "id": "57dbde55d0e7cace",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "EN VIVO | ¿Quién frena al Barça y al City? 🔥 Colombianos en el radar + Previa de Champions",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "14:25",
+      "url": "https://www.youtube.com/watch?v=ntqVOtvVT4E"
+    },
+    {
+      "id": "8c50e665fada064b",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🚨 JUNIOR QUEDÓ NOCAUT |💥 SE CAE AMÉRICA? TRIUNFAZO DEL DIM | 🫓 SANTA FE CLASIFICÓ | ONCE REVIVE?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "13:44",
+      "url": "https://www.youtube.com/watch?v=5j70ohh92UQ"
+    },
+    {
+      "id": "622962e283ef54e0",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "AMÉRICA DE CALI VS MEDELLÍN EN VIVO. PREVIA MEDALLO PARA TODOS DESDE EL PASCUAL GUERRERO.",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "07:30",
+      "url": "https://www.youtube.com/watch?v=OFzWHio_Rjo"
+    },
+    {
+      "id": "5600f33d9411a016",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "⛰️ ¡CONTRA TODO PRONÓSTICO! SIN SUS FIGURAS, EL DIM VENCIÓ 2-1 AL AMÉRICA 👹 EN EL PASCUAL",
+      "source": "Guillo Arango",
+      "source_handle": "@GuilloArango",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:19",
+      "url": "https://www.youtube.com/watch?v=2C5uTsyeOPU"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "salida-nacional-va-con",
+      "titulo": "🚨NACIONAL VA CON TODOS LOS MUÑECOS! | MILLOS TENDRÁ UN CLIMA HOSTIL? | RODALLEGA SE VA DE SANTA FE?",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 80,
+      "first_source": "Eduardo Luis",
+      "timeline": [
+        {
+          "source": "Eduardo Luis",
+          "handle": "@EduardoLuisOficial",
+          "tier": 1,
+          "postura": "afirma",
+          "when": "2026-10-08T18:21:44+00:00",
+          "url": "https://www.youtube.com/watch?v=SFDEaXCE0Ro",
+          "is_first": true,
+          "when_label": "8 oct 13:21"
+        }
+      ]
+    },
+    {
+      "tema": "interes-llegó",
+      "titulo": "¿Llegó la hora de VENDER Millonarios? El síntoma del fracaso que nadie quiere admitir",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Casale Sports",
+      "timeline": [
+        {
+          "source": "Casale Sports",
+          "handle": "@CasaleSports",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T21:00:15+00:00",
+          "url": "https://www.youtube.com/shorts/iOZRgTDd3qg",
+          "is_first": true,
+          "when_label": "7 oct 16:00"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-siete",
+      "titulo": "Siete en la puerta de salida y solo uno renovaría con Millonarios",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T19:35:00-05:00",
+          "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-rodrigo-contreras-seria-el-unico-de-siete-que-renueva-606063",
+          "is_first": true,
+          "when_label": "7 oct 19:35"
+        }
+      ]
+    },
+    {
+      "tema": "interes-bustos",
+      "titulo": "Bustos quiere a Ureña y a Souza: ¿qué respondemos?",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Pache Andrade Multimedia",
+      "timeline": [
+        {
+          "source": "Pache Andrade Multimedia",
+          "handle": "@pacheandrademultimedia",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T06:26:42+00:00",
+          "url": "https://www.youtube.com/watch?v=R12aDsqIrnk",
+          "is_first": true,
+          "when_label": "7 oct 01:26"
+        }
+      ]
+    },
+    {
+      "tema": "interes-james",
+      "titulo": "James, Cuadrado y Quintero: los millonarios negocios con los que también “juegan” fuera de la cancha",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "As",
+      "timeline": [
+        {
+          "source": "As",
+          "handle": "elcolombiano.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-05T22:47:00-05:00",
+          "url": "https://www.elcolombiano.com/negocios/negocios-james-rodriguez-cuadrado-quintero-fuera-cancha-LO41921785",
+          "is_first": true,
+          "when_label": "5 oct 22:47"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "@EduardoLuisOficial",
+      "name": "Eduardo Luis",
+      "type": "periodista",
+      "tier": 1,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@CasaleSports",
+      "name": "Casale Sports",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@pacheandrademultimedia",
+      "name": "Pache Andrade Multimedia",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "elcolombiano.com",
+      "name": "As",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
