@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-10-13T22:15:06.678651-05:00",
-  "shift": "tarde",
-  "shift_label": "Edicion Tarde",
+  "generated_at": "2026-10-14T11:46:52.430536-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
   "team": "Millonarios FC",
   "stats": {
-    "items": 15,
-    "sources": 8,
-    "rumors": 2
+    "items": 36,
+    "sources": 15,
+    "rumors": 5
   },
-  "summary": "Se procesaron 15 publicaciones de 7 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Videos | Ausencia en El Campín: Cancelaron el partido entre Millonarios y Once Caldas por el “lamentable” estado de la cancha; Millonarios - Once Caldas, cancelado por estado del campo; Dimayor canceló Millonarios vs. Once Caldas por el mal estado de la cancha de El Campín.",
+  "summary": "Se procesaron 36 publicaciones de 14 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Dimayor canceló el partido entre Millonarios y Once Caldas por el pésimo estado del terreno de juego del Estadio El Campín; Videos | Ausencia en El Campín: Cancelaron el partido entre Millonarios y Once Caldas por el “lamentable” estado de la cancha; Millonarios - Once Caldas, cancelado por estado del campo.",
   "items": [
+    {
+      "id": "deed968abdbe7c5b",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Dimayor canceló el partido entre Millonarios y Once Caldas por el pésimo estado del terreno de juego del Estadio El Campín",
+      "source": "El Pais Cali",
+      "source_handle": "elpais.com.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "11:46",
+      "url": "https://www.elpais.com.co/deportes/dimayor-cancelo-el-partido-entre-millonarios-y-once-caldas-por-el-pesimo-estado-del-terreno-de-juego-del-estadio-el-campin-1343.html"
+    },
     {
       "id": "6f297b426457ddef",
       "tag": "Partido",
@@ -20,7 +33,7 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "22:15",
+      "time": "11:46",
       "url": "https://www.elcolombiano.com/deportes/futbol/videos-cancelan-partido-millonarios-vs-once-caldas-lamentable-estado-cancha-DH42235024"
     },
     {
@@ -33,7 +46,7 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "22:15",
+      "time": "11:46",
       "url": "https://colombia.as.com/futbol/dimayor-anuncia-la-cancelacion-del-partido-entre-millonarios-y-once-caldas-por-estado-del-campo-f202610-n/"
     },
     {
@@ -46,7 +59,7 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "22:15",
+      "time": "11:46",
       "url": "https://www.elespectador.com/deportes/futbol-colombiano/dimayor-cancelo-millonarios-vs-once-caldas-por-el-mal-estado-de-la-cancha-de-el-campin/"
     },
     {
@@ -59,7 +72,7 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "22:15",
+      "time": "11:46",
       "url": "https://primertiempo.co/futbol/escandalo-en-el-campin-cancelan-millonarios-vs-once-caldas-por-el-pesimo-estado-de-la-cancha/"
     },
     {
@@ -72,8 +85,190 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "22:15",
+      "time": "11:46",
       "url": "https://colombia.as.com/futbol/millonarios-vs-once-caldas-en-vivo-online-liga-betplay-en-directo-f202610-d/"
+    },
+    {
+      "id": "91417103215635f5",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🚨NACIONAL-DIM, ¿QUIÉN TIENE MÁS? |SANCIÓN A SENCIA? MILLOS Y SANTA FE SIN CASA | ROBARON A BÚCAROS?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "11:24",
+      "url": "https://www.youtube.com/watch?v=ogwvlsFVg1s"
+    },
+    {
+      "id": "08e100ba4c690f5b",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Sencia respondió por suspensión del partido Millonarios vs Once Caldas",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "10:57",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/sencia-respondio-por-la-suspension-de-millonarios-vs-once-caldas-razones-de-lios-con-gramilla-273924"
+    },
+    {
+      "id": "07be8670cc1f1eb5",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "SE CANCELÓ EL PARTIDO DE MILLONARIOS POR LA GRAMILLA DEL CAMPÍN ¿QUÉ PASÓ? - MUJERES AZULES EN VIVO",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "10:36",
+      "url": "https://www.youtube.com/watch?v=Mi_ROQc09gU"
+    },
+    {
+      "id": "159d099a612f56ec",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Familia de Putumayo, dolida por aplazamiento de Millos vs Once Caldas",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "10:15",
+      "url": "https://www.futbolred.com/curiosidades-de-futbol/video-familia-viajo-desde-putumayo-a-bogota-para-millonarios-vs-once-caldas-sueno-frustrado-273919"
+    },
+    {
+      "id": "c1243e96843eedf6",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "MILLONARIOS VS ONCE CALDAS - TRANSMISIÓN RADIAL 1040 COLMUNDO- LA CASA AZUL RADIO - FECHA 13°",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "09:56",
+      "url": "https://www.youtube.com/watch?v=ffPT3ID83RU"
+    },
+    {
+      "id": "dac49e69e8b80ad6",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵 SENCIA INCUMPLIÓ Y MILLOS SE QUEDA SIN ESTADIO? CALDAS PEDIRÁ LOS PUNTOS? HABRÁ SANCIÓN DEL IDRD?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "09:42",
+      "url": "https://www.youtube.com/watch?v=sWiZ_uOgymQ"
+    },
+    {
+      "id": "ccb8fcde4f3dd9ab",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "EN VIVO: Resultados y Mejores Cuotas en Shanghai + El Ranking de los Colombianos en el Mundo",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "08:57",
+      "url": "https://www.youtube.com/watch?v=BT_9wdeIkZU"
+    },
+    {
+      "id": "8359c5c411b1fe44",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios vs Once Caldas EN VIVO: partido cancelado por Dimayor",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "06:36",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-once-caldas-en-vivo-minuto-a-minuto-aplazado-fecha-13-liga-betplay-2026-ii-273908"
+    },
+    {
+      "id": "29859c6aa02e889d",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Qué sucederá con Millonarios vs Once Caldas? Dimayor dio más detalles",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "06:34",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/dimayor-explico-el-aplazamiento-de-millonarios-vs-once-caldas-y-posibilidad-de-que-pidan-los-puntos-273918"
+    },
+    {
+      "id": "a5b7a9c8bb7be888",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "PREVIA MILLONARIOS VS ONCE CALDAS: CONVOCATORIA, POSIBLE TITULAR | FECHA 13 EN VIVO",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "02:30",
+      "url": "https://www.youtube.com/watch?v=q_aL3UhXv34"
+    },
+    {
+      "id": "44f2df10758316b1",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios: GANAR O GANAR | A 8 puntos de clasificar",
+      "source": "Pache Andrade Multimedia",
+      "source_handle": "@pacheandrademultimedia",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "01:25",
+      "url": "https://www.youtube.com/watch?v=r8WxN7Zry7o"
+    },
+    {
+      "id": "466ede4917fc3510",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Aplazado Millonarios vs Once Caldas. Sencia mostró una cancha impresentable",
+      "source": "Los Millonarios .NET TV",
+      "source_handle": "@LosMillonariosNetTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "00:52",
+      "url": "https://www.youtube.com/watch?v=tgkCYQEB1c0"
+    },
+    {
+      "id": "5ad040bd95a750b6",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Aplazado Millonarios vs Once Caldas. Sencia mostró una cancha impresentable",
+      "source": "Las 5 de Millos",
+      "source_handle": "@Las5DeMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "00:17",
+      "url": "https://www.youtube.com/watch?v=LDHJrD9zp7A"
+    },
+    {
+      "id": "6d7580f6af39b0d0",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "¡UN ABSOLUTO PAPELÓN! La verdad detrás del desastre de la grama de El Campín | Antonio Casale",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "22:24",
+      "url": "https://www.youtube.com/watch?v=lqCv71yYs6o"
     },
     {
       "id": "53e2f361a01abcc0",
@@ -84,7 +279,7 @@
       "source_handle": "eltiempo.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:20",
       "url": "https://www.eltiempo.com/deportes/futbol-colombiano/el-partido-entre-millonarios-y-once-caldas-fue-cancelado-a-minutos-del-arranque-dimayor-explico-el-motivo-de-la-decision-3593350"
     },
@@ -97,35 +292,100 @@
       "source_handle": "futbolred.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:10",
       "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-once-caldas-fue-cancelado-por-dimayor-por-estado-del-estadio-el-campin-273912"
     },
     {
-      "id": "8359c5c411b1fe44",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "Millonarios vs Once Caldas EN VIVO: partido cancelado por Dimayor",
-      "source": "Futbolred",
-      "source_handle": "futbolred.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "20:19",
-      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-once-caldas-en-vivo-minuto-a-minuto-aplazado-fecha-13-liga-betplay-2026-ii-273908"
-    },
-    {
-      "id": "24549c07292defd9",
+      "id": "c0c3460ffaa569fb",
       "tag": "Plantel",
       "tipo": "noticia",
-      "title": "Millonarios recibe en El Campín a Once Caldas, con la presión de ganar ante la falta de resultados en la Liga BetPlay: siga el minuto a minuto",
-      "source": "El Tiempo Deportes",
-      "source_handle": "eltiempo.com",
-      "source_type": "prensa",
+      "title": "¿DIM VS NAL SIN VAR? INCREÍBLE LO DE JACKSON. ¿AHORA JUANFER? ¿FABRA LATERAL O PUNTERO? MPT CAP 20",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
-      "time": "19:48",
-      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-recibe-en-el-campin-a-once-caldas-con-la-presion-de-ganar-ante-la-falta-de-resultados-en-la-liga-betplay-siga-el-minuto-a-minuto-3593342"
+      "date": "Ayer",
+      "time": "19:59",
+      "url": "https://www.youtube.com/watch?v=GmU3GXD6LmY"
+    },
+    {
+      "id": "9baa7d2e8eeaeaae",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "EN VIVO: Millonarios vs. Once Caldas con Antonio Casale, Cristian Mejía y Chancho | Los de abajo",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "19:21",
+      "url": "https://www.youtube.com/watch?v=V7mq1T3FUI0"
+    },
+    {
+      "id": "15bf4cafa52f7c5c",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios FC vs Once Caldas",
+      "source": "Pache Andrade Multimedia",
+      "source_handle": "@pacheandrademultimedia",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "19:04",
+      "url": "https://www.youtube.com/watch?v=C5O72bQmaV8"
+    },
+    {
+      "id": "6e179b50a05d72b2",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Ⓜ️🎙️ CASA AZUL RADIO Recordamos las contundentes declaraciones de Miguel Ángel Russo",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "18:51",
+      "url": "https://www.youtube.com/shorts/7WxAsBh_BsA"
+    },
+    {
+      "id": "46c67daf59f90b33",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Ⓜ️ EL CIERRE ES AHORA O NUNCA Ⓜ️El margen de error para Millonarios se redujo al mínimo.",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "18:44",
+      "url": "https://www.youtube.com/shorts/Q0283ongJQc"
+    },
+    {
+      "id": "2d47903ad2791186",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Una de las incertidumbres es la ubicación de Cuadrado en el esquema de Gamero.",
+      "source": "Las 5 de Millos",
+      "source_handle": "@Las5DeMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "16:11",
+      "url": "https://www.youtube.com/shorts/1aYIEqyR9zQ"
+    },
+    {
+      "id": "8c1f7dec848b8705",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Una de las incertidumbres es la ubicación de Cuadrado en el esquema de Gamero.",
+      "source": "Los Millonarios .NET TV",
+      "source_handle": "@LosMillonariosNetTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "16:09",
+      "url": "https://www.youtube.com/shorts/p-dWfeGX8wM"
     },
     {
       "id": "c8077827689d23a5",
@@ -136,7 +396,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "20:33",
       "url": "https://www.colombia.com/futbol/copa-sudamericana/boca-juniors-vs-vasco-da-gama-dos-ex-millonarios-cara-a-cara-606880"
     },
@@ -149,7 +409,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "20:33",
       "url": "https://www.colombia.com/futbol/liga-colombiana/partidos-que-le-quedan-a-millonarios-en-la-liga-betplay-2026-ii-606845"
     },
@@ -162,7 +422,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "20:33",
       "url": "https://primertiempo.co/futbol/millonarios-enfrenta-cinco-finales-para-asegurar-su-clasificacion/"
     },
@@ -175,7 +435,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "20:33",
       "url": "https://primertiempo.co/futbol/millonarios-recibe-a-once-caldas-en-crucial-partido-por-la-liga-betplay/"
     },
@@ -188,25 +448,78 @@
       "source_handle": "colombia.as.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "20:33",
       "url": "https://colombia.as.com/futbol/millonarios-once-caldas-tv-horario-y-como-ver-online-la-liga-betplay-f202610-n/"
     },
     {
-      "id": "b603ce86de4c87ec",
-      "tag": "Lesiones",
+      "id": "5b4d57daad12899a",
+      "tag": "Plantel",
       "tipo": "noticia",
-      "title": "Millonarios busca recuperar el rumbo contra un necesitado Once Caldas",
-      "source": "Futbolred",
-      "source_handle": "futbolred.com",
-      "source_type": "prensa",
+      "title": "🚨 POLÉMICA CON CANCHA DEL CAMPÍN | DIM SIN JUANFER vs NACIONAL? | MILLOS-ONCE CLAVE PARA LA TABLA",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
-      "time": "06:44",
-      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-busca-recuperar-el-rumbo-en-el-campin-ante-un-necesitado-once-caldas-273862"
+      "date": "Ayer",
+      "time": "13:39",
+      "url": "https://www.youtube.com/watch?v=u8TXtpZ-EJA"
+    },
+    {
+      "id": "461c3980fa93e23d",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵MILLONARIOS VUELVE A CASA OBLIGADO A GANAR vs ONCE CALDAS ¡ESTRENO ESPERADO! CAMPÍN EN MAL ESTADO?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "12:21",
+      "url": "https://www.youtube.com/watch?v=hGT6ZBeQ1Js"
     }
   ],
   "rumors": [
+    {
+      "tema": "salida-nacional-va-con",
+      "titulo": "🚨NACIONAL VA CON TODOS LOS MUÑECOS! | MILLOS TENDRÁ UN CLIMA HOSTIL? | RODALLEGA SE VA DE SANTA FE?",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 80,
+      "first_source": "Eduardo Luis",
+      "timeline": [
+        {
+          "source": "Eduardo Luis",
+          "handle": "@EduardoLuisOficial",
+          "tier": 1,
+          "postura": "afirma",
+          "when": "2026-10-08T18:21:44+00:00",
+          "url": "https://www.youtube.com/watch?v=SFDEaXCE0Ro",
+          "is_first": true,
+          "when_label": "8 oct 13:21"
+        }
+      ]
+    },
+    {
+      "tema": "interes-llegó",
+      "titulo": "¿Llegó la hora de VENDER Millonarios? El síntoma del fracaso que nadie quiere admitir",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Casale Sports",
+      "timeline": [
+        {
+          "source": "Casale Sports",
+          "handle": "@CasaleSports",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T21:00:15+00:00",
+          "url": "https://www.youtube.com/shorts/iOZRgTDd3qg",
+          "is_first": true,
+          "when_label": "7 oct 16:00"
+        }
+      ]
+    },
     {
       "tema": "renovacion-siete",
       "titulo": "Siete en la puerta de salida y solo uno renovaría con Millonarios",
@@ -224,6 +537,26 @@
           "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-rodrigo-contreras-seria-el-unico-de-siete-que-renueva-606063",
           "is_first": true,
           "when_label": "7 oct 19:35"
+        }
+      ]
+    },
+    {
+      "tema": "interes-bustos",
+      "titulo": "Bustos quiere a Ureña y a Souza: ¿qué respondemos?",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Pache Andrade Multimedia",
+      "timeline": [
+        {
+          "source": "Pache Andrade Multimedia",
+          "handle": "@pacheandrademultimedia",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T06:26:42+00:00",
+          "url": "https://www.youtube.com/watch?v=R12aDsqIrnk",
+          "is_first": true,
+          "when_label": "7 oct 01:26"
         }
       ]
     },
@@ -250,9 +583,54 @@
   ],
   "sources": [
     {
+      "handle": "@EduardoLuisOficial",
+      "name": "Eduardo Luis",
+      "type": "periodista",
+      "tier": 1,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@CasaleSports",
+      "name": "Casale Sports",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
       "handle": "colombia.com",
       "name": "Colombia.com",
       "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@pacheandrademultimedia",
+      "name": "Pache Andrade Multimedia",
+      "type": "periodista",
       "tier": 2,
       "n_claims": 1,
       "hits": 0,
