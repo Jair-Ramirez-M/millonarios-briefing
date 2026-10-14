@@ -1,0 +1,283 @@
+{
+  "generated_at": "2026-10-13T22:15:06.678651-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 15,
+    "sources": 8,
+    "rumors": 2
+  },
+  "summary": "Se procesaron 15 publicaciones de 7 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Videos | Ausencia en El Campín: Cancelaron el partido entre Millonarios y Once Caldas por el “lamentable” estado de la cancha; Millonarios - Once Caldas, cancelado por estado del campo; Dimayor canceló Millonarios vs. Once Caldas por el mal estado de la cancha de El Campín.",
+  "items": [
+    {
+      "id": "6f297b426457ddef",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Videos | Ausencia en El Campín: Cancelaron el partido entre Millonarios y Once Caldas por el “lamentable” estado de la cancha",
+      "source": "elcolombiano.com",
+      "source_handle": "elcolombiano.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:15",
+      "url": "https://www.elcolombiano.com/deportes/futbol/videos-cancelan-partido-millonarios-vs-once-caldas-lamentable-estado-cancha-DH42235024"
+    },
+    {
+      "id": "bbd2ff8ebd836530",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios - Once Caldas, cancelado por estado del campo",
+      "source": "colombia.as.com",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:15",
+      "url": "https://colombia.as.com/futbol/dimayor-anuncia-la-cancelacion-del-partido-entre-millonarios-y-once-caldas-por-estado-del-campo-f202610-n/"
+    },
+    {
+      "id": "3f825d0f3f59b953",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Dimayor canceló Millonarios vs. Once Caldas por el mal estado de la cancha de El Campín",
+      "source": "El Espectador",
+      "source_handle": "elespectador.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:15",
+      "url": "https://www.elespectador.com/deportes/futbol-colombiano/dimayor-cancelo-millonarios-vs-once-caldas-por-el-mal-estado-de-la-cancha-de-el-campin/"
+    },
+    {
+      "id": "3caac89f2f9333b6",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¡Escándalo en El Campín! Cancelan Millonarios vs. Once Caldas por el pésimo estado de la cancha",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:15",
+      "url": "https://primertiempo.co/futbol/escandalo-en-el-campin-cancelan-millonarios-vs-once-caldas-por-el-pesimo-estado-de-la-cancha/"
+    },
+    {
+      "id": "91a28c94622246f4",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Cuadrado, Mackalister y Ruiz, titulares en Millonarios",
+      "source": "colombia.as.com",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:15",
+      "url": "https://colombia.as.com/futbol/millonarios-vs-once-caldas-en-vivo-online-liga-betplay-en-directo-f202610-d/"
+    },
+    {
+      "id": "53e2f361a01abcc0",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "El partido entre Millonarios y Once Caldas fue cancelado a minutos del arranque: Dimayor explicó el motivo de la decisión",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:20",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/el-partido-entre-millonarios-y-once-caldas-fue-cancelado-a-minutos-del-arranque-dimayor-explico-el-motivo-de-la-decision-3593350"
+    },
+    {
+      "id": "66d999639e40e7f7",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vs Once Caldas fue cancelado por Dimayor: esta es la razón",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:10",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-once-caldas-fue-cancelado-por-dimayor-por-estado-del-estadio-el-campin-273912"
+    },
+    {
+      "id": "8359c5c411b1fe44",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios vs Once Caldas EN VIVO: partido cancelado por Dimayor",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:19",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-once-caldas-en-vivo-minuto-a-minuto-aplazado-fecha-13-liga-betplay-2026-ii-273908"
+    },
+    {
+      "id": "24549c07292defd9",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios recibe en El Campín a Once Caldas, con la presión de ganar ante la falta de resultados en la Liga BetPlay: siga el minuto a minuto",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "19:48",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-recibe-en-el-campin-a-once-caldas-con-la-presion-de-ganar-ante-la-falta-de-resultados-en-la-liga-betplay-siga-el-minuto-a-minuto-3593342"
+    },
+    {
+      "id": "c8077827689d23a5",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Choque de ex Millonarios en Sudamericana: Boca recibe a Vasco",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:33",
+      "url": "https://www.colombia.com/futbol/copa-sudamericana/boca-juniors-vs-vasco-da-gama-dos-ex-millonarios-cara-a-cara-606880"
+    },
+    {
+      "id": "ee32637a29567aa1",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Qué necesita Millos? Calendario para cerrar la Liga BetPlay",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:33",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/partidos-que-le-quedan-a-millonarios-en-la-liga-betplay-2026-ii-606845"
+    },
+    {
+      "id": "10e5b16a960197f8",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios enfrenta cinco finales para asegurar su clasificación",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:33",
+      "url": "https://primertiempo.co/futbol/millonarios-enfrenta-cinco-finales-para-asegurar-su-clasificacion/"
+    },
+    {
+      "id": "a4d369dc3c0dde03",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios recibe a Once Caldas en crucial partido por la Liga BetPlay",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:33",
+      "url": "https://primertiempo.co/futbol/millonarios-recibe-a-once-caldas-en-crucial-partido-por-la-liga-betplay/"
+    },
+    {
+      "id": "cdf77e6a6597cb4a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios - Once Caldas: TV, horario y cómo ver online",
+      "source": "Colombia",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:33",
+      "url": "https://colombia.as.com/futbol/millonarios-once-caldas-tv-horario-y-como-ver-online-la-liga-betplay-f202610-n/"
+    },
+    {
+      "id": "b603ce86de4c87ec",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Millonarios busca recuperar el rumbo contra un necesitado Once Caldas",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "06:44",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-busca-recuperar-el-rumbo-en-el-campin-ante-un-necesitado-once-caldas-273862"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "renovacion-siete",
+      "titulo": "Siete en la puerta de salida y solo uno renovaría con Millonarios",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T19:35:00-05:00",
+          "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-rodrigo-contreras-seria-el-unico-de-siete-que-renueva-606063",
+          "is_first": true,
+          "when_label": "7 oct 19:35"
+        }
+      ]
+    },
+    {
+      "tema": "interes-james",
+      "titulo": "James, Cuadrado y Quintero: los millonarios negocios con los que también “juegan” fuera de la cancha",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "As",
+      "timeline": [
+        {
+          "source": "As",
+          "handle": "elcolombiano.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-05T22:47:00-05:00",
+          "url": "https://www.elcolombiano.com/negocios/negocios-james-rodriguez-cuadrado-quintero-fuera-cancha-LO41921785",
+          "is_first": true,
+          "when_label": "5 oct 22:47"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "elcolombiano.com",
+      "name": "As",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
