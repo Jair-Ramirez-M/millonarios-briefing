@@ -1,15 +1,184 @@
 {
-  "generated_at": "2026-10-15T21:51:06.345490-05:00",
-  "shift": "tarde",
-  "shift_label": "Edicion Tarde",
+  "generated_at": "2026-10-16T11:17:59.365634-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
   "team": "Millonarios FC",
   "stats": {
-    "items": 7,
-    "sources": 4,
-    "rumors": 1
+    "items": 24,
+    "sources": 12,
+    "rumors": 3
   },
-  "summary": "Se procesaron 7 publicaciones de 5 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: ¿Millonarios perderá los puntos contra Once Caldas tras la cancelación del partido?; Millonarios ya está enterado: Once Caldas pedirá los puntos; Nacional dobla en ingresos a Millonarios y América en el FPC.",
+  "summary": "Se procesaron 24 publicaciones de 13 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios - Jaguares: TV, horario y cómo ver online la Liga BetPlay; Crisis en la grama de El Campín: ¿Afecta a Millonarios y Santa Fe? + Previa Liga BetPlay; MILLONARIOS HOY 🔵 PREVIA VS JAGUARES: EL 11 QUE ALISTA GAMERO Y LAS BAJAS | EN VIVO  #Millonarios.",
   "items": [
+    {
+      "id": "1ae3ad1967c32bfd",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios - Jaguares: TV, horario y cómo ver online la Liga BetPlay",
+      "source": "colombia.as.com",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "11:17",
+      "url": "https://colombia.as.com/futbol/millonarios-jaguares-tv-horario-y-como-ver-online-la-liga-betplay-f202610-n/"
+    },
+    {
+      "id": "669d76749b13f03c",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Crisis en la grama de El Campín: ¿Afecta a Millonarios y Santa Fe? + Previa Liga BetPlay",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "11:03",
+      "url": "https://www.youtube.com/watch?v=ScDn7y90_kc"
+    },
+    {
+      "id": "0aebf7e68f289814",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "MILLONARIOS HOY 🔵 PREVIA VS JAGUARES: EL 11 QUE ALISTA GAMERO Y LAS BAJAS | EN VIVO  #Millonarios",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "10:42",
+      "url": "https://www.youtube.com/watch?v=qEKJCr8fVFc"
+    },
+    {
+      "id": "a9eeb0df7a8ccc3c",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "NO VAS A CREER LAS DECLARACIONES. ELIMINADOS DE NUEVO. ¿Y EL RESPONSABLE? ¿GANAREMOS LIGA? MPT CAP21",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "10:21",
+      "url": "https://www.youtube.com/watch?v=9JBrB-jpLls"
+    },
+    {
+      "id": "78e8b95d658c9362",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵 MILLONARIOS VUELVE AL CAMPÍN: OBSEQUIAMOS BOLETAS🎁 ONCE NO DEMANDA. MILLOS DIO PÉRDIDAS EN 2025",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "09:52",
+      "url": "https://www.youtube.com/watch?v=aBpJhck_e6w"
+    },
+    {
+      "id": "a87dba35ed3080c0",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "MILLONARIOS HOY 🔵 ¿POR QUÉ GAMERO NO CAMBIA DE MÓDULO? | ANÁLISIS DE LAS INCORPORACIONES | EN VIVO",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "02:10",
+      "url": "https://www.youtube.com/watch?v=sb4KgApINB0"
+    },
+    {
+      "id": "753b78c943dec80c",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios: a pocos días de la clasificación | Las nuevas fechas",
+      "source": "Pache Andrade Multimedia",
+      "source_handle": "@pacheandrademultimedia",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "01:44",
+      "url": "https://www.youtube.com/watch?v=OOHJoO5IFCo"
+    },
+    {
+      "id": "34837a49bb1ff50a",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Nuevas fechas para los partidos venideros de Millonarios y la novela de la demanda del Once Caldas",
+      "source": "Los Millonarios .NET TV",
+      "source_handle": "@LosMillonariosNetTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:52",
+      "url": "https://www.youtube.com/watch?v=quRUCzUPQJE"
+    },
+    {
+      "id": "5c9988fe01584f6a",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Nuevas fechas para los partidos venideros de Millonarios y la novela de la demanda del Once Caldas",
+      "source": "Las 5 de Millos",
+      "source_handle": "@Las5DeMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:52",
+      "url": "https://www.youtube.com/watch?v=1-3IX_ZqdiI"
+    },
+    {
+      "id": "ed86f5fd6068e1e6",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "¿Por qué el futbolista colombiano se conforma tan rápido? | ¿La gloria o el bolsillo? | Casale",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "21:44",
+      "url": "https://www.youtube.com/shorts/7HZKm3iaDwA"
+    },
+    {
+      "id": "af406c6a2c59b4f4",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "\"CLÁSICO ES GANARTE\". NACIONAL SIGUE EN LA COPA. ¿VIRTUD VERDE O DEFECTO ROJO? ¿JAMES BRILLÓ?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "19:25",
+      "url": "https://www.youtube.com/watch?v=04OeMcgH8vA"
+    },
+    {
+      "id": "f2dc37827a7e6832",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿CAMERINO ROTO?JUNIOR NO PUDO CON PEREIRA. ZONA MIXTA ARDE EN \"QUILLA\".HUBO AMENAZAS A LOS JUGADORES",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "19:15",
+      "url": "https://www.youtube.com/watch?v=nCknGWr2rhQ"
+    },
+    {
+      "id": "fc27c6a67f0cff6d",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Once Caldas DEMANDARÁ LOS 3 PUNTOS del partido | Millonarios EN PÉRDIDAS EN 2025 | Noticias",
+      "source": "Noticias Millonarios FC",
+      "source_handle": "@NoticiasMillonariosFC",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "17:05",
+      "url": "https://www.youtube.com/watch?v=1X2m_LWSxE4"
+    },
     {
       "id": "dce3fdfc7141cd87",
       "tag": "Partido",
@@ -19,7 +188,7 @@
       "source_handle": "elespectador.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:48",
       "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-perdera-los-puntos-contra-once-caldas-tras-la-cancelacion-del-partido/"
     },
@@ -32,7 +201,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:48",
       "url": "https://www.colombia.com/futbol/liga-colombiana/once-caldas-pedira-los-puntos-de-su-partido-ante-millonarios-607240"
     },
@@ -45,7 +214,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:48",
       "url": "https://www.colombia.com/futbol/futbol-colombiano/nacional-dobla-en-ingresos-a-millonarios-y-america-en-el-fpc-607224"
     },
@@ -58,7 +227,7 @@
       "source_handle": "elcolombiano.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:48",
       "url": "https://www.elcolombiano.com/deportes/futbol/andres-angel-monroy-nino-putumayo-conoce-jugadores-millonarios-BF42301000"
     },
@@ -71,7 +240,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:48",
       "url": "https://primertiempo.co/futbol/millonarios-vs-once-caldas-nueva-fecha-y-todo-lo-que-necesitas-saber/"
     },
@@ -84,25 +253,97 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:48",
       "url": "https://www.colombia.com/futbol/liga-colombiana/dimayor-anuncia-fecha-y-hora-para-millonarios-vs-once-caldas-607090"
     },
     {
-      "id": "a20f9fe08234131c",
+      "id": "2f4aaec34565897b",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "💥 URGENTE: MILLONARIOS PIERDE LOS PUNTOS CON ONCE CALDAS? 💣 DEMANDAN EL PARTIDO ¡SENCIA CULPABLE!",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "14:17",
+      "url": "https://www.youtube.com/shorts/kWPfWufNRbQ"
+    },
+    {
+      "id": "4760ccd67218dd42",
       "tag": "Plantel",
       "tipo": "noticia",
-      "title": "Millonarios le dio un final feliz: cumplió sueño de niño de Putumayo",
-      "source": "Futbolred",
-      "source_handle": "futbolred.com",
-      "source_type": "prensa",
+      "title": "🚨 UNA VERGÜENZA, ONCE CALDAS DEMANDARÍA A MILLONARIOS PARA QUEDARSE CON LOS 3 PUNTOS ⚖️",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
       "cred": "media",
-      "date": "Hoy",
-      "time": "07:03",
-      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/video-millonarios-cumplio-el-sueno-de-nino-de-putumayo-conocio-a-jugadores-273957"
+      "date": "Ayer",
+      "time": "14:04",
+      "url": "https://www.youtube.com/shorts/lhjtPwYHBvQ"
+    },
+    {
+      "id": "ffce18e8ec967e29",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "NACIONAL A SEMIS Y PAPÁ DEL DIM| JUNIOR NO PUDO CON PEREIRA ¿CAMERINO ROTO?| QUÉ PASÓ CON EL CAMPÍN?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "13:37",
+      "url": "https://www.youtube.com/watch?v=xoh5_N7qOt8"
+    },
+    {
+      "id": "e553dd962f0dcb09",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "🟡 EN VIVO Nacional vs. DIM | Narración con Antonio Casale, Cristian Mejía y Chancho - Liga Betplay",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "12:50",
+      "url": "https://www.youtube.com/watch?v=7-dZlxJllTk"
+    },
+    {
+      "id": "c941dcb6cd6094d8",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "#Especiales 📹 | COMO ANDRÉS EN PUTUMAYO, TODOS AMAMOS A MILLONARIOS Ⓜ️",
+      "source": "Dimension Azul 1946",
+      "source_handle": "@dimensionazul1946",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "11:37",
+      "url": "https://www.youtube.com/watch?v=YY2aRcSot-g"
     }
   ],
   "rumors": [
+    {
+      "tema": "interes-llegó",
+      "titulo": "¿Llegó la hora de VENDER Millonarios? El síntoma del fracaso que nadie quiere admitir",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Casale Sports",
+      "timeline": [
+        {
+          "source": "Casale Sports",
+          "handle": "@CasaleSports",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T21:00:15+00:00",
+          "url": "https://www.youtube.com/shorts/iOZRgTDd3qg",
+          "is_first": true,
+          "when_label": "7 oct 16:00"
+        }
+      ]
+    },
     {
       "tema": "renovacion-siete",
       "titulo": "Siete en la puerta de salida y solo uno renovaría con Millonarios",
@@ -122,13 +363,63 @@
           "when_label": "7 oct 19:35"
         }
       ]
+    },
+    {
+      "tema": "interes-bustos",
+      "titulo": "Bustos quiere a Ureña y a Souza: ¿qué respondemos?",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Pache Andrade Multimedia",
+      "timeline": [
+        {
+          "source": "Pache Andrade Multimedia",
+          "handle": "@pacheandrademultimedia",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T06:26:42+00:00",
+          "url": "https://www.youtube.com/watch?v=R12aDsqIrnk",
+          "is_first": true,
+          "when_label": "7 oct 01:26"
+        }
+      ]
     }
   ],
   "sources": [
     {
+      "handle": "@CasaleSports",
+      "name": "Casale Sports",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
       "handle": "colombia.com",
       "name": "Colombia.com",
       "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@pacheandrademultimedia",
+      "name": "Pache Andrade Multimedia",
+      "type": "periodista",
       "tier": 2,
       "n_claims": 1,
       "hits": 0,
