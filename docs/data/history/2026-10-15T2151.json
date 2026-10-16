@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-10-15T21:51:06.345490-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 7,
+    "sources": 4,
+    "rumors": 1
+  },
+  "summary": "Se procesaron 7 publicaciones de 5 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: ¿Millonarios perderá los puntos contra Once Caldas tras la cancelación del partido?; Millonarios ya está enterado: Once Caldas pedirá los puntos; Nacional dobla en ingresos a Millonarios y América en el FPC.",
+  "items": [
+    {
+      "id": "dce3fdfc7141cd87",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "¿Millonarios perderá los puntos contra Once Caldas tras la cancelación del partido?",
+      "source": "El Espectador",
+      "source_handle": "elespectador.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:48",
+      "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-perdera-los-puntos-contra-once-caldas-tras-la-cancelacion-del-partido/"
+    },
+    {
+      "id": "0eff24518557dd19",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios ya está enterado: Once Caldas pedirá los puntos",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:48",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/once-caldas-pedira-los-puntos-de-su-partido-ante-millonarios-607240"
+    },
+    {
+      "id": "dde96c912a538ce7",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Nacional dobla en ingresos a Millonarios y América en el FPC",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:48",
+      "url": "https://www.colombia.com/futbol/futbol-colombiano/nacional-dobla-en-ingresos-a-millonarios-y-america-en-el-fpc-607224"
+    },
+    {
+      "id": "f4b95ee47e0c5b2e",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Video | ¡Emocionante! El niño hincha de Millonarios que viajó desde Putumayo pudo conocer a sus ídolos",
+      "source": "El Espectador",
+      "source_handle": "elcolombiano.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:48",
+      "url": "https://www.elcolombiano.com/deportes/futbol/andres-angel-monroy-nino-putumayo-conoce-jugadores-millonarios-BF42301000"
+    },
+    {
+      "id": "0d2bb22f21d52286",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vs. Once Caldas: nueva fecha y todo lo que necesitas saber",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:48",
+      "url": "https://primertiempo.co/futbol/millonarios-vs-once-caldas-nueva-fecha-y-todo-lo-que-necesitas-saber/"
+    },
+    {
+      "id": "e27a99799fa60c9c",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Que ruede el balón: Dimayor tiene fecha para Millos – Once Caldas",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:48",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/dimayor-anuncia-fecha-y-hora-para-millonarios-vs-once-caldas-607090"
+    },
+    {
+      "id": "a20f9fe08234131c",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios le dio un final feliz: cumplió sueño de niño de Putumayo",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "07:03",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/video-millonarios-cumplio-el-sueno-de-nino-de-putumayo-conocio-a-jugadores-273957"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "renovacion-siete",
+      "titulo": "Siete en la puerta de salida y solo uno renovaría con Millonarios",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T19:35:00-05:00",
+          "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-rodrigo-contreras-seria-el-unico-de-siete-que-renueva-606063",
+          "is_first": true,
+          "when_label": "7 oct 19:35"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
