@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T16:17:59.211066+00:00",
+  "generated_at": "2026-10-17T02:42:35.080244+00:00",
   "sources": [
     {
       "name": "Millonarios FC (Canal Oficial)",
       "handle": "@MillonariosFCOficial",
       "type": "youtube",
       "tier": 0,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Eduardo Luis",
@@ -38,8 +38,8 @@
       "handle": "@pacheandrademultimedia",
       "type": "youtube",
       "tier": 2,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Los Millonarios .NET TV",
@@ -62,8 +62,8 @@
       "handle": "@CasaAzulRadioTV",
       "type": "youtube",
       "tier": 3,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Dimension Azul 1946",
@@ -78,8 +78,8 @@
       "handle": "@NoticiasMillos",
       "type": "youtube",
       "tier": 3,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Barba Azul 1946",
@@ -94,8 +94,8 @@
       "handle": "@NoticiasMillonariosFC",
       "type": "youtube",
       "tier": 3,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Tineus (agregador de prensa)",
