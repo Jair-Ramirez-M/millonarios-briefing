@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-16T21:42:35.151081-05:00",
-  "shift": "tarde",
-  "shift_label": "Edicion Tarde",
+  "generated_at": "2026-10-17T10:12:34.524837-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
   "team": "Millonarios FC",
   "stats": {
-    "items": 32,
-    "sources": 12,
-    "rumors": 1
+    "items": 33,
+    "sources": 14,
+    "rumors": 2
   },
-  "summary": "Se procesaron 32 publicaciones de 14 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios vs Jaguares confirmado para este 17 de octubre en El Campín; 🔵🔥 MILLONARIOS VS JAGUARES: PREVIA, PRONÓSTICOS Y CHISTES DE SENCIA 😂 | EN VIVO; ¿DIM ESTÁ QUEBRADO?¿HASTA CUÁNDO JUANFER? NOTICIAS DE JACKSON. MEDELLÍN CLASIFICA MAÑANA? MPT CAP 22.",
+  "summary": "Se procesaron 33 publicaciones de 15 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios vs Jaguares confirmado para este 17 de octubre en El Campín; 🔴 EN VIVO | NFL Semana 6 a fondo y Previa NBA: Horarios, claves y pronóstico - Los de abajo; ¡EN VIVO! MILLONARIOS VS JAGUARES - LIGA BETPLAY 2026-2 17/10/2026.",
   "items": [
     {
       "id": "8ef959c165bcc205",
@@ -20,8 +20,125 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "21:42",
+      "time": "10:12",
       "url": "https://primertiempo.co/futbol/millonarios-vs-jaguares-confirmado-para-este-17-de-octubre-en-el-campin/"
+    },
+    {
+      "id": "86b29dea0903d524",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔴 EN VIVO | NFL Semana 6 a fondo y Previa NBA: Horarios, claves y pronóstico - Los de abajo",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "09:40",
+      "url": "https://www.youtube.com/watch?v=V9OmoHUY5-0"
+    },
+    {
+      "id": "2095e3cbc43ef623",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¡EN VIVO! MILLONARIOS VS JAGUARES - LIGA BETPLAY 2026-2 17/10/2026",
+      "source": "Los Millonarios .NET TV",
+      "source_handle": "@LosMillonariosNetTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "09:34",
+      "url": "https://www.youtube.com/watch?v=zPlIxSLiDes"
+    },
+    {
+      "id": "653cb0a44218d17b",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¡EN VIVO! MILLONARIOS VS JAGUARES - LIGA BETPLAY 2026-2 17/10/2026",
+      "source": "Las 5 de Millos",
+      "source_handle": "@Las5DeMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "09:34",
+      "url": "https://www.youtube.com/watch?v=NOmQtz4Zppg"
+    },
+    {
+      "id": "ff33c9b8b135b9b1",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vuelve a jugar de local y con Contreras como novedad",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "07:03",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-regresa-a-el-campin-tras-28-dias-con-novedades-en-su-convocatoria-con-rodrigo-contreras-274031"
+    },
+    {
+      "id": "0aebf7e68f289814",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "MILLONARIOS HOY 🔵 PREVIA VS JAGUARES: EL 11 QUE ALISTA GAMERO Y LAS BAJAS | EN VIVO  #Millonarios",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "02:14",
+      "url": "https://www.youtube.com/watch?v=qEKJCr8fVFc"
+    },
+    {
+      "id": "d153f2a9abdbc7a5",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Quién quiere los puntos de Millonarios-Once Caldas?",
+      "source": "Pache Andrade Multimedia",
+      "source_handle": "@pacheandrademultimedia",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "01:27",
+      "url": "https://www.youtube.com/watch?v=EeOJ7bkEBV0"
+    },
+    {
+      "id": "017054f80a4fd2d4",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Previa Millonarios vs Jaguares - Liga Betplay 2026-2: Regresa Contreras y Ureña es baja.",
+      "source": "Los Millonarios .NET TV",
+      "source_handle": "@LosMillonariosNetTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:56",
+      "url": "https://www.youtube.com/watch?v=T8nfaGednLk"
+    },
+    {
+      "id": "61e71f1a54010e45",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Previa Millonarios vs Jaguares - Liga Betplay 2026-2: Regresa Contreras y Ureña es baja.",
+      "source": "Las 5 de Millos",
+      "source_handle": "@Las5DeMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:45",
+      "url": "https://www.youtube.com/watch?v=X0_yTw5h3as"
+    },
+    {
+      "id": "e0605d69235ebae7",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vuelve a casa luego de 28 días y hace cuentas para clasificar: el cupo a los cuadrangulares está en El Campín | Hora y TV",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "22:03",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-vuelve-a-casa-luego-de-28-dias-y-hace-cuentas-para-clasificar-el-cupo-a-los-cuadrangulares-esta-en-el-campin-hora-y-tv-3594222"
     },
     {
       "id": "6f62ad4dd8ff2f22",
@@ -32,9 +149,22 @@
       "source_handle": "@BarbaAzul1946",
       "source_type": "partidario",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:33",
       "url": "https://www.youtube.com/watch?v=-hXyEBRHTvE"
+    },
+    {
+      "id": "58b18573cbff4d1c",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "🔵⚪ ¿QUÉ PASA CON LA VENTA DE MILLONARIOS?",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "20:19",
+      "url": "https://www.youtube.com/shorts/WjlSNHB_Y-Q"
     },
     {
       "id": "99d10e039467d260",
@@ -45,9 +175,22 @@
       "source_handle": "@EduardoLuisOficial",
       "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "19:36",
       "url": "https://www.youtube.com/watch?v=nZQDfKEmWIY"
+    },
+    {
+      "id": "f0e337f0a2d70acf",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵⚪ ¿CÓMO JUGAR ANTE JAGUARES?🎙️",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "18:14",
+      "url": "https://www.youtube.com/shorts/fFE-eDOcTKw"
     },
     {
       "id": "05a683938113f7b1",
@@ -58,7 +201,7 @@
       "source_handle": "futbolred.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "18:04",
       "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/preocupacion-en-venta-de-millonarios-tras-polemica-del-estadio-el-campin-274014"
     },
@@ -71,22 +214,9 @@
       "source_handle": "futbolred.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "18:03",
       "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-jaguares-por-liga-betplay-cuando-donde-y-como-ver-el-duelo-clave-274017"
-    },
-    {
-      "id": "86b29dea0903d524",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "🔴 EN VIVO | NFL Semana 6 a fondo y Previa NBA: Horarios, claves y pronóstico - Los de abajo",
-      "source": "Casale Sports",
-      "source_handle": "@CasaleSports",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "17:38",
-      "url": "https://www.youtube.com/watch?v=V9OmoHUY5-0"
     },
     {
       "id": "4fb532241a428d98",
@@ -97,7 +227,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://primertiempo.co/futbol/rodrigo-urena-baja-en-millonarios-por-virosis-lo-informo-el-club/"
     },
@@ -110,7 +240,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://primertiempo.co/futbol/millonarios-busca-asegurar-su-clasificacion-ante-jaguares-la-previa-del-partido/"
     },
@@ -123,7 +253,7 @@
       "source_handle": "colombia.as.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://colombia.as.com/futbol/rodrigo-contreras-vuelve-a-la-convocatoria-de-millonarios-un-mes-despues-de-su-lesion-f202610-n/"
     },
@@ -136,7 +266,7 @@
       "source_handle": "elpais.com.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://www.elpais.com.co/deportes/por-fin-se-juega-en-el-campin-dimayor-confirma-el-partido-de-este-sabado-entre-millonarios-y-jaguares-tras-recuperacion-de-la-grama-1613.html"
     },
@@ -149,7 +279,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://www.colombia.com/futbol/liga-colombiana/baja-sensible-en-millonarios-ante-jaguares-607446"
     },
@@ -162,7 +292,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://www.colombia.com/futbol/liga-colombiana/corte-constitucional-millonarios-no-puede-censurar-a-sus-hinchas-607428"
     },
@@ -175,7 +305,7 @@
       "source_handle": "colombia.as.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://colombia.as.com/futbol/dimayor-confirma-el-partido-entre-millonarios-y-jaguares-el-terreno-esta-apto-f202610-n/"
     },
@@ -188,7 +318,7 @@
       "source_handle": "elespectador.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/confirman-partido-de-millonarios-vs-jaguares-en-el-campin-como-esta-la-cancha/"
     },
@@ -201,7 +331,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://www.colombia.com/futbol/liga-colombiana/lios-por-el-campin-sacuden-el-negocio-de-venta-de-millonarios-607386"
     },
@@ -214,7 +344,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-vs-jaguares-donde-ver-en-vivo-y-como-quedo-el-campin-607387"
     },
@@ -227,22 +357,9 @@
       "source_handle": "colombia.as.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:27",
       "url": "https://colombia.as.com/futbol/millonarios-jaguares-tv-horario-y-como-ver-online-la-liga-betplay-f202610-n/"
-    },
-    {
-      "id": "0ca4fef89108bb7d",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "Hay partido: la cancha de El Campín pasó la prueba para el juego del sábado entre Millonarios y Jaguares",
-      "source": "El Tiempo Deportes",
-      "source_handle": "eltiempo.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "17:19",
-      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/hay-partido-la-cancha-de-el-campin-paso-la-prueba-para-el-juego-del-sabado-entre-millonarios-y-jaguares-3594133"
     },
     {
       "id": "bf492caa7b6b46f8",
@@ -253,7 +370,7 @@
       "source_handle": "@dimensionazul1946",
       "source_type": "partidario",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "16:43",
       "url": "https://www.youtube.com/watch?v=Fb7n6mgB5qs"
     },
@@ -266,9 +383,22 @@
       "source_handle": "@EduardoLuisOficial",
       "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "13:48",
       "url": "https://www.youtube.com/watch?v=awACP6mXwGg"
+    },
+    {
+      "id": "152fc342eb8ae47b",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "MILLONARIOS VS JAGUARES - TRANSMISIÓN RADIAL 1040 COLMUNDO- LA CASA AZUL RADIO - FECHA 15°",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "12:32",
+      "url": "https://www.youtube.com/watch?v=7bLcZrHNStw"
     },
     {
       "id": "78e8b95d658c9362",
@@ -279,7 +409,7 @@
       "source_handle": "@EduardoLuisOficial",
       "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "12:14",
       "url": "https://www.youtube.com/watch?v=aBpJhck_e6w"
     },
@@ -292,7 +422,7 @@
       "source_handle": "@CasaleSports",
       "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "11:03",
       "url": "https://www.youtube.com/watch?v=ScDn7y90_kc"
     },
@@ -305,126 +435,9 @@
       "source_handle": "@EduardoLuisOficial",
       "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "10:21",
       "url": "https://www.youtube.com/watch?v=9JBrB-jpLls"
-    },
-    {
-      "id": "34837a49bb1ff50a",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "Nuevas fechas para los partidos venideros de Millonarios y la novela de la demanda del Once Caldas",
-      "source": "Los Millonarios .NET TV",
-      "source_handle": "@LosMillonariosNetTV",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "23:52",
-      "url": "https://www.youtube.com/watch?v=quRUCzUPQJE"
-    },
-    {
-      "id": "5c9988fe01584f6a",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "Nuevas fechas para los partidos venideros de Millonarios y la novela de la demanda del Once Caldas",
-      "source": "Las 5 de Millos",
-      "source_handle": "@Las5DeMillos",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "23:52",
-      "url": "https://www.youtube.com/watch?v=1-3IX_ZqdiI"
-    },
-    {
-      "id": "ed86f5fd6068e1e6",
-      "tag": "Mercado",
-      "tipo": "noticia",
-      "title": "¿Por qué el futbolista colombiano se conforma tan rápido? | ¿La gloria o el bolsillo? | Casale",
-      "source": "Casale Sports",
-      "source_handle": "@CasaleSports",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "21:44",
-      "url": "https://www.youtube.com/shorts/7HZKm3iaDwA"
-    },
-    {
-      "id": "dce3fdfc7141cd87",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "¿Millonarios perderá los puntos contra Once Caldas tras la cancelación del partido?",
-      "source": "El Espectador",
-      "source_handle": "elespectador.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "21:48",
-      "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-perdera-los-puntos-contra-once-caldas-tras-la-cancelacion-del-partido/"
-    },
-    {
-      "id": "0eff24518557dd19",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Millonarios ya está enterado: Once Caldas pedirá los puntos",
-      "source": "Colombia.com",
-      "source_handle": "colombia.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "21:48",
-      "url": "https://www.colombia.com/futbol/liga-colombiana/once-caldas-pedira-los-puntos-de-su-partido-ante-millonarios-607240"
-    },
-    {
-      "id": "dde96c912a538ce7",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Nacional dobla en ingresos a Millonarios y América en el FPC",
-      "source": "Colombia.com",
-      "source_handle": "colombia.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "21:48",
-      "url": "https://www.colombia.com/futbol/futbol-colombiano/nacional-dobla-en-ingresos-a-millonarios-y-america-en-el-fpc-607224"
-    },
-    {
-      "id": "f4b95ee47e0c5b2e",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Video | ¡Emocionante! El niño hincha de Millonarios que viajó desde Putumayo pudo conocer a sus ídolos",
-      "source": "El Espectador",
-      "source_handle": "elcolombiano.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "21:48",
-      "url": "https://www.elcolombiano.com/deportes/futbol/andres-angel-monroy-nino-putumayo-conoce-jugadores-millonarios-BF42301000"
-    },
-    {
-      "id": "0d2bb22f21d52286",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Millonarios vs. Once Caldas: nueva fecha y todo lo que necesitas saber",
-      "source": "Primer Tiempo",
-      "source_handle": "primertiempo.co",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "21:48",
-      "url": "https://primertiempo.co/futbol/millonarios-vs-once-caldas-nueva-fecha-y-todo-lo-que-necesitas-saber/"
-    },
-    {
-      "id": "e27a99799fa60c9c",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Que ruede el balón: Dimayor tiene fecha para Millos – Once Caldas",
-      "source": "Colombia.com",
-      "source_handle": "colombia.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "21:48",
-      "url": "https://www.colombia.com/futbol/liga-colombiana/dimayor-anuncia-fecha-y-hora-para-millonarios-vs-once-caldas-607090"
     }
   ],
   "rumors": [
@@ -447,12 +460,47 @@
           "when_label": "7 oct 16:00"
         }
       ]
+    },
+    {
+      "tema": "interes-bustos",
+      "titulo": "Bustos quiere a Ureña y a Souza: ¿qué respondemos?",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Pache Andrade Multimedia",
+      "timeline": [
+        {
+          "source": "Pache Andrade Multimedia",
+          "handle": "@pacheandrademultimedia",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-07T06:26:42+00:00",
+          "url": "https://www.youtube.com/watch?v=R12aDsqIrnk",
+          "is_first": true,
+          "when_label": "7 oct 01:26"
+        }
+      ]
     }
   ],
   "sources": [
     {
       "handle": "@CasaleSports",
       "name": "Casale Sports",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@pacheandrademultimedia",
+      "name": "Pache Andrade Multimedia",
       "type": "periodista",
       "tier": 2,
       "n_claims": 1,
