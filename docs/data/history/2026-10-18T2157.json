@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-10-18T21:57:10.946540-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 9,
+    "sources": 7,
+    "rumors": 0
+  },
+  "summary": "Se procesaron 9 publicaciones de 7 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios 4 Jaguares 1 - Liga Betplay 2026-2: se ganó, goleó y gustó; necesario triunfo; Así fue el regreso del fútbol al Estadio El Campín un mes después, con la victoria de Millonarios sobre Jaguares en la Liga; Tabla de posiciones de la Liga BetPlay tras el Millonarios vs Jaguares.",
+  "items": [
+    {
+      "id": "9175a32155c801e8",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios 4 Jaguares 1 - Liga Betplay 2026-2: se ganó, goleó y gustó; necesario triunfo",
+      "source": "Las 5 de Millos",
+      "source_handle": "@Las5DeMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:58",
+      "url": "https://www.youtube.com/watch?v=1I8wTUWE-bM"
+    },
+    {
+      "id": "7c58d885ca7bc094",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Así fue el regreso del fútbol al Estadio El Campín un mes después, con la victoria de Millonarios sobre Jaguares en la Liga",
+      "source": "El Pais Cali",
+      "source_handle": "elpais.com.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:17",
+      "url": "https://www.elpais.com.co/deportes/asi-fue-el-regreso-del-futbol-al-estadio-el-campin-un-mes-despues-con-la-victoria-de-millonarios-sobre-jaguares-en-la-liga-1816.html"
+    },
+    {
+      "id": "83d406d65cfa3ab6",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Tabla de posiciones de la Liga BetPlay tras el Millonarios vs Jaguares",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:17",
+      "url": "https://www.colombia.com/futbol/futbol-colombiano/tabla-de-posiciones-de-la-liga-betplay-tras-el-millonarios-vs-jaguares-607663"
+    },
+    {
+      "id": "f3a0ff832719d726",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "En fotos: así se vivió la goleada de Millonarios sobre Jaguares en El Campín",
+      "source": "El Espectador",
+      "source_handle": "elespectador.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:17",
+      "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/en-fotos-asi-se-vivio-la-goleada-de-millonarios-sobre-jaguares-en-el-campin/"
+    },
+    {
+      "id": "206149be30d921a7",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios golea a Jaguares al ritmo de Cuadrado",
+      "source": "El País",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:17",
+      "url": "https://colombia.as.com/futbol/millonarios-golea-a-jaguares-al-ritmo-de-cuadrado-f202610-n/"
+    },
+    {
+      "id": "c19c06ff44a6c996",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Ⓜ️ FLASH EMBAJADOR 🔥#MillonariosFC #FlashEmbajador #NoticiasMillonarios #LaCasaDelHinchaAzul",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "16:10",
+      "url": "https://www.youtube.com/shorts/IKg5TiprWkA"
+    },
+    {
+      "id": "83659e487139f362",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "VLOG CASA AZUL RADIO TV - MILLONARIOS VS JAGUARES - FECHA 15",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "11:58",
+      "url": "https://www.youtube.com/watch?v=ifyl7-hyqhI"
+    },
+    {
+      "id": "63bd0d2fd59c396c",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "EN VIVO: Millonarios vs. Jaguares en El Campín, siga el minuto a minuto de la Liga BetPlay",
+      "source": "El Espectador",
+      "source_handle": "elespectador.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "22:20",
+      "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/en-vivo-millonarios-vs-jaguares-en-el-campin-siga-el-minuto-a-minuto-de-la-liga-betplay/"
+    },
+    {
+      "id": "8ef959c165bcc205",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vs Jaguares confirmado para este 17 de octubre en El Campín",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "22:20",
+      "url": "https://primertiempo.co/futbol/millonarios-vs-jaguares-confirmado-para-este-17-de-octubre-en-el-campin/"
+    }
+  ],
+  "rumors": [],
+  "sources": []
+}
