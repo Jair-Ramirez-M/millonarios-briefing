@@ -1,15 +1,67 @@
 {
-  "generated_at": "2026-10-19T13:30:07.940600-05:00",
+  "generated_at": "2026-10-19T22:06:49.060577-05:00",
   "shift": "tarde",
   "shift_label": "Edicion Tarde",
   "team": "Millonarios FC",
   "stats": {
-    "items": 13,
-    "sources": 10,
-    "rumors": 2
+    "items": 10,
+    "sources": 6,
+    "rumors": 0
   },
-  "summary": "Se procesaron 13 publicaciones de 10 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Revelan insólita polémica arbitral tras el Millonarios vs Jaguares; 🔵 MILLONARIOS GOLEÓ 4-1 Y CUADRADO BRILLÓ. ESTUPIÑÁN SE GANÓ LA TITULAR? VOLVIÓ EL TUCU. ¿ILUSIONA?; Vélez advierte a Millonarios: 'qué lindo ambiente laboral, de quinta'.",
+  "summary": "Se procesaron 10 publicaciones de 6 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios vs Once Caldas: Cuándo, dónde y cómo ver el duelo clave por la Liga BetPlay Colombia; Millonarios - Once Caldas: TV, horario y cómo ver online; El Pulso del Fútbol | ¿Millonarios empieza a verse favorito?.",
   "items": [
+    {
+      "id": "19c9e42bfda5165c",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vs Once Caldas: Cuándo, dónde y cómo ver el duelo clave por la Liga BetPlay Colombia",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:31",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-once-caldas-liga-betplay-cuando-donde-y-como-ver-el-duelo-clave-273867"
+    },
+    {
+      "id": "7cc6f246374fff29",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios - Once Caldas: TV, horario y cómo ver online",
+      "source": "As",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:48",
+      "url": "https://colombia.as.com/futbol/millonarios-once-caldas-tv-horario-y-como-ver-online-la-liga-betplay-f202610-n-2/"
+    },
+    {
+      "id": "a33e95cb08cba722",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "El Pulso del Fútbol | ¿Millonarios empieza a verse favorito?",
+      "source": "As",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:48",
+      "url": "https://colombia.as.com/videos/el-pulso-del-futbol/el-pulso-del-futbol-millonarios-empieza-a-verse-favorito-f202610-v/"
+    },
+    {
+      "id": "81b9c631e674a437",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¡Insólito! El árbitro Luis Matorel dejó que Jaguares jugara con 12 jugadores por unos minutos ante Millonarios",
+      "source": "As",
+      "source_handle": "elcolombiano.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:48",
+      "url": "https://www.elcolombiano.com/deportes/futbol/jaguares-jugo-12-jugadores-millonarios-luis-matorel-FB42437727"
+    },
     {
       "id": "2ae2f0c9cf1d4ad5",
       "tag": "Plantel",
@@ -20,21 +72,8 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "13:30",
+      "time": "21:48",
       "url": "https://www.colombia.com/futbol/futbol-colombiano/jaguares-puso-12-jugadores-en-cancha-contra-millonarios-607764"
-    },
-    {
-      "id": "10043ef181d70f0e",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "🔵 MILLONARIOS GOLEÓ 4-1 Y CUADRADO BRILLÓ. ESTUPIÑÁN SE GANÓ LA TITULAR? VOLVIÓ EL TUCU. ¿ILUSIONA?",
-      "source": "Eduardo Luis",
-      "source_handle": "@EduardoLuisOficial",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "12:23",
-      "url": "https://www.youtube.com/watch?v=fJoGXWOm0gw"
     },
     {
       "id": "eefbe6a27c6ed0e0",
@@ -48,71 +87,6 @@
       "date": "Hoy",
       "time": "11:35",
       "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/video-velez-alerta-por-mal-ambiente-laboral-en-millonarios-por-broma-de-silva-y-ruiz-274143"
-    },
-    {
-      "id": "f7c1eb13bce1f6e4",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Millonarios: ¿Ureña o Vega? ¿Contreras o Estupiñán?",
-      "source": "Pache Andrade Multimedia",
-      "source_handle": "@pacheandrademultimedia",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "11:23",
-      "url": "https://www.youtube.com/watch?v=GFk4U0Tw0Fw"
-    },
-    {
-      "id": "4e88003db05b0d0e",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "🚨 NACIONAL Y MILLOS GOLEARON. AMÉRICA SIGUE LÍDER 💥JUNIOR YA ELIMINADO. SANTA FE Y DIM UN FIASCO",
-      "source": "Eduardo Luis",
-      "source_handle": "@EduardoLuisOficial",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "11:12",
-      "url": "https://www.youtube.com/watch?v=-ZH3aoDTNAY"
-    },
-    {
-      "id": "f0a3b8831f2d0b32",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "MILLONARIOS GOLEÓ 4-1 A JAGUARES: Así fue la victoria |EN VIVO HOY 1PM  #Millonarios #CasaAzulRadio",
-      "source": "Casa Azul Radio TV",
-      "source_handle": "@CasaAzulRadioTV",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "08:59",
-      "url": "https://www.youtube.com/watch?v=7i51eay91go"
-    },
-    {
-      "id": "9175a32155c801e8",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "Millonarios 4 Jaguares 1 - Liga Betplay 2026-2: se ganó, goleó y gustó; necesario triunfo",
-      "source": "Las 5 de Millos",
-      "source_handle": "@Las5DeMillos",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "23:22",
-      "url": "https://www.youtube.com/watch?v=1I8wTUWE-bM"
-    },
-    {
-      "id": "833b55b4034b4273",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "Millonarios 4 Jaguares 1 - Liga Betplay 2026-2: se ganó, goleó y gustó; necesario triunfo",
-      "source": "Los Millonarios .NET TV",
-      "source_handle": "@LosMillonariosNetTV",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "23:09",
-      "url": "https://www.youtube.com/watch?v=lYir1GN89RA"
     },
     {
       "id": "7c58d885ca7bc094",
@@ -165,93 +139,8 @@
       "date": "Ayer",
       "time": "22:17",
       "url": "https://colombia.as.com/futbol/millonarios-golea-a-jaguares-al-ritmo-de-cuadrado-f202610-n/"
-    },
-    {
-      "id": "c19c06ff44a6c996",
-      "tag": "Lesiones",
-      "tipo": "noticia",
-      "title": "Ⓜ️ FLASH EMBAJADOR 🔥#MillonariosFC #FlashEmbajador #NoticiasMillonarios #LaCasaDelHinchaAzul",
-      "source": "Casa Azul Radio TV",
-      "source_handle": "@CasaAzulRadioTV",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "16:10",
-      "url": "https://www.youtube.com/shorts/IKg5TiprWkA"
     }
   ],
-  "rumors": [
-    {
-      "tema": "interes-llegó",
-      "titulo": "¿Llegó la hora de VENDER Millonarios? El síntoma del fracaso que nadie quiere admitir",
-      "categoria": "Interes",
-      "status": "desarrollo",
-      "score": 62,
-      "first_source": "Casale Sports",
-      "timeline": [
-        {
-          "source": "Casale Sports",
-          "handle": "@CasaleSports",
-          "tier": 2,
-          "postura": "afirma",
-          "when": "2026-10-07T21:00:15+00:00",
-          "url": "https://www.youtube.com/shorts/iOZRgTDd3qg",
-          "is_first": true,
-          "when_label": "7 oct 16:00"
-        }
-      ]
-    },
-    {
-      "tema": "interes-bustos",
-      "titulo": "Bustos quiere a Ureña y a Souza: ¿qué respondemos?",
-      "categoria": "Interes",
-      "status": "desarrollo",
-      "score": 62,
-      "first_source": "Pache Andrade Multimedia",
-      "timeline": [
-        {
-          "source": "Pache Andrade Multimedia",
-          "handle": "@pacheandrademultimedia",
-          "tier": 2,
-          "postura": "afirma",
-          "when": "2026-10-07T06:26:42+00:00",
-          "url": "https://www.youtube.com/watch?v=R12aDsqIrnk",
-          "is_first": true,
-          "when_label": "7 oct 01:26"
-        }
-      ]
-    }
-  ],
-  "sources": [
-    {
-      "handle": "@CasaleSports",
-      "name": "Casale Sports",
-      "type": "periodista",
-      "tier": 2,
-      "n_claims": 1,
-      "hits": 0,
-      "misses": 0,
-      "scoops": 0,
-      "humo": 0,
-      "resolved": 0,
-      "accuracy": null,
-      "humo_rate": 0,
-      "tier_earned": "Sin datos"
-    },
-    {
-      "handle": "@pacheandrademultimedia",
-      "name": "Pache Andrade Multimedia",
-      "type": "periodista",
-      "tier": 2,
-      "n_claims": 1,
-      "hits": 0,
-      "misses": 0,
-      "scoops": 0,
-      "humo": 0,
-      "resolved": 0,
-      "accuracy": null,
-      "humo_rate": 0,
-      "tier_earned": "Sin datos"
-    }
-  ]
+  "rumors": [],
+  "sources": []
 }
