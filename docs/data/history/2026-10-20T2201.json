@@ -1,0 +1,94 @@
+{
+  "generated_at": "2026-10-20T22:01:14.151594-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 6,
+    "sources": 5,
+    "rumors": 0
+  },
+  "summary": "Se procesaron 6 publicaciones de 5 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios vs. Once Caldas, en vivo: Juan Guillermo Cuadrado juega en El Campín; Muy poco que rescatar en lento juego en El Campín: Millonarios vs Once Caldas 0-0 en vivo; EN VIVO Millonarios 0-0 Once Caldas: se ponen al día en El Campín.",
+  "items": [
+    {
+      "id": "c3af6e4b1e1d1f48",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vs. Once Caldas, en vivo: Juan Guillermo Cuadrado juega en El Campín",
+      "source": "El Espectador",
+      "source_handle": "elespectador.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:01",
+      "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-vs-once-caldas-en-vivo-juan-guillermo-cuadrado-juega-en-el-campin/"
+    },
+    {
+      "id": "57ebeaf85d6b2cdd",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Muy poco que rescatar en lento juego en El Campín: Millonarios vs Once Caldas 0-0 en vivo",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:39",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/hora-de-hacer-diferencia-en-el-campin-en-duelo-aplazado-por-liga-millonarios-vs-once-caldas-en-vivo-3595064"
+    },
+    {
+      "id": "7a9eeffa2138090a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "EN VIVO Millonarios 0-0 Once Caldas: se ponen al día en El Campín",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:34",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-once-caldas-en-vivo-partido-pendiente-de-la-fecha-13-de-la-liga-betplay-2026-ii-274223"
+    },
+    {
+      "id": "2d3e824a10ae4ca5",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Millonarios recibe una noticia clave: el lateral que Gamero espera recuperar para los cuadrangulares",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:27",
+      "url": "https://primertiempo.co/futbol/millonarios-recibe-una-noticia-clave-el-lateral-que-gamero-espera-recuperar-para-los-cuadrangulares/"
+    },
+    {
+      "id": "c348c6fc912a6553",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios podría perder a Javier Burrai: un campeón de la Libertadores lo tendría en la mira",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:27",
+      "url": "https://primertiempo.co/futbol/millonarios-podria-perder-a-javier-burrai-un-campeon-de-la-libertadores-lo-tendria-en-la-mira/"
+    },
+    {
+      "id": "92ee31edd9bd45cc",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🤔 ¡SE ENREDARON! TOLIMA, DIM Y SANTA FE COMPLICAN SU CAMINO CUANDO TODO PARECÍA FÁCIL.",
+      "source": "Guillo Arango",
+      "source_handle": "@GuilloArango",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "22:08",
+      "url": "https://www.youtube.com/watch?v=M8QPD6FZmpg"
+    }
+  ],
+  "rumors": [],
+  "sources": []
+}

@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-20T16:32:43.013502+00:00",
+  "generated_at": "2026-10-21T03:01:14.047112+00:00",
   "sources": [
     {
       "name": "Millonarios FC (Canal Oficial)",
       "handle": "@MillonariosFCOficial",
       "type": "youtube",
       "tier": 0,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Eduardo Luis",
       "handle": "@EduardoLuisOficial",
       "type": "youtube",
       "tier": 1,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Guillo Arango",
@@ -30,64 +30,64 @@
       "handle": "@CasaleSports",
       "type": "youtube",
       "tier": 2,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Pache Andrade Multimedia",
       "handle": "@pacheandrademultimedia",
       "type": "youtube",
       "tier": 2,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Los Millonarios .NET TV",
       "handle": "@LosMillonariosNetTV",
       "type": "youtube",
       "tier": 3,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Las 5 de Millos",
       "handle": "@Las5DeMillos",
       "type": "youtube",
       "tier": 3,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Casa Azul Radio TV",
       "handle": "@CasaAzulRadioTV",
       "type": "youtube",
       "tier": 3,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Dimension Azul 1946",
       "handle": "@dimensionazul1946",
       "type": "youtube",
       "tier": 3,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Noticias Millos",
       "handle": "@NoticiasMillos",
       "type": "youtube",
       "tier": 3,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Barba Azul 1946",
       "handle": "@BarbaAzul1946",
       "type": "youtube",
       "tier": 3,
-      "items": 15,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Noticias Millonarios FC",
