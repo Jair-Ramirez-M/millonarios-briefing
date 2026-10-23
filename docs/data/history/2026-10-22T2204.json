@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-10-22T22:04:16.304331-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 6,
+    "sources": 2,
+    "rumors": 1
+  },
+  "summary": "Se procesaron 6 publicaciones de 2 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios sacudiría el mercado de fichajes con dos jugadores del Once Caldas: uno podría salir; Grave situación de Millonarios: Perdió casi 4 millones de euros; DIM recuperaría a promesa que llegó a ilusionar a Millonarios para 2027.",
+  "items": [
+    {
+      "id": "526a01bcca75bea4",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Millonarios sacudiría el mercado de fichajes con dos jugadores del Once Caldas: uno podría salir",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:24",
+      "url": "https://primertiempo.co/futbol/millonarios-sacudiria-el-mercado-de-fichajes-con-dos-jugadores-del-once-caldas-uno-podria-salir/"
+    },
+    {
+      "id": "3ba3b91944e31d71",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Grave situación de Millonarios: Perdió casi 4 millones de euros",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:24",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-perdio-38-millones-de-euros-de-valor-desde-2025-608300"
+    },
+    {
+      "id": "3404f174e1583a8e",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "DIM recuperaría a promesa que llegó a ilusionar a Millonarios para 2027",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:24",
+      "url": "https://primertiempo.co/futbol/dim-recuperaria-a-promesa-que-llego-a-ilusionar-a-millonarios-para-2027/"
+    },
+    {
+      "id": "254ee8d6ddfdc229",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Juan Guillermo Cuadrado respalda denuncias de Falcao sobre arbitrajes contra Millonarios",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:24",
+      "url": "https://primertiempo.co/futbol/juan-guillermo-cuadrado-respalda-denuncias-de-falcao-sobre-arbitrajes-contra-millonarios/"
+    },
+    {
+      "id": "475fa363068d0809",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Cuadrado y la advertencia de Gamero: exige más físico en Millonarios",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:24",
+      "url": "https://primertiempo.co/futbol/cuadrado-y-la-advertencia-de-gamero-exige-mas-fisico-en-millonarios/"
+    },
+    {
+      "id": "0400ef2efa7ded24",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Se va de Millonarios? Rodrigo Ureña pierde terreno y dos clubes estarían atentos a su futuro",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:24",
+      "url": "https://primertiempo.co/futbol/se-va-de-millonarios-rodrigo-urena-pierde-terreno-y-dos-clubes-estarian-atentos-a-su-futuro/"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "salida-rodrigo-ureña",
+      "titulo": "¿Se va de Millonarios? Rodrigo Ureña pierde terreno y dos clubes estarían atentos a su futuro",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-22T23:24:00-05:00",
+          "url": "https://primertiempo.co/futbol/se-va-de-millonarios-rodrigo-urena-pierde-terreno-y-dos-clubes-estarian-atentos-a-su-futuro/",
+          "is_first": true,
+          "when_label": "Hoy 23:24"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
