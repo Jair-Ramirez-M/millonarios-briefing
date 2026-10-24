@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-23T22:00:16.454443-05:00",
-  "shift": "tarde",
-  "shift_label": "Edicion Tarde",
+  "generated_at": "2026-10-24T10:35:28.670138-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
   "team": "Millonarios FC",
   "stats": {
-    "items": 12,
-    "sources": 2,
+    "items": 16,
+    "sources": 6,
     "rumors": 1
   },
-  "summary": "Se procesaron 12 publicaciones de 2 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Fracasó en Millonarios, estuvo meses sin equipo y ahora tiene nuevo club: oficial; Junior prepara un fichaje que Millonarios no pudo cerrar: figura de Once Caldas está en la mira; Millos va por figura de Once Caldas: Mateo García es la clave.",
+  "summary": "Se procesaron 16 publicaciones de 6 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Fracasó en Millonarios, estuvo meses sin equipo y ahora tiene nuevo club: oficial; Junior prepara un fichaje que Millonarios no pudo cerrar: figura de Once Caldas está en la mira; EN VIVO: Semana 7 NFL (Chiefs vs Seahawks y Eagles vs Cowboys) y viernes de NBA | Los de Abajo.",
   "items": [
     {
       "id": "0a376e7bf853e288",
@@ -20,7 +20,7 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "22:00",
+      "time": "10:35",
       "url": "https://primertiempo.co/futbol/fracaso-en-millonarios-estuvo-meses-sin-equipo-y-ahora-tiene-nuevo-club-oficial/"
     },
     {
@@ -33,8 +33,86 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "22:00",
+      "time": "10:35",
       "url": "https://primertiempo.co/futbol/junior-prepara-un-fichaje-que-millonarios-no-pudo-cerrar-figura-de-once-caldas-esta-en-la-mira/"
+    },
+    {
+      "id": "55cc7b4bfba6e13d",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "EN VIVO: Semana 7 NFL (Chiefs vs Seahawks y Eagles vs Cowboys) y viernes de NBA | Los de Abajo",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "10:26",
+      "url": "https://www.youtube.com/watch?v=rFxKkqxAhuY"
+    },
+    {
+      "id": "49453957ba83f7cc",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿MILLONARIOS CLASIFICA A LOS 8? MICRÓFONOS ABIERTOS EN LA CASA AZUL RADIO | EN VIVO 1:00 PM",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "02:04",
+      "url": "https://www.youtube.com/watch?v=REfxZqOjsgc"
+    },
+    {
+      "id": "9eafac810704f192",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millos comienza reconstrucción. ¿A quien recomendarían?",
+      "source": "Pache Andrade Multimedia",
+      "source_handle": "@pacheandrademultimedia",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "01:23",
+      "url": "https://www.youtube.com/watch?v=gnHUMetAs9A"
+    },
+    {
+      "id": "5cd4600c4841b19b",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Ⓜ️ ¿LA EDAD ES UN PROBLEMA EN MILLONARIOS? 🤔#Millonarios #Embajador #LaCasaDelHinchaAzul",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "20:29",
+      "url": "https://www.youtube.com/shorts/MJH7XQ_I56E"
+    },
+    {
+      "id": "db4c7c7e4a1b9431",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Ⓜ️ LA HINCHADA AZUL EXIGE RESPUESTAS 😤#MillonariosFC #HinchasAzules #LaCasaDelHinchaAzul",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "20:16",
+      "url": "https://www.youtube.com/shorts/AbSzvyFjCEc"
+    },
+    {
+      "id": "ce0e0ba6e75bb155",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Ⓜ️ DOS SEMANAS CLAVES PARA MILLONARIOS 🔵⚪#MillonariosFC #VamosMillonarios #LaCasaDelHinchaAzul",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "19:22",
+      "url": "https://www.youtube.com/shorts/-G2MrbFKmHM"
     },
     {
       "id": "753169e974695c90",
@@ -45,7 +123,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:35",
       "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-ira-por-jefry-zapata-para-2027-608541"
     },
@@ -58,7 +136,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:35",
       "url": "https://primertiempo.co/futbol/millonarios-recupera-un-jugador-y-se-abre-la-disputa-por-un-puesto-clave-en-el-mediocampo/"
     },
@@ -71,7 +149,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:35",
       "url": "https://primertiempo.co/futbol/millonarios-recupera-a-mateo-garcia-esta-al-100-y-volveria-ante-america/"
     },
@@ -84,87 +162,61 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "22:35",
       "url": "https://primertiempo.co/futbol/aqui-tengo-que-correr-o-me-saca-la-advertencia-de-gamero-que-revelo-cuadrado-en-millonarios/"
     },
     {
-      "id": "526a01bcca75bea4",
-      "tag": "Mercado",
-      "tipo": "noticia",
-      "title": "Millonarios sacudiría el mercado de fichajes con dos jugadores del Once Caldas: uno podría salir",
-      "source": "Primer Tiempo",
-      "source_handle": "primertiempo.co",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "23:24",
-      "url": "https://primertiempo.co/futbol/millonarios-sacudiria-el-mercado-de-fichajes-con-dos-jugadores-del-once-caldas-uno-podria-salir/"
-    },
-    {
-      "id": "3ba3b91944e31d71",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "Grave situación de Millonarios: Perdió casi 4 millones de euros",
-      "source": "Colombia.com",
-      "source_handle": "colombia.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "23:24",
-      "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-perdio-38-millones-de-euros-de-valor-desde-2025-608300"
-    },
-    {
-      "id": "3404f174e1583a8e",
-      "tag": "Lesiones",
-      "tipo": "noticia",
-      "title": "DIM recuperaría a promesa que llegó a ilusionar a Millonarios para 2027",
-      "source": "Primer Tiempo",
-      "source_handle": "primertiempo.co",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "23:24",
-      "url": "https://primertiempo.co/futbol/dim-recuperaria-a-promesa-que-llego-a-ilusionar-a-millonarios-para-2027/"
-    },
-    {
-      "id": "254ee8d6ddfdc229",
+      "id": "368017781ef7b9dd",
       "tag": "Plantel",
       "tipo": "noticia",
-      "title": "Juan Guillermo Cuadrado respalda denuncias de Falcao sobre arbitrajes contra Millonarios",
-      "source": "Primer Tiempo",
-      "source_handle": "primertiempo.co",
-      "source_type": "prensa",
+      "title": "NACIONAL LÍDER 🚨PINTURA DE CARDONA! SE VIENE CLÁSICO PAISA ¿PEREIRA ELIMINA AL ONCE? AMÉRICA-CÚCUTA",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
       "cred": "media",
       "date": "Ayer",
-      "time": "23:24",
-      "url": "https://primertiempo.co/futbol/juan-guillermo-cuadrado-respalda-denuncias-de-falcao-sobre-arbitrajes-contra-millonarios/"
+      "time": "13:50",
+      "url": "https://www.youtube.com/watch?v=k4aV_EKVc7A"
     },
     {
-      "id": "475fa363068d0809",
+      "id": "e56885152bac7d35",
       "tag": "Plantel",
       "tipo": "noticia",
-      "title": "Cuadrado y la advertencia de Gamero: exige más físico en Millonarios",
-      "source": "Primer Tiempo",
-      "source_handle": "primertiempo.co",
-      "source_type": "prensa",
+      "title": "JUANFER SE RESINTIÓ?JACKSON MARCÓ¿CONDICIONÓ A AMARANTO?ÁRBITRO DISCUTIDO PARA EL CLÁSICO. MPT CAP24",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
       "cred": "media",
       "date": "Ayer",
-      "time": "23:24",
-      "url": "https://primertiempo.co/futbol/cuadrado-y-la-advertencia-de-gamero-exige-mas-fisico-en-millonarios/"
+      "time": "13:26",
+      "url": "https://www.youtube.com/watch?v=VwbkzGmIiBs"
     },
     {
-      "id": "0400ef2efa7ded24",
+      "id": "cdc259991d7b2fda",
       "tag": "Plantel",
       "tipo": "noticia",
-      "title": "¿Se va de Millonarios? Rodrigo Ureña pierde terreno y dos clubes estarían atentos a su futuro",
-      "source": "Primer Tiempo",
-      "source_handle": "primertiempo.co",
-      "source_type": "prensa",
+      "title": "🔵EL PLAN DE MILLONARIOS PARA LA RECTA FINAL DE LIGA 🚨 ¿TOCA HACER CUENTAS PARA CLASIFICAR?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
       "cred": "media",
       "date": "Ayer",
-      "time": "23:24",
-      "url": "https://primertiempo.co/futbol/se-va-de-millonarios-rodrigo-urena-pierde-terreno-y-dos-clubes-estarian-atentos-a-su-futuro/"
+      "time": "13:11",
+      "url": "https://www.youtube.com/watch?v=YufB5apsgH8"
+    },
+    {
+      "id": "e4905e07388ae3a9",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "EN VIVO | El Campín abre sus puertas: Millonarios y Santa Fe al ruedo y previa Liga BetPlay",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "11:07",
+      "url": "https://www.youtube.com/watch?v=21o5atO5PLM"
     }
   ],
   "rumors": [
@@ -184,7 +236,7 @@
           "when": "2026-10-22T23:24:00-05:00",
           "url": "https://primertiempo.co/futbol/se-va-de-millonarios-rodrigo-urena-pierde-terreno-y-dos-clubes-estarian-atentos-a-su-futuro/",
           "is_first": true,
-          "when_label": "Ayer 23:24"
+          "when_label": "22 oct 23:24"
         }
       ]
     }
