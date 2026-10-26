@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-10-25T21:52:25.857708-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 1,
+    "sources": 1,
+    "rumors": 1
+  },
+  "summary": "Se procesaron 1 publicaciones de 1 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Álvaro Montero sorprendió con su confesión sobre Millonarios: “No me pierdo ningún partido”.",
+  "items": [
+    {
+      "id": "d81472d2dc202c1b",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Álvaro Montero sorprendió con su confesión sobre Millonarios: “No me pierdo ningún partido”",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:24",
+      "url": "https://primertiempo.co/futbol/alvaro-montero-sorprendio-con-su-confesion-sobre-millonarios-no-me-pierdo-ningun-partido/"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "salida-rodrigo-ureña",
+      "titulo": "¿Se va de Millonarios? Rodrigo Ureña pierde terreno y dos clubes estarían atentos a su futuro",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-22T23:24:00-05:00",
+          "url": "https://primertiempo.co/futbol/se-va-de-millonarios-rodrigo-urena-pierde-terreno-y-dos-clubes-estarian-atentos-a-su-futuro/",
+          "is_first": true,
+          "when_label": "22 oct 23:24"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
