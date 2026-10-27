@@ -1,0 +1,157 @@
+{
+  "generated_at": "2026-10-26T22:25:37.578006-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 8,
+    "sources": 4,
+    "rumors": 1
+  },
+  "summary": "Se procesaron 8 publicaciones de 4 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Kapital Football Group se baja de la compra de Millonarios: esta es la razón; Alerta para Santa Fe, Millonarios, Cali y América: cambió programación; Dimayor cambia de horario partidos clave para Santa Fe, Millonarios y Cali en la Liga BetPlay.",
+  "items": [
+    {
+      "id": "68c67c61b0b50bfa",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Kapital Football Group se baja de la compra de Millonarios: esta es la razón",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://primertiempo.co/futbol/kapital-football-group-se-baja-de-la-compra-de-millonarios-esta-es-la-razon/"
+    },
+    {
+      "id": "670b56dd2089443a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Alerta para Santa Fe, Millonarios, Cali y América: cambió programación",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:19",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/alerta-para-santa-fe-millonarios-cali-y-america-cambio-de-programacion-274487"
+    },
+    {
+      "id": "a4ef7c9de7ba39f0",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Dimayor cambia de horario partidos clave para Santa Fe, Millonarios y Cali en la Liga BetPlay",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "17:38",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/dimayor-cambia-de-horario-partidos-clave-para-santa-fe-millonarios-y-cali-en-la-liga-betplay-3596489"
+    },
+    {
+      "id": "c1ddf44186ca4613",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios - América de Cali, reprogramado para el 4 de noviembre",
+      "source": "As",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:49",
+      "url": "https://colombia.as.com/futbol/millonarios-america-de-cali-reprogramado-para-el-4-de-noviembre-f202610-n/"
+    },
+    {
+      "id": "e9b07e0819b35ded",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Dimayor cambió los horarios de tres partidos de la fecha 17, incluido Millonarios vs América",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:49",
+      "url": "https://primertiempo.co/futbol/dimayor-cambio-los-horarios-de-tres-partidos-de-la-fecha-17-incluido-millonarios-vs-america/"
+    },
+    {
+      "id": "4d0cb38ebea0dc56",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Carlos Sarabia vuelve a entrenar con Millonarios tras superar su lesión",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:49",
+      "url": "https://primertiempo.co/futbol/carlos-sarabia-vuelve-a-entrenar-con-millonarios-tras-superar-su-lesion/"
+    },
+    {
+      "id": "ac88fd2d3ecf7b65",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Millonarios está lejos de los líderes: el dato que preocupa a los embajadores en la Liga BetPlay",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:49",
+      "url": "https://primertiempo.co/futbol/millonarios-esta-lejos-de-los-lideres-el-dato-que-preocupa-a-los-embajadores-en-la-liga-betplay/"
+    },
+    {
+      "id": "d81472d2dc202c1b",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Álvaro Montero sorprendió con su confesión sobre Millonarios: “No me pierdo ningún partido”",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:24",
+      "url": "https://primertiempo.co/futbol/alvaro-montero-sorprendio-con-su-confesion-sobre-millonarios-no-me-pierdo-ningun-partido/"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "salida-rodrigo-ureña",
+      "titulo": "¿Se va de Millonarios? Rodrigo Ureña pierde terreno y dos clubes estarían atentos a su futuro",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-22T23:24:00-05:00",
+          "url": "https://primertiempo.co/futbol/se-va-de-millonarios-rodrigo-urena-pierde-terreno-y-dos-clubes-estarian-atentos-a-su-futuro/",
+          "is_first": true,
+          "when_label": "22 oct 23:24"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
