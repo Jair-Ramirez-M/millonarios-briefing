@@ -1,0 +1,151 @@
+{
+  "generated_at": "2026-10-27T22:42:14.197165-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 6,
+    "sources": 4,
+    "rumors": 2
+  },
+  "summary": "Se procesaron 6 publicaciones de 4 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Nacional, América y Millonarios se pelean el fichaje de Franco Fagúndez: Santa Fe podría perder a su goleador; ¿Por qué no vendieron a Millonarios?; Santa Fe movió la tabla de la Liga y puso a sufrir a Millonarios.",
+  "items": [
+    {
+      "id": "1ced3f37502d96f6",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Nacional, América y Millonarios se pelean el fichaje de Franco Fagúndez: Santa Fe podría perder a su goleador",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:42",
+      "url": "https://primertiempo.co/futbol/nacional-america-y-millonarios-se-pelean-el-fichaje-de-franco-fagundez-santa-fe-podria-perder-a-su-goleador/"
+    },
+    {
+      "id": "9b8fda6a48b30c36",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Por qué no vendieron a Millonarios?",
+      "source": "As",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:49",
+      "url": "https://colombia.as.com/opinion/por-que-no-vendieron-a-millonarios-f202610-n/"
+    },
+    {
+      "id": "6303dc5932459d51",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Santa Fe movió la tabla de la Liga y puso a sufrir a Millonarios",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:49",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/tabla-de-la-liga-betplay-2026-santa-fe-supero-a-millonarios-609000"
+    },
+    {
+      "id": "0c7bb65c0c7482ff",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios y América de Cali se enfrentarán el 4 de noviembre",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:49",
+      "url": "https://primertiempo.co/futbol/millonarios-y-america-de-cali-se-enfrentaran-el-4-de-noviembre/"
+    },
+    {
+      "id": "68c67c61b0b50bfa",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Kapital Football Group se baja de la compra de Millonarios: esta es la razón",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:49",
+      "url": "https://primertiempo.co/futbol/kapital-football-group-se-baja-de-la-compra-de-millonarios-esta-es-la-razon/"
+    },
+    {
+      "id": "670b56dd2089443a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Alerta para Santa Fe, Millonarios, Cali y América: cambió programación",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "06:22",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/alerta-para-santa-fe-millonarios-cali-y-america-cambio-de-programacion-274487"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "llegada-nacional",
+      "titulo": "Nacional, América y Millonarios se pelean el fichaje de Franco Fagúndez: Santa Fe podría perder a su goleador",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-28T03:42:14.106314+00:00",
+          "url": "https://primertiempo.co/futbol/nacional-america-y-millonarios-se-pelean-el-fichaje-de-franco-fagundez-santa-fe-podria-perder-a-su-goleador/",
+          "is_first": true,
+          "when_label": "Hoy 22:42"
+        }
+      ]
+    },
+    {
+      "tema": "salida-rodrigo-ureña",
+      "titulo": "¿Se va de Millonarios? Rodrigo Ureña pierde terreno y dos clubes estarían atentos a su futuro",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-22T23:24:00-05:00",
+          "url": "https://primertiempo.co/futbol/se-va-de-millonarios-rodrigo-urena-pierde-terreno-y-dos-clubes-estarian-atentos-a-su-futuro/",
+          "is_first": true,
+          "when_label": "22 oct 23:24"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 2,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
