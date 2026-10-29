@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-10-28T23:01:46.782564-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 4,
+    "sources": 1,
+    "rumors": 2
+  },
+  "summary": "Se procesaron 4 publicaciones de 1 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios recupera una de sus grandes apuestas: el jugador que regresaría en enero para 2027; Millonarios abrió la boletería para el clásico ante América: estos son los precios; Millonarios recuperará a este volante creativo en 2027: así fue su paso por su actual club.",
+  "items": [
+    {
+      "id": "505edd81919e6e64",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Millonarios recupera una de sus grandes apuestas: el jugador que regresaría en enero para 2027",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:01",
+      "url": "https://primertiempo.co/futbol/millonarios-recupera-una-de-sus-grandes-apuestas-el-jugador-que-regresaria-en-enero-para-2027/"
+    },
+    {
+      "id": "fbf1c439b75a2e96",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios abrió la boletería para el clásico ante América: estos son los precios",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "05:22",
+      "url": "https://primertiempo.co/futbol/millonarios-abrio-la-boleteria-para-el-clasico-ante-america-estos-son-los-precios/"
+    },
+    {
+      "id": "ff0bebf8315a10b3",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Millonarios recuperará a este volante creativo en 2027: así fue su paso por su actual club",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "05:22",
+      "url": "https://primertiempo.co/futbol/millonarios-recuperara-a-este-volante-creativo-en-2027-asi-fue-su-paso-por-su-actual-club/"
+    },
+    {
+      "id": "1ced3f37502d96f6",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Nacional, América y Millonarios se pelean el fichaje de Franco Fagúndez: Santa Fe podría perder a su goleador",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "05:22",
+      "url": "https://primertiempo.co/futbol/nacional-america-y-millonarios-se-pelean-el-fichaje-de-franco-fagundez-santa-fe-podria-perder-a-su-goleador/"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "llegada-nacional",
+      "titulo": "Nacional, América y Millonarios se pelean el fichaje de Franco Fagúndez: Santa Fe podría perder a su goleador",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-28T05:22:00-05:00",
+          "url": "https://primertiempo.co/futbol/nacional-america-y-millonarios-se-pelean-el-fichaje-de-franco-fagundez-santa-fe-podria-perder-a-su-goleador/",
+          "is_first": true,
+          "when_label": "Hoy 05:22"
+        }
+      ]
+    },
+    {
+      "tema": "salida-rodrigo-ureña",
+      "titulo": "¿Se va de Millonarios? Rodrigo Ureña pierde terreno y dos clubes estarían atentos a su futuro",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-22T23:24:00-05:00",
+          "url": "https://primertiempo.co/futbol/se-va-de-millonarios-rodrigo-urena-pierde-terreno-y-dos-clubes-estarian-atentos-a-su-futuro/",
+          "is_first": true,
+          "when_label": "22 oct 23:24"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 2,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
