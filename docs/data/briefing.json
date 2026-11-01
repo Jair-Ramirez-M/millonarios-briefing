@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-31T22:57:04.690526-05:00",
-  "shift": "tarde",
-  "shift_label": "Edicion Tarde",
+  "generated_at": "2026-11-01T12:45:16.335961-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
   "team": "Millonarios FC",
   "stats": {
-    "items": 2,
-    "sources": 2,
-    "rumors": 2
+    "items": 7,
+    "sources": 4,
+    "rumors": 3
   },
-  "summary": "Se procesaron 2 publicaciones de 2 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios enfrenta a América de Cali el 5 de noviembre: un duelo reñido; Millonarios se pronuncia tras sentencia de la Corte: “Incompatible”.",
+  "summary": "Se procesaron 7 publicaciones de 4 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios enfrenta a América de Cali el 5 de noviembre: un duelo reñido; LLANEROS 3 JUNIOR 2. EL BICAMPEÓN TOTALMENTE ELIMINADO POR UN PENAL QUE NO FUE Y SU HORRIBLE CAMPAÑA; 🔵⚪ ¿QUÉ JUGADORES TERMINAN CONTRATO EN MILLONARIOS? ⚽#Millonarios #VamosMillos #LaCasaDelHinchaAzul.",
   "items": [
     {
       "id": "f91d7a6453b0d00a",
@@ -20,8 +20,73 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "22:57",
+      "time": "12:45",
       "url": "https://primertiempo.co/futbol/millonarios-enfrenta-a-america-de-cali-el-5-de-noviembre-un-duelo-renido/"
+    },
+    {
+      "id": "c20a21e238e05d34",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "LLANEROS 3 JUNIOR 2. EL BICAMPEÓN TOTALMENTE ELIMINADO POR UN PENAL QUE NO FUE Y SU HORRIBLE CAMPAÑA",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "20:36",
+      "url": "https://www.youtube.com/watch?v=7NkxYiHkZBQ"
+    },
+    {
+      "id": "9e4e83b0ac4a4211",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵⚪ ¿QUÉ JUGADORES TERMINAN CONTRATO EN MILLONARIOS? ⚽#Millonarios #VamosMillos #LaCasaDelHinchaAzul",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "15:53",
+      "url": "https://www.youtube.com/shorts/QeUinavuqPc"
+    },
+    {
+      "id": "259f7051109b373a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵⚪ ¿QUÉ PASARÁ CON JUAN JOSÉ RAMÍREZ EN MILLONARIOS? ⚽#MillonariosFC #LigaBetPlay #VamosMillos",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "14:32",
+      "url": "https://www.youtube.com/shorts/dsPi5BGSqJ4"
+    },
+    {
+      "id": "5126e232512b8e1b",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵⚪ ¿QUIÉN DEBE SER EL NUEVO '10' DE MILLONARIOS? ⚽#MillonariosFC #LigaBetPlay #LaCasaDelHinchaAzul",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "13:26",
+      "url": "https://www.youtube.com/shorts/JBryzvFd_eY"
+    },
+    {
+      "id": "89330d3cec1723cb",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "VUELVE EL PERRO ARREPENTIDO CON EL DIM. ¿BAILAREMOS CHA CHA CHA?!M*TAR O M0RIR EL DOMINGO! MPT CAP27",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "12:48",
+      "url": "https://www.youtube.com/watch?v=wzqbBSgH0z4"
     },
     {
       "id": "ba7c8422324cec13",
@@ -32,7 +97,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "15:33",
       "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-acepta-sentencia-por-prohibicion-de-pancartas-609583"
     }
@@ -55,6 +120,26 @@
           "url": "https://primertiempo.co/futbol/nacional-america-y-millonarios-se-pelean-el-fichaje-de-franco-fagundez-santa-fe-podria-perder-a-su-goleador/",
           "is_first": true,
           "when_label": "28 oct 05:22"
+        }
+      ]
+    },
+    {
+      "tema": "interes-negocio-cado-los",
+      "titulo": "🚫💰 ¡NEGOCIO CAÍDO! LOS DETALLES DE LA VENTA FALLIDA DE MILLONARIOS Ⓜ️",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Guillo Arango",
+      "timeline": [
+        {
+          "source": "Guillo Arango",
+          "handle": "@GuilloArango",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-27T23:26:52+00:00",
+          "url": "https://www.youtube.com/watch?v=dpTYgdVVlLo",
+          "is_first": true,
+          "when_label": "27 oct 18:26"
         }
       ]
     },
@@ -86,6 +171,21 @@
       "type": "prensa",
       "tier": 2,
       "n_claims": 2,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@GuilloArango",
+      "name": "Guillo Arango",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
       "hits": 0,
       "misses": 0,
       "scoops": 0,
