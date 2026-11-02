@@ -1,0 +1,199 @@
+{
+  "generated_at": "2026-11-02T16:30:52.789514-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 7,
+    "sources": 5,
+    "rumors": 3
+  },
+  "summary": "Se procesaron 7 publicaciones de 5 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios vs. América de Cali: fecha, hora y canal para ver el clásico de la Liga Betplay II-2026; 🚨 ONCE ELIMINÓ A SANTA FE! REPETTO EN CRISIS? 💣HISTÓRICO JACKSON: SALVÓ AL DIM. JUNIOR: VERGÜENZA!; #CharlaAlbiazul 📺 | Capítulo 34 | Sexta Temporada.",
+  "items": [
+    {
+      "id": "3773ab5e77b6198a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vs. América de Cali: fecha, hora y canal para ver el clásico de la Liga Betplay II-2026",
+      "source": "El Pais Cali",
+      "source_handle": "elpais.com.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "16:30",
+      "url": "https://www.elpais.com.co/deportes/millonarios-vs-america-de-cali-fecha-hora-y-canal-para-ver-el-clasico-de-la-liga-betplay-ii-2026-0249.html"
+    },
+    {
+      "id": "0145844e25916ab5",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🚨 ONCE ELIMINÓ A SANTA FE! REPETTO EN CRISIS? 💣HISTÓRICO JACKSON: SALVÓ AL DIM. JUNIOR: VERGÜENZA!",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "15:18",
+      "url": "https://www.youtube.com/watch?v=A2jM7Ny5T94"
+    },
+    {
+      "id": "d1c9712b64da42eb",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "#CharlaAlbiazul 📺 | Capítulo 34 | Sexta Temporada",
+      "source": "Dimension Azul 1946",
+      "source_handle": "@dimensionazul1946",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "12:29",
+      "url": "https://www.youtube.com/watch?v=gKj77UMk5d0"
+    },
+    {
+      "id": "59d9c77e21012fc0",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "MEDELLÍN VS ALIANZA FC EN VIVO DESDE EL ATANASIO. GRAN PREVIO MEDALLO PARA TODOS TOXI STREAM RADIO",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "05:54",
+      "url": "https://www.youtube.com/watch?v=7RHxUVVnOBQ"
+    },
+    {
+      "id": "9d03fe60e4282e44",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "🔴🔵 ¡JACKSON VOLVIÓ CON GOL DESPUÉS DE 6 AÑOS! | ⚪ ONCE CALDAS, SEMIFINALISTA DE COPA",
+      "source": "Guillo Arango",
+      "source_handle": "@GuilloArango",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:31",
+      "url": "https://www.youtube.com/watch?v=DKEEonKZvMY"
+    },
+    {
+      "id": "c7a1c28295e10b0c",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "🤔🔴🔵 JACKSON MARTÍNEZ REGRESÓ DESPUÉS DE 6 AÑOS AL FÚTBOL CON GOL INCLUIDO",
+      "source": "Guillo Arango",
+      "source_handle": "@GuilloArango",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "22:10",
+      "url": "https://www.youtube.com/shorts/aUH64mFEW1E"
+    },
+    {
+      "id": "21ed469828af9e12",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Ⓜ️ FLASH EMBAJADOR 🔥#MillonariosFC #FlashEmbajador #NoticiasMillonarios #LaCasaDelHinchaAzul",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "19:35",
+      "url": "https://www.youtube.com/shorts/5g1UdxO6AV0"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "llegada-nacional",
+      "titulo": "Nacional, América y Millonarios se pelean el fichaje de Franco Fagúndez: Santa Fe podría perder a su goleador",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-28T05:22:00-05:00",
+          "url": "https://primertiempo.co/futbol/nacional-america-y-millonarios-se-pelean-el-fichaje-de-franco-fagundez-santa-fe-podria-perder-a-su-goleador/",
+          "is_first": true,
+          "when_label": "28 oct 05:22"
+        }
+      ]
+    },
+    {
+      "tema": "interes-negocio-cado-los",
+      "titulo": "🚫💰 ¡NEGOCIO CAÍDO! LOS DETALLES DE LA VENTA FALLIDA DE MILLONARIOS Ⓜ️",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Guillo Arango",
+      "timeline": [
+        {
+          "source": "Guillo Arango",
+          "handle": "@GuilloArango",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-27T23:26:52+00:00",
+          "url": "https://www.youtube.com/watch?v=dpTYgdVVlLo",
+          "is_first": true,
+          "when_label": "27 oct 18:26"
+        }
+      ]
+    },
+    {
+      "tema": "salida-rodrigo-ureña",
+      "titulo": "¿Se va de Millonarios? Rodrigo Ureña pierde terreno y dos clubes estarían atentos a su futuro",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-22T23:24:00-05:00",
+          "url": "https://primertiempo.co/futbol/se-va-de-millonarios-rodrigo-urena-pierde-terreno-y-dos-clubes-estarian-atentos-a-su-futuro/",
+          "is_first": true,
+          "when_label": "22 oct 23:24"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 2,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@GuilloArango",
+      "name": "Guillo Arango",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
