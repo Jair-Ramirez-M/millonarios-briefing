@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-02T16:30:52.789514-05:00",
-  "shift": "tarde",
-  "shift_label": "Edicion Tarde",
+  "generated_at": "2026-11-03T00:01:33.913782-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
   "team": "Millonarios FC",
   "stats": {
-    "items": 7,
-    "sources": 5,
+    "items": 1,
+    "sources": 1,
     "rumors": 3
   },
-  "summary": "Se procesaron 7 publicaciones de 5 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios vs. América de Cali: fecha, hora y canal para ver el clásico de la Liga Betplay II-2026; 🚨 ONCE ELIMINÓ A SANTA FE! REPETTO EN CRISIS? 💣HISTÓRICO JACKSON: SALVÓ AL DIM. JUNIOR: VERGÜENZA!; #CharlaAlbiazul 📺 | Capítulo 34 | Sexta Temporada.",
+  "summary": "Se procesaron 1 publicaciones de 1 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios vs. América de Cali: fecha, hora y canal para ver el clásico de la Liga Betplay II-2026.",
   "items": [
     {
       "id": "3773ab5e77b6198a",
@@ -19,87 +19,9 @@
       "source_handle": "elpais.com.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
-      "time": "16:30",
+      "date": "Ayer",
+      "time": "12:28",
       "url": "https://www.elpais.com.co/deportes/millonarios-vs-america-de-cali-fecha-hora-y-canal-para-ver-el-clasico-de-la-liga-betplay-ii-2026-0249.html"
-    },
-    {
-      "id": "0145844e25916ab5",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "🚨 ONCE ELIMINÓ A SANTA FE! REPETTO EN CRISIS? 💣HISTÓRICO JACKSON: SALVÓ AL DIM. JUNIOR: VERGÜENZA!",
-      "source": "Eduardo Luis",
-      "source_handle": "@EduardoLuisOficial",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "15:18",
-      "url": "https://www.youtube.com/watch?v=A2jM7Ny5T94"
-    },
-    {
-      "id": "d1c9712b64da42eb",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "#CharlaAlbiazul 📺 | Capítulo 34 | Sexta Temporada",
-      "source": "Dimension Azul 1946",
-      "source_handle": "@dimensionazul1946",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "12:29",
-      "url": "https://www.youtube.com/watch?v=gKj77UMk5d0"
-    },
-    {
-      "id": "59d9c77e21012fc0",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "MEDELLÍN VS ALIANZA FC EN VIVO DESDE EL ATANASIO. GRAN PREVIO MEDALLO PARA TODOS TOXI STREAM RADIO",
-      "source": "Eduardo Luis",
-      "source_handle": "@EduardoLuisOficial",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "05:54",
-      "url": "https://www.youtube.com/watch?v=7RHxUVVnOBQ"
-    },
-    {
-      "id": "9d03fe60e4282e44",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "🔴🔵 ¡JACKSON VOLVIÓ CON GOL DESPUÉS DE 6 AÑOS! | ⚪ ONCE CALDAS, SEMIFINALISTA DE COPA",
-      "source": "Guillo Arango",
-      "source_handle": "@GuilloArango",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "23:31",
-      "url": "https://www.youtube.com/watch?v=DKEEonKZvMY"
-    },
-    {
-      "id": "c7a1c28295e10b0c",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "🤔🔴🔵 JACKSON MARTÍNEZ REGRESÓ DESPUÉS DE 6 AÑOS AL FÚTBOL CON GOL INCLUIDO",
-      "source": "Guillo Arango",
-      "source_handle": "@GuilloArango",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "22:10",
-      "url": "https://www.youtube.com/shorts/aUH64mFEW1E"
-    },
-    {
-      "id": "21ed469828af9e12",
-      "tag": "Lesiones",
-      "tipo": "noticia",
-      "title": "Ⓜ️ FLASH EMBAJADOR 🔥#MillonariosFC #FlashEmbajador #NoticiasMillonarios #LaCasaDelHinchaAzul",
-      "source": "Casa Azul Radio TV",
-      "source_handle": "@CasaAzulRadioTV",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "19:35",
-      "url": "https://www.youtube.com/shorts/5g1UdxO6AV0"
     }
   ],
   "rumors": [
