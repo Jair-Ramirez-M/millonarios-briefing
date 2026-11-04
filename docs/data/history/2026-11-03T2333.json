@@ -1,0 +1,295 @@
+{
+  "generated_at": "2026-11-03T23:33:39.462078-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 14,
+    "sources": 5,
+    "rumors": 4
+  },
+  "summary": "Se procesaron 14 publicaciones de 5 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Alberto Gamero analiza el clásico entre Millonarios y América de Cali: “Pocas veces cambia el 4-2-3 -1″; Millonarios, obligado ante América: ganar para acercarse a los cuadrangulares; Millonarios y América reeditan partidazo de mucha rivalidad en El Campín: los embajadores, con máxima obligación.",
+  "items": [
+    {
+      "id": "07d65285bdf71f83",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Alberto Gamero analiza el clásico entre Millonarios y América de Cali: “Pocas veces cambia el 4-2-3 -1″",
+      "source": "El Pais Cali",
+      "source_handle": "elpais.com.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:33",
+      "url": "https://www.elpais.com.co/deportes/alberto-gamero-analiza-el-clasico-entre-millonarios-y-america-de-cali-pocas-veces-cambia-el-4-2-3-1-0331.html"
+    },
+    {
+      "id": "c4b10c3c3d828124",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios, obligado ante América: ganar para acercarse a los cuadrangulares",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:22",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-america-de-cali-clasico-puede-definir-clasificacion-embajadora-donde-ver-en-vivo-274826"
+    },
+    {
+      "id": "a79d70eb1d231894",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Millonarios y América reeditan partidazo de mucha rivalidad en El Campín: los embajadores, con máxima obligación",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:49",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-y-america-reeditan-partidazo-de-mucha-rivalidad-en-el-campin-los-embajadores-con-maxima-obligacion-3598268"
+    },
+    {
+      "id": "fb13e5e1d824342a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Previa Millonarios vs América de Cali: Fecha 17 de Liga BetPlay, hora y TV",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:35",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/previa-millonarios-vs-america-de-cali-fecha-17-de-liga-betplay-hora-y-tv-274824"
+    },
+    {
+      "id": "0bf6dd2bfc4f5a25",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Gamero advierte a América y apunta a la clasificación de Millonarios: “Vamos a buscar nuestra clasificación”",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://primertiempo.co/futbol/gamero-advierte-a-america-y-apunta-a-la-clasificacion-de-millonarios-vamos-a-buscar-nuestra-clasificacion/"
+    },
+    {
+      "id": "d1a3a5a6725824c8",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Macalister Silva lanzó una advertencia antes del clásico: “Millonarios tiene que ir a cualquier cancha a buscar los tres puntos”",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://primertiempo.co/futbol/macalister-silva-lanzo-una-advertencia-antes-del-clasico-millonarios-tiene-que-ir-a-cualquier-cancha-a-buscar-los-tres-puntos/"
+    },
+    {
+      "id": "19e74f436c1e84a3",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¡Gamero encendió la ilusión en Millonarios! La noticia que estaban esperando los hinchas antes del clásico ante América",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://primertiempo.co/futbol/gamero-encendio-la-ilusion-en-millonarios-la-noticia-que-estaban-esperando-los-hinchas-antes-del-clasico-ante-america/"
+    },
+    {
+      "id": "d9d070a1b108b6e4",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "David González lanzó una advertencia a Millonarios antes del clásico: América quiere acostumbrarse a estos escenarios",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://primertiempo.co/futbol/david-gonzalez-lanzo-una-advertencia-a-millonarios-antes-del-clasico-america-quiere-acostumbrarse-a-estos-escenarios/"
+    },
+    {
+      "id": "649b210e3676708d",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios y América se juegan mucho más que tres puntos en El Campín: hora y canal del clásico",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://primertiempo.co/futbol/millonarios-y-america-se-juegan-mucho-mas-que-tres-puntos-en-el-campin-hora-y-canal-del-clasico/"
+    },
+    {
+      "id": "68b4e713fc8975a1",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vs. América de Cali: hora y dónde ver en vivo el clásico en El Campín",
+      "source": "El Espectador",
+      "source_handle": "elespectador.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-vs-america/"
+    },
+    {
+      "id": "2d00d353a4e60513",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Rodrigo Ureña tendría definido su futuro en Millonarios pese al interés de Universitario de Perú",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://primertiempo.co/futbol/rodrigo-urena-tendria-definido-su-futuro-en-millonarios-pese-al-interes-de-universitario-de-peru/"
+    },
+    {
+      "id": "a63cfba4c68b995f",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "David González, técnico del América, advierte del desafío que tendrá el equipo esta semana ante Millonarios y Deportivo Cali",
+      "source": "El Pais Cali",
+      "source_handle": "elpais.com.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://www.elpais.com.co/deportes/david-gonzalez-tecnico-del-america-advierte-del-desafio-que-tendra-el-equipo-esta-semana-ante-millonarios-y-deportivo-cali-0342.html"
+    },
+    {
+      "id": "48c799e29a6489f9",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "América de Cali lanzó desafiante mensaje a Millonarios antes del clásico en El Campín",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://primertiempo.co/futbol/america-de-cali-lanzo-desafiante-mensaje-a-millonarios-antes-del-clasico-en-el-campin/"
+    },
+    {
+      "id": "e3023c02e0ca0706",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "El Barcelona vence al Aston Villa y recupera terreno en la Champions League",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "17:09",
+      "url": "https://www.eltiempo.com/deportes/futbol-internacional/el-barcelona-vence-al-aston-villa-y-recupera-terreno-en-la-champions-league-3598232"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "interes-gamero",
+      "titulo": "Gamero advierte a América y apunta a la clasificación de Millonarios: “Vamos a buscar nuestra clasificación”",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-03T22:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/gamero-advierte-a-america-y-apunta-a-la-clasificacion-de-millonarios-vamos-a-buscar-nuestra-clasificacion/",
+          "is_first": true,
+          "when_label": "Hoy 22:25"
+        }
+      ]
+    },
+    {
+      "tema": "interes-david-gonzález",
+      "titulo": "David González lanzó una advertencia a Millonarios antes del clásico: América quiere acostumbrarse a estos escenarios",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-03T22:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/david-gonzalez-lanzo-una-advertencia-a-millonarios-antes-del-clasico-america-quiere-acostumbrarse-a-estos-escenarios/",
+          "is_first": true,
+          "when_label": "Hoy 22:25"
+        }
+      ]
+    },
+    {
+      "tema": "llegada-nacional",
+      "titulo": "Nacional, América y Millonarios se pelean el fichaje de Franco Fagúndez: Santa Fe podría perder a su goleador",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-28T05:22:00-05:00",
+          "url": "https://primertiempo.co/futbol/nacional-america-y-millonarios-se-pelean-el-fichaje-de-franco-fagundez-santa-fe-podria-perder-a-su-goleador/",
+          "is_first": true,
+          "when_label": "28 oct 05:22"
+        }
+      ]
+    },
+    {
+      "tema": "salida-rodrigo-ureña",
+      "titulo": "¿Se va de Millonarios? Rodrigo Ureña pierde terreno y dos clubes estarían atentos a su futuro",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-22T23:24:00-05:00",
+          "url": "https://primertiempo.co/futbol/se-va-de-millonarios-rodrigo-urena-pierde-terreno-y-dos-clubes-estarian-atentos-a-su-futuro/",
+          "is_first": true,
+          "when_label": "22 oct 23:24"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 4,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
