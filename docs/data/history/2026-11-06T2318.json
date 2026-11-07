@@ -1,0 +1,219 @@
+{
+  "generated_at": "2026-11-06T23:18:15.860211-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 7,
+    "sources": 2,
+    "rumors": 4
+  },
+  "summary": "Se procesaron 7 publicaciones de 2 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios asegura una renovación hasta 2032 y prepara un premio histórico para sus hinchas; Millonarios pierde a Rodrigo Ureña para una final anticipada: Dimayor confirmó la sanción; Millonarios visita a Tolima: ojo a esta decisión para sus hinchas.",
+  "items": [
+    {
+      "id": "29821ed8e6084351",
+      "tag": "Renovacion",
+      "tipo": "noticia",
+      "title": "Millonarios asegura una renovación hasta 2032 y prepara un premio histórico para sus hinchas",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:25",
+      "url": "https://primertiempo.co/futbol/millonarios-asegura-una-renovacion-hasta-2032-y-prepara-un-premio-historico-para-sus-hinchas/"
+    },
+    {
+      "id": "4920b31d6c0b9e2a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios pierde a Rodrigo Ureña para una final anticipada: Dimayor confirmó la sanción",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:25",
+      "url": "https://primertiempo.co/futbol/millonarios-pierde-a-rodrigo-urena-para-una-final-anticipada-dimayor-confirmo-la-sancion/"
+    },
+    {
+      "id": "604745e497ec5ce5",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios visita a Tolima: ojo a esta decisión para sus hinchas",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:25",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/asi-sera-el-ingreso-de-los-hinchas-para-tolima-vs-millonarios-610543"
+    },
+    {
+      "id": "0c5ef89dc27c2b2a",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Millonarios tendría otra salida para 2027: extranjero no habría convencido a la dirigencia",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:25",
+      "url": "https://primertiempo.co/futbol/millonarios-tendria-otra-salida-para-2027-extranjero-no-habria-convencido-a-la-dirigencia/"
+    },
+    {
+      "id": "cfad25c718a1ccc0",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Dumek Turbay arremete contra el rector de UMayor y revela millonarios recursos sin ejecutar",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:25",
+      "url": "https://primertiempo.co/ciudadpt/dumek-turbay-arremete-contra-el-rector-de-umayor-y-revela-millonarios-recursos-sin-ejecutar/"
+    },
+    {
+      "id": "c84298bc2340bd23",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Primera salida en Millonarios: extremo no sería renovado para 2027",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:25",
+      "url": "https://www.colombia.com/futbol/futbol-colombiano/carlos-darwin-quintero-saldria-de-millonarios-en-diciembre-610418"
+    },
+    {
+      "id": "518ac9898f9119e6",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios pierde a jugador clave para el cierre de la Liga BetPlay",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:25",
+      "url": "https://www.colombia.com/futbol/futbol-colombiano/rodrigo-urena-es-baja-en-millonarios-por-acumulacion-de-amarillas-610408"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "renovacion-millonarios-asegura-una",
+      "titulo": "Millonarios asegura una renovación hasta 2032 y prepara un premio histórico para sus hinchas",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/millonarios-asegura-una-renovacion-hasta-2032-y-prepara-un-premio-historico-para-sus-hinchas/",
+          "is_first": true,
+          "when_label": "Hoy 21:25"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-primera",
+      "titulo": "Primera salida en Millonarios: extremo no sería renovado para 2027",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://www.colombia.com/futbol/futbol-colombiano/carlos-darwin-quintero-saldria-de-millonarios-en-diciembre-610418",
+          "is_first": true,
+          "when_label": "Hoy 21:25"
+        }
+      ]
+    },
+    {
+      "tema": "interes-gamero",
+      "titulo": "Gamero advierte a América y apunta a la clasificación de Millonarios: “Vamos a buscar nuestra clasificación”",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-03T22:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/gamero-advierte-a-america-y-apunta-a-la-clasificacion-de-millonarios-vamos-a-buscar-nuestra-clasificacion/",
+          "is_first": true,
+          "when_label": "3 nov 22:25"
+        }
+      ]
+    },
+    {
+      "tema": "interes-david-gonzález",
+      "titulo": "David González lanzó una advertencia a Millonarios antes del clásico: América quiere acostumbrarse a estos escenarios",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-03T22:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/david-gonzalez-lanzo-una-advertencia-a-millonarios-antes-del-clasico-america-quiere-acostumbrarse-a-estos-escenarios/",
+          "is_first": true,
+          "when_label": "3 nov 22:25"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 3,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
