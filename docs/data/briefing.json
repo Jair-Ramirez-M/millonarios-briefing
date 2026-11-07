@@ -1,15 +1,93 @@
 {
-  "generated_at": "2026-11-06T23:18:15.860211-05:00",
-  "shift": "tarde",
-  "shift_label": "Edicion Tarde",
+  "generated_at": "2026-11-07T12:35:31.332004-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
   "team": "Millonarios FC",
   "stats": {
-    "items": 7,
-    "sources": 2,
-    "rumors": 4
+    "items": 16,
+    "sources": 8,
+    "rumors": 5
   },
-  "summary": "Se procesaron 7 publicaciones de 2 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios asegura una renovación hasta 2032 y prepara un premio histórico para sus hinchas; Millonarios pierde a Rodrigo Ureña para una final anticipada: Dimayor confirmó la sanción; Millonarios visita a Tolima: ojo a esta decisión para sus hinchas.",
+  "summary": "Se procesaron 16 publicaciones de 8 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios pierde dos jugadores para enfrentar a Tolima: uno sufrió una lesión muscular; Millonarios sufre ausencias definitivas para su visita a Tolima: lesiones, suspensión y más; Fiebre de F1, partidazos en la NFL y la NBA: La previa EN VIVO con Los de Abajo.",
   "items": [
+    {
+      "id": "8967e2b8666683f4",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios pierde dos jugadores para enfrentar a Tolima: uno sufrió una lesión muscular",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "12:35",
+      "url": "https://primertiempo.co/futbol/millonarios-pierde-dos-jugadores-para-enfrentar-a-tolima-uno-sufrio-una-lesion-muscular/"
+    },
+    {
+      "id": "2c33fff3fc36fa38",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Millonarios sufre ausencias definitivas para su visita a Tolima: lesiones, suspensión y más",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "12:23",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-sufre-ausencias-definitivas-para-su-visita-a-tolima-lesiones-suspension-y-mas-3599254"
+    },
+    {
+      "id": "7c50901aaac639b1",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Fiebre de F1, partidazos en la NFL y la NBA: La previa EN VIVO con Los de Abajo",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "10:21",
+      "url": "https://www.youtube.com/watch?v=M3j6WiPvK5s"
+    },
+    {
+      "id": "a5105836af8a8491",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "TOLIMA VS MILLONARIOS - PREVIA EN VIVO | MILLOS SE JUEGA LA CLASIFICACIÓN A LOS 8 - FECHA 18",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "02:07",
+      "url": "https://www.youtube.com/watch?v=m9_qiZEsx_g"
+    },
+    {
+      "id": "f4feb231aab203de",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millos promete jugar a muerte contra Tolima",
+      "source": "Pache Andrade Multimedia",
+      "source_handle": "@pacheandrademultimedia",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "01:18",
+      "url": "https://www.youtube.com/watch?v=7ZrFM_lXhUM"
+    },
+    {
+      "id": "3ad881f39a260a2a",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "La convocatoria de Lorenzo: ¿Aciertos, premios o sorpresas difíciles de entender? | Antonio Casale",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "19:07",
+      "url": "https://www.youtube.com/watch?v=DncNHdSDQys"
+    },
     {
       "id": "29821ed8e6084351",
       "tag": "Renovacion",
@@ -19,7 +97,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:25",
       "url": "https://primertiempo.co/futbol/millonarios-asegura-una-renovacion-hasta-2032-y-prepara-un-premio-historico-para-sus-hinchas/"
     },
@@ -32,7 +110,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:25",
       "url": "https://primertiempo.co/futbol/millonarios-pierde-a-rodrigo-urena-para-una-final-anticipada-dimayor-confirmo-la-sancion/"
     },
@@ -45,7 +123,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:25",
       "url": "https://www.colombia.com/futbol/liga-colombiana/asi-sera-el-ingreso-de-los-hinchas-para-tolima-vs-millonarios-610543"
     },
@@ -58,7 +136,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:25",
       "url": "https://primertiempo.co/futbol/millonarios-tendria-otra-salida-para-2027-extranjero-no-habria-convencido-a-la-dirigencia/"
     },
@@ -71,7 +149,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:25",
       "url": "https://primertiempo.co/ciudadpt/dumek-turbay-arremete-contra-el-rector-de-umayor-y-revela-millonarios-recursos-sin-ejecutar/"
     },
@@ -84,7 +162,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:25",
       "url": "https://www.colombia.com/futbol/futbol-colombiano/carlos-darwin-quintero-saldria-de-millonarios-en-diciembre-610418"
     },
@@ -97,9 +175,48 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:25",
       "url": "https://www.colombia.com/futbol/futbol-colombiano/rodrigo-urena-es-baja-en-millonarios-por-acumulacion-de-amarillas-610408"
+    },
+    {
+      "id": "1a55f4d89b475ce4",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🚨NOS LA JUGAMOS: ESTOS SERÁN LOS 8 DE LA LIGA! 🔥LOS CONVOCADOS DE LORENZO. HAY SORPRESAS |FECHA 18",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "13:30",
+      "url": "https://www.youtube.com/watch?v=KagBsTMR8Y4"
+    },
+    {
+      "id": "8f587ca6091b2737",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "😱🇨🇴 ¡CAMILO MENA, EL PALO DE LA CONVOCATORIA DE LA SELECCIÓN COLOMBIA!",
+      "source": "Guillo Arango",
+      "source_handle": "@GuilloArango",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "13:30",
+      "url": "https://www.youtube.com/watch?v=4IYX7Eic69o"
+    },
+    {
+      "id": "de57b25ada3e2610",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "SORPRESA EN LA CONVOCATORIA. ¿QUÉ PASÓ CON JUANFER Y MARTEGANI? TENEMOS GERENTE DEPORTIVO. MPT CAP30",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "12:55",
+      "url": "https://www.youtube.com/watch?v=MKkDZsww6zE"
     }
   ],
   "rumors": [
@@ -119,7 +236,7 @@
           "when": "2026-11-06T21:25:00-05:00",
           "url": "https://primertiempo.co/futbol/millonarios-asegura-una-renovacion-hasta-2032-y-prepara-un-premio-historico-para-sus-hinchas/",
           "is_first": true,
-          "when_label": "Hoy 21:25"
+          "when_label": "Ayer 21:25"
         }
       ]
     },
@@ -139,7 +256,7 @@
           "when": "2026-11-06T21:25:00-05:00",
           "url": "https://www.colombia.com/futbol/futbol-colombiano/carlos-darwin-quintero-saldria-de-millonarios-en-diciembre-610418",
           "is_first": true,
-          "when_label": "Hoy 21:25"
+          "when_label": "Ayer 21:25"
         }
       ]
     },
@@ -182,6 +299,26 @@
           "when_label": "3 nov 22:25"
         }
       ]
+    },
+    {
+      "tema": "interes-negocio-cado-los",
+      "titulo": "🚫💰 ¡NEGOCIO CAÍDO! LOS DETALLES DE LA VENTA FALLIDA DE MILLONARIOS Ⓜ️",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Guillo Arango",
+      "timeline": [
+        {
+          "source": "Guillo Arango",
+          "handle": "@GuilloArango",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-27T23:26:52+00:00",
+          "url": "https://www.youtube.com/watch?v=dpTYgdVVlLo",
+          "is_first": true,
+          "when_label": "27 oct 18:26"
+        }
+      ]
     }
   ],
   "sources": [
@@ -204,6 +341,21 @@
       "handle": "colombia.com",
       "name": "Colombia.com",
       "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@GuilloArango",
+      "name": "Guillo Arango",
+      "type": "periodista",
       "tier": 2,
       "n_claims": 1,
       "hits": 0,
