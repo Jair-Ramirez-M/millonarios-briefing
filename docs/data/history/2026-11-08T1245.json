@@ -1,0 +1,306 @@
+{
+  "generated_at": "2026-11-08T12:45:33.121367-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 11,
+    "sources": 10,
+    "rumors": 5
+  },
+  "summary": "Se procesaron 11 publicaciones de 10 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Tolima - Millonarios: TV, horario y cómo ver online la Liga BetPlay; 🔵⚽ ¿NOS METEMOS A LOS 8? !Y NO HAY TIEMPO PARA RELAJARSE! 🔥; Deportes Tolima vs. Millonarios HOY en vivo: hora y dónde ver el partido de la fecha 18 de la Liga BetPlay Dimayor.",
+  "items": [
+    {
+      "id": "976488eb1fde404a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Tolima - Millonarios: TV, horario y cómo ver online la Liga BetPlay",
+      "source": "colombia.as.com",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "12:45",
+      "url": "https://colombia.as.com/futbol/tolima-millonarios-tv-horario-y-como-ver-online-la-liga-betplay-f202611-n/"
+    },
+    {
+      "id": "d213493f41439cd6",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵⚽ ¿NOS METEMOS A LOS 8? !Y NO HAY TIEMPO PARA RELAJARSE! 🔥",
+      "source": "Barba Azul 1946",
+      "source_handle": "@BarbaAzul1946",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "12:08",
+      "url": "https://www.youtube.com/watch?v=Yw1dRfXd000"
+    },
+    {
+      "id": "973a2f268c573248",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Deportes Tolima vs. Millonarios HOY en vivo: hora y dónde ver el partido de la fecha 18 de la Liga BetPlay Dimayor",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "11:30",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/deportes-tolima-vs-millonarios-hoy-en-vivo-hora-y-donde-ver-el-partido-de-la-fecha-18-de-la-liga-betplay-dimayor-3599371"
+    },
+    {
+      "id": "64bef3ba81ce4315",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "LA PREVIA Ⓜ️⚽️ #millonariosfc  #LaCasaDelHinchaAzul #TolimaVsMillonarios",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "09:49",
+      "url": "https://www.youtube.com/shorts/fHEEyUEG05Y"
+    },
+    {
+      "id": "197561068ffc31fe",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🥱 ¡CLÁSICO PARA EL BOSTEZO! 👹AMÉRICA 0-0 CALI 🟢 | ⚪️ DAYRO ACERCA AL ONCE CALDAS A CUADRANGULARES",
+      "source": "Guillo Arango",
+      "source_handle": "@GuilloArango",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "00:18",
+      "url": "https://www.youtube.com/watch?v=EFH4czcC2Gg"
+    },
+    {
+      "id": "e96830573ef6a331",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Previa Tolima  vs Millonarios Liga Betplay 2026-2: Valencia afuera por lesión; obligados a sumar",
+      "source": "Los Millonarios .NET TV",
+      "source_handle": "@LosMillonariosNetTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "00:04",
+      "url": "https://www.youtube.com/watch?v=DRIvbWsCJEo"
+    },
+    {
+      "id": "d76fd1f1a77ca55f",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Previa Tolima  vs Millonarios Liga Betplay 2026-2: Valencia afuera por lesión; obligados a sumar",
+      "source": "Las 5 de Millos",
+      "source_handle": "@Las5DeMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "00:03",
+      "url": "https://www.youtube.com/watch?v=f6PdfJEgvGI"
+    },
+    {
+      "id": "b54bc194791e8566",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Tolima y Millonarios, a todo o nada para buscar clasificación en Liga",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:31",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/deportes-tolima-vs-millonarios-previa-hora-y-como-ver-en-vivo-por-tv-fecha-18-liga-2026-ii-275048"
+    },
+    {
+      "id": "eec37aa919105635",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Tolima vs Millonarios: Duelo clave en Liga BetPlay, cuándo y dónde verlo",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "18:15",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/tolima-vs-millonarios-duelo-clave-en-liga-betplay-cuando-y-donde-verlo-275034"
+    },
+    {
+      "id": "88c4e87fa34a1706",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Y si Millonarios gana la Copa Libertadores? 🏆💙 #Shorts",
+      "source": "Noticias Millos",
+      "source_handle": "@NoticiasMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "13:13",
+      "url": "https://www.youtube.com/shorts/o-GOZO-5elw"
+    },
+    {
+      "id": "8967e2b8666683f4",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios pierde dos jugadores para enfrentar a Tolima: uno sufrió una lesión muscular",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "17:24",
+      "url": "https://primertiempo.co/futbol/millonarios-pierde-dos-jugadores-para-enfrentar-a-tolima-uno-sufrio-una-lesion-muscular/"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "renovacion-millonarios-asegura-una",
+      "titulo": "Millonarios asegura una renovación hasta 2032 y prepara un premio histórico para sus hinchas",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/millonarios-asegura-una-renovacion-hasta-2032-y-prepara-un-premio-historico-para-sus-hinchas/",
+          "is_first": true,
+          "when_label": "6 nov 21:25"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-primera",
+      "titulo": "Primera salida en Millonarios: extremo no sería renovado para 2027",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://www.colombia.com/futbol/futbol-colombiano/carlos-darwin-quintero-saldria-de-millonarios-en-diciembre-610418",
+          "is_first": true,
+          "when_label": "6 nov 21:25"
+        }
+      ]
+    },
+    {
+      "tema": "interes-gamero",
+      "titulo": "Gamero advierte a América y apunta a la clasificación de Millonarios: “Vamos a buscar nuestra clasificación”",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-03T22:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/gamero-advierte-a-america-y-apunta-a-la-clasificacion-de-millonarios-vamos-a-buscar-nuestra-clasificacion/",
+          "is_first": true,
+          "when_label": "3 nov 22:25"
+        }
+      ]
+    },
+    {
+      "tema": "interes-david-gonzález",
+      "titulo": "David González lanzó una advertencia a Millonarios antes del clásico: América quiere acostumbrarse a estos escenarios",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-03T22:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/david-gonzalez-lanzo-una-advertencia-a-millonarios-antes-del-clasico-america-quiere-acostumbrarse-a-estos-escenarios/",
+          "is_first": true,
+          "when_label": "3 nov 22:25"
+        }
+      ]
+    },
+    {
+      "tema": "interes-negocio-cado-los",
+      "titulo": "🚫💰 ¡NEGOCIO CAÍDO! LOS DETALLES DE LA VENTA FALLIDA DE MILLONARIOS Ⓜ️",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Guillo Arango",
+      "timeline": [
+        {
+          "source": "Guillo Arango",
+          "handle": "@GuilloArango",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-27T23:26:52+00:00",
+          "url": "https://www.youtube.com/watch?v=dpTYgdVVlLo",
+          "is_first": true,
+          "when_label": "27 oct 18:26"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 3,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@GuilloArango",
+      "name": "Guillo Arango",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
