@@ -1,0 +1,323 @@
+{
+  "generated_at": "2026-11-08T23:16:43.412294-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 15,
+    "sources": 4,
+    "rumors": 4
+  },
+  "summary": "Se procesaron 15 publicaciones de 4 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Tolima vence a Millonarios y aplaza la clasificación azul; La maldición de Millonarios: así le ha ido cuando dependía de sí mismo para clasificar en los últimos dos años; Millonarios consolidó terrible dato en partidos contra Tolima.",
+  "items": [
+    {
+      "id": "7b6ec09bcadddeae",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Tolima vence a Millonarios y aplaza la clasificación azul",
+      "source": "colombia.as.com",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:16",
+      "url": "https://colombia.as.com/futbol/tolima-vence-a-millonarios-y-aplaza-la-clasificacion-azul-hasta-la-ultima-fecha-f202611-n/"
+    },
+    {
+      "id": "51cc3decbc9f1909",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "La maldición de Millonarios: así le ha ido cuando dependía de sí mismo para clasificar en los últimos dos años",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:52",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/la-maldicion-de-millonarios-asi-le-ha-ido-cuando-dependia-de-si-mismo-para-clasificar-en-los-ultimos-dos-anos-3599478"
+    },
+    {
+      "id": "381300747536db81",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios consolidó terrible dato en partidos contra Tolima",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:39",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-acumulo-13-anos-sin-poder-ganarle-a-deportes-tolima-en-ibague-275089"
+    },
+    {
+      "id": "da3e553e82d85b87",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios, sin margen de error: sus cuentas para clasificar en Liga",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:25",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/cuentas-de-millonarios-para-clasificar-en-cuadrangulares-de-la-liga-betplay-2026-ii-275087"
+    },
+    {
+      "id": "c5e282439a9bfeed",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Alberto Gamero admite fallas de Millonarios, pero confía en la clasificación",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:15",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/declaraciones-de-alberto-gamero-tras-derrota-de-millonarios-contra-tolima-275084"
+    },
+    {
+      "id": "cd8ad4f47dc95cde",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Alberto Gamero intenta dar tranquilidad tras derrota de Millonarios con Tolima: 'No se me pasa por la cabeza no clasificar'",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "21:03",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/alberto-gamero-intenta-dar-tranquilidad-tras-derrota-de-millonarios-con-tolima-no-se-me-pasa-por-la-cabeza-no-clasificar-3599464"
+    },
+    {
+      "id": "4128d56a1a8a58f3",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Tolima 2-1 Millonarios: reviva victoria del pijao que complica al embajador",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:51",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/deportes-tolima-vs-millonarios-en-vivo-minuto-a-minuto-fecha-18-liga-betplay-2026-ii-275069"
+    },
+    {
+      "id": "56b3a5b483613263",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios quedó pendiendo de un hilo: perdió contra el Tolima y está obligado a ganar para pelear por la clasificación",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:35",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-quedo-pendiendo-de-un-hilo-perdio-contra-tolima-y-esta-obligado-a-ganar-para-pelear-por-la-clasificacion-3599456"
+    },
+    {
+      "id": "8a89dae986f653ca",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Tolima remonta a Millonarios 2-1 en Ibagué con goles de Valencia y Flórez",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:30",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/tolima-remonta-a-millonarios-2-1-en-ibague-con-goles-de-valencia-y-florez-275081"
+    },
+    {
+      "id": "4d8d202cdd18241f",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios perdió, aplazó clasificación y Tolima tomó vida en Liga",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:10",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/goles-resumen-y-resultado-deportes-tolima-vs-millonarios-fecha-18-liga-betplay-2026-ii-275080"
+    },
+    {
+      "id": "c59ca32f0d3262f2",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Juan Guillermo Cuadrado sacó su calidad ante Tolima para hacer primer golazo con Millonarios",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "18:50",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/juan-guillermo-cuadrado-saco-su-calidad-ante-tolima-para-hacer-primer-golazo-con-millonarios-3599445"
+    },
+    {
+      "id": "b15f6f9168737f4c",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Juan Guillermo Cuadrado anotó soberbio primer golazo con Millonarios",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "18:41",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/vea-primer-gol-de-juan-guillermo-cuadrado-con-millonarios-ante-tolima-en-liga-2026-ii-275074"
+    },
+    {
+      "id": "2b94df43b3d6bdaf",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Tolima vs. Millonarios, en vivo: siga el minuto a minuto del partido de Liga BetPlay",
+      "source": "El Espectador",
+      "source_handle": "elespectador.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:47",
+      "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/tolima-vs-millonarios-en-vivo-siga-el-minuto-a-minuto-del-partido-de-liga-betplay/"
+    },
+    {
+      "id": "976488eb1fde404a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Tolima - Millonarios: TV, horario y cómo ver online la Liga BetPlay",
+      "source": "El Espectador",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:47",
+      "url": "https://colombia.as.com/futbol/tolima-millonarios-tv-horario-y-como-ver-online-la-liga-betplay-f202611-n/"
+    },
+    {
+      "id": "135dc045aa7392ea",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Tolima vs. Millonarios: Duelo crucial por la clasificación en la Liga BetPlay",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "16:15",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/tolima-vs-millonarios-duelo-crucial-por-la-clasificacion-en-la-liga-betplay-275063"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "renovacion-millonarios-asegura-una",
+      "titulo": "Millonarios asegura una renovación hasta 2032 y prepara un premio histórico para sus hinchas",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/millonarios-asegura-una-renovacion-hasta-2032-y-prepara-un-premio-historico-para-sus-hinchas/",
+          "is_first": true,
+          "when_label": "6 nov 21:25"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-primera",
+      "titulo": "Primera salida en Millonarios: extremo no sería renovado para 2027",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://www.colombia.com/futbol/futbol-colombiano/carlos-darwin-quintero-saldria-de-millonarios-en-diciembre-610418",
+          "is_first": true,
+          "when_label": "6 nov 21:25"
+        }
+      ]
+    },
+    {
+      "tema": "interes-gamero",
+      "titulo": "Gamero advierte a América y apunta a la clasificación de Millonarios: “Vamos a buscar nuestra clasificación”",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-03T22:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/gamero-advierte-a-america-y-apunta-a-la-clasificacion-de-millonarios-vamos-a-buscar-nuestra-clasificacion/",
+          "is_first": true,
+          "when_label": "3 nov 22:25"
+        }
+      ]
+    },
+    {
+      "tema": "interes-david-gonzález",
+      "titulo": "David González lanzó una advertencia a Millonarios antes del clásico: América quiere acostumbrarse a estos escenarios",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-03T22:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/david-gonzalez-lanzo-una-advertencia-a-millonarios-antes-del-clasico-america-quiere-acostumbrarse-a-estos-escenarios/",
+          "is_first": true,
+          "when_label": "3 nov 22:25"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 3,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
