@@ -1,15 +1,197 @@
 {
-  "generated_at": "2026-11-12T00:28:59.211587-05:00",
-  "shift": "manana",
-  "shift_label": "Edicion Manana",
+  "generated_at": "2026-11-12T14:40:43.746796-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
   "team": "Millonarios FC",
   "stats": {
-    "items": 7,
-    "sources": 4,
-    "rumors": 3
+    "items": 26,
+    "sources": 12,
+    "rumors": 6
   },
-  "summary": "Se procesaron 7 publicaciones de 4 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Otra baja: Millonarios pierde titular para enfrentar a Alianza; Gamero sufre: Bajas de Millonarios para enfrentar a Alianza; Millonarios pierde dos figuras para el partido que definirá su clasificación.",
+  "summary": "Se procesaron 26 publicaciones de 12 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios se juega la vida ante Alianza: hora, fecha y canal; Falleció jugador de América, Millonarios y Atlético Nacional; Daniel Ruiz sufre lesión muscular y es baja en Millonarios.",
   "items": [
+    {
+      "id": "3ee840521854eede",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios se juega la vida ante Alianza: hora, fecha y canal",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "14:40",
+      "url": "https://www.colombia.com/futbol/futbol-colombiano/millonarios-vs-alianza-hora-y-que-necesita-para-clasificar-612311"
+    },
+    {
+      "id": "65670e47e05d3f43",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Falleció jugador de América, Millonarios y Atlético Nacional",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "14:40",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/murio-javier-toro-tamayo-exdelantero-del-dim-y-de-nacional-612275"
+    },
+    {
+      "id": "86ca729d4a0175aa",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Daniel Ruiz sufre lesión muscular y es baja en Millonarios",
+      "source": "colombia.as.com",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "14:40",
+      "url": "https://colombia.as.com/futbol/daniel-ruiz-sufre-lesion-muscular-y-es-baja-en-millonarios-f202611-n/"
+    },
+    {
+      "id": "e2130dbee7f31a73",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿EL AÑO MÁS GRANDE DEL GAMING? Especial LoL Worlds, Zelda Ocarina Remake y GTA VI | Los de abajo",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "13:29",
+      "url": "https://www.youtube.com/watch?v=eEqN4Lz2aRQ"
+    },
+    {
+      "id": "a51838553ada5a5b",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "¡PRIMICIA MTF! AMÉRICA PERDIÓ LOS PUNTOS. INTER DE BOGOTÁ GANÓ LA DEMANDA ANTE EL TAS.",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "13:10",
+      "url": "https://www.youtube.com/shorts/nT0AOwZDSPo"
+    },
+    {
+      "id": "d2cdbf4acdd94904",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🚨URGENTE: AMÉRICA PIERDE PUNTOS EN EL TAS | FIDRY SE VA DEL JUNIOR? |¿EL MEJOR JUGADOR DE LA LIGA?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "13:05",
+      "url": "https://www.youtube.com/watch?v=AL3DyTDjMhs"
+    },
+    {
+      "id": "3b02dfbe845b5ef7",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "⚽ ASB COLMUNDO RADIO LLEGA A LA UNIVERSIDAD SANTO TOMÁS",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "12:09",
+      "url": "https://www.youtube.com/shorts/y3T4DucXaq0"
+    },
+    {
+      "id": "d81e07d9efe51c98",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios prepara un partido de asalto",
+      "source": "Pache Andrade Multimedia",
+      "source_handle": "@pacheandrademultimedia",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "11:54",
+      "url": "https://www.youtube.com/watch?v=RL-cHCrtMPw"
+    },
+    {
+      "id": "35a291050035b088",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿MILLONARIOS LISTO PARA EL SÁBADO? VS ALIANZA, PARTE MÉDICO Y BARRA INVITADA | EN VIVO",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "11:21",
+      "url": "https://www.youtube.com/watch?v=Hiyoh-05XIk"
+    },
+    {
+      "id": "05d100c13b05e6d2",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "El choque entre NÉSTOR LORENZO y LUCAS GONZÁLEZ: les cuento quién tiene la razón | Antonio Casale",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "10:59",
+      "url": "https://www.youtube.com/watch?v=yrdKUzWC9kg"
+    },
+    {
+      "id": "7fe78c69e3bb45ca",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "🔵NOTICIAS EN MILLONARIOS. BAJAS IMPORTANTES PARA EL PARTIDO DECISIVO CONTRA ALIANZA ¿HAY OPTIMISMO?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "09:49",
+      "url": "https://www.youtube.com/watch?v=Ve9ilSVict8"
+    },
+    {
+      "id": "4362ce36d7771d34",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "CLASIFICAR NO ES SUFICIENTE: ¿QUÉ DEBE DEMOSTRAR MILLOS EN LA ÚLTIMA FECHA?",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "03:16",
+      "url": "https://www.youtube.com/watch?v=ctxMgnBqn9Q"
+    },
+    {
+      "id": "33c6842dba01ba57",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millos prepara su mejor equipo",
+      "source": "Pache Andrade Multimedia",
+      "source_handle": "@pacheandrademultimedia",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "01:35",
+      "url": "https://www.youtube.com/watch?v=hcC-0-Z16qI"
+    },
+    {
+      "id": "cdc461145c468287",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "#Top3 📹 | PUEDE SER EL ÚLTIMO PARTIDO DE MILLONARIOS EN EL AÑO",
+      "source": "Dimension Azul 1946",
+      "source_handle": "@dimensionazul1946",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "21:13",
+      "url": "https://www.youtube.com/watch?v=Nu8WYGtgvj4"
+    },
     {
       "id": "fc0ea8e8f898c3c3",
       "tag": "Lesiones",
@@ -100,9 +282,94 @@
       "date": "Ayer",
       "time": "22:35",
       "url": "https://www.elcolombiano.com/deportes/futbol/cuanto-dinero-mueve-futbol-colombiano-ingresos-clubes-GH43448187"
+    },
+    {
+      "id": "fb8dd951270a05f0",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Ⓜ️ ALIANZA NO ES UN PARTIDO GANADO 🧐#MillonariosFC #VamosMillos #AlianzaFC #LaCasaDelHinchaAzul",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "17:14",
+      "url": "https://www.youtube.com/shorts/UjTBqTVn0Pw"
+    },
+    {
+      "id": "b128a50c6a0948f2",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵 Millonarios tiene que gana , no hay otra opción Ⓜ️#millonarios  #VamosMillos #LaCasaDelHinchaAzul",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "17:11",
+      "url": "https://www.youtube.com/shorts/3cFVr7vhx4s"
+    },
+    {
+      "id": "e8cac73a9500f4d3",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵⚪️¿QUÉ LE QUEDA A MILLONARIOS? 🤔 #MillonariosFC #FutbolColombiano #LaCasaDelHinchaAzul",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "17:05",
+      "url": "https://www.youtube.com/shorts/jurv5NDdsO8"
+    },
+    {
+      "id": "d57f0f7a53a1c78d",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Clasificamos o se viene el papelón?",
+      "source": "Las 5 de Millos",
+      "source_handle": "@Las5DeMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "15:17",
+      "url": "https://www.youtube.com/shorts/K2YhPBJ2Ea0"
+    },
+    {
+      "id": "571ab125bec3c5d1",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Clasificamos o se viene el papelón?",
+      "source": "Los Millonarios .NET TV",
+      "source_handle": "@LosMillonariosNetTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "15:16",
+      "url": "https://www.youtube.com/shorts/3x389KEUoXs"
     }
   ],
   "rumors": [
+    {
+      "tema": "salida-urgente-amrica-pierde",
+      "titulo": "🚨URGENTE: AMÉRICA PIERDE PUNTOS EN EL TAS | FIDRY SE VA DEL JUNIOR? |¿EL MEJOR JUGADOR DE LA LIGA?",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 80,
+      "first_source": "Eduardo Luis",
+      "timeline": [
+        {
+          "source": "Eduardo Luis",
+          "handle": "@EduardoLuisOficial",
+          "tier": 1,
+          "postura": "afirma",
+          "when": "2026-11-12T18:05:03+00:00",
+          "url": "https://www.youtube.com/watch?v=AL3DyTDjMhs",
+          "is_first": true,
+          "when_label": "Hoy 13:05"
+        }
+      ]
+    },
     {
       "tema": "interes-así",
       "titulo": "¿De dónde sale el dinero para pagar los millonarios salarios de los futbolistas? Así funciona el negocio del fútbol",
@@ -162,9 +429,64 @@
           "when_label": "6 nov 21:25"
         }
       ]
+    },
+    {
+      "tema": "interes-negocio-cado-los",
+      "titulo": "🚫💰 ¡NEGOCIO CAÍDO! LOS DETALLES DE LA VENTA FALLIDA DE MILLONARIOS Ⓜ️",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Guillo Arango",
+      "timeline": [
+        {
+          "source": "Guillo Arango",
+          "handle": "@GuilloArango",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-27T23:26:52+00:00",
+          "url": "https://www.youtube.com/watch?v=dpTYgdVVlLo",
+          "is_first": true,
+          "when_label": "27 oct 18:26"
+        }
+      ]
+    },
+    {
+      "tema": "llegada-asb-colmundo-radio",
+      "titulo": "⚽ ASB COLMUNDO RADIO LLEGA A LA UNIVERSIDAD SANTO TOMÁS",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 35,
+      "first_source": "Casa Azul Radio TV",
+      "timeline": [
+        {
+          "source": "Casa Azul Radio TV",
+          "handle": "@CasaAzulRadioTV",
+          "tier": 3,
+          "postura": "afirma",
+          "when": "2026-11-12T17:09:28+00:00",
+          "url": "https://www.youtube.com/shorts/y3T4DucXaq0",
+          "is_first": true,
+          "when_label": "Hoy 12:09"
+        }
+      ]
     }
   ],
   "sources": [
+    {
+      "handle": "@EduardoLuisOficial",
+      "name": "Eduardo Luis",
+      "type": "periodista",
+      "tier": 1,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
     {
       "handle": "elcolombiano.com",
       "name": "Colombia",
@@ -200,6 +522,36 @@
       "name": "Colombia.com",
       "type": "prensa",
       "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@GuilloArango",
+      "name": "Guillo Arango",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@CasaAzulRadioTV",
+      "name": "Casa Azul Radio TV",
+      "type": "partidario",
+      "tier": 3,
       "n_claims": 1,
       "hits": 0,
       "misses": 0,
