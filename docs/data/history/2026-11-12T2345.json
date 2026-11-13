@@ -1,0 +1,162 @@
+{
+  "generated_at": "2026-11-12T23:45:35.430279-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 3,
+    "sources": 2,
+    "rumors": 3
+  },
+  "summary": "Se procesaron 3 publicaciones de 2 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios se juega la vida ante Alianza: hora, fecha y canal; Falleció jugador de América, Millonarios y Atlético Nacional; Daniel Ruiz sufre lesión muscular y es baja en Millonarios.",
+  "items": [
+    {
+      "id": "3ee840521854eede",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios se juega la vida ante Alianza: hora, fecha y canal",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "18:36",
+      "url": "https://www.colombia.com/futbol/futbol-colombiano/millonarios-vs-alianza-hora-y-que-necesita-para-clasificar-612311"
+    },
+    {
+      "id": "65670e47e05d3f43",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Falleció jugador de América, Millonarios y Atlético Nacional",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "18:36",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/murio-javier-toro-tamayo-exdelantero-del-dim-y-de-nacional-612275"
+    },
+    {
+      "id": "86ca729d4a0175aa",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Daniel Ruiz sufre lesión muscular y es baja en Millonarios",
+      "source": "Colombia",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "18:36",
+      "url": "https://colombia.as.com/futbol/daniel-ruiz-sufre-lesion-muscular-y-es-baja-en-millonarios-f202611-n/"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "interes-así",
+      "titulo": "¿De dónde sale el dinero para pagar los millonarios salarios de los futbolistas? Así funciona el negocio del fútbol",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia",
+      "timeline": [
+        {
+          "source": "Colombia",
+          "handle": "elcolombiano.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-11T22:35:00-05:00",
+          "url": "https://www.elcolombiano.com/deportes/futbol/cuanto-dinero-mueve-futbol-colombiano-ingresos-clubes-GH43448187",
+          "is_first": true,
+          "when_label": "Ayer 22:35"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-millonarios-asegura-una",
+      "titulo": "Millonarios asegura una renovación hasta 2032 y prepara un premio histórico para sus hinchas",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/millonarios-asegura-una-renovacion-hasta-2032-y-prepara-un-premio-historico-para-sus-hinchas/",
+          "is_first": true,
+          "when_label": "6 nov 21:25"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-primera",
+      "titulo": "Primera salida en Millonarios: extremo no sería renovado para 2027",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://www.colombia.com/futbol/futbol-colombiano/carlos-darwin-quintero-saldria-de-millonarios-en-diciembre-610418",
+          "is_first": true,
+          "when_label": "6 nov 21:25"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "elcolombiano.com",
+      "name": "Colombia",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
