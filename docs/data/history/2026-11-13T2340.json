@@ -1,0 +1,214 @@
+{
+  "generated_at": "2026-11-13T23:40:12.145474-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 7,
+    "sources": 4,
+    "rumors": 3
+  },
+  "summary": "Se procesaron 7 publicaciones de 4 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Millonarios no tiene margen de error ante Alianza: hora para ver EN VIVO; Millonarios se juega contra Alianza mucho más que una clasificación a los cuadrangulares; Millonarios sigue “desde hace 4 años” a delantero uruguayo.",
+  "items": [
+    {
+      "id": "2dafe95d106d8be8",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios no tiene margen de error ante Alianza: hora para ver EN VIVO",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:00",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-alianza-previa-horario-y-todo-sobre-la-fecha-19-de-la-liga-betplay-2026-ii-275208"
+    },
+    {
+      "id": "5fdb5bb7f4c3e279",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios se juega contra Alianza mucho más que una clasificación a los cuadrangulares",
+      "source": "El Espectador",
+      "source_handle": "elespectador.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:20",
+      "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-se-juega-contra-alianza-mucho-mas-que-una-clasificacion-a-los-cuadrangulares/"
+    },
+    {
+      "id": "58c5e99d57138a40",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios sigue “desde hace 4 años” a delantero uruguayo",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:20",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/ariel-michaloutsos-sigue-de-cerca-a-fabricio-sanguinetti-612518"
+    },
+    {
+      "id": "4bfaa651a29c6714",
+      "tag": "Lesiones",
+      "tipo": "noticia",
+      "title": "Millonarios se juega el semestre en 90 minutos: las cuentas exactas del Embajador en la última fecha",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:20",
+      "url": "https://primertiempo.co/futbol/millonarios-se-juega-el-semestre-en-90-minutos-las-cuentas-exactas-del-embajador-en-la-ultima-fecha/"
+    },
+    {
+      "id": "68021cda4eaba82f",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Dónde ver el partido entre Millonarios y Alianza Valledupar",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:20",
+      "url": "https://www.colombia.com/futbol/futbol-colombiano/millonarios-vs-alianza-donde-ver-el-partido-y-en-que-canal-612444"
+    },
+    {
+      "id": "a2e0df6b5eac2796",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios: qué necesita para clasificar a cuadrangulares de Liga-II",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "18:00",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-que-necesita-para-clasificar-a-los-cuadrangulares-de-la-liga-betplay-2026-ii-275206"
+    },
+    {
+      "id": "97fce50da2a4ed8a",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vs Alianza Valledupar: Duelo clave en la Liga BetPlay Colombia por la clasificación",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "15:35",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-alianza-valledupar-duelo-clave-en-la-liga-betplay-colombia-por-la-clasificacion-275215"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "interes-así",
+      "titulo": "¿De dónde sale el dinero para pagar los millonarios salarios de los futbolistas? Así funciona el negocio del fútbol",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia",
+      "timeline": [
+        {
+          "source": "Colombia",
+          "handle": "elcolombiano.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-11T22:35:00-05:00",
+          "url": "https://www.elcolombiano.com/deportes/futbol/cuanto-dinero-mueve-futbol-colombiano-ingresos-clubes-GH43448187",
+          "is_first": true,
+          "when_label": "11 nov 22:35"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-millonarios-asegura-una",
+      "titulo": "Millonarios asegura una renovación hasta 2032 y prepara un premio histórico para sus hinchas",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/millonarios-asegura-una-renovacion-hasta-2032-y-prepara-un-premio-historico-para-sus-hinchas/",
+          "is_first": true,
+          "when_label": "6 nov 21:25"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-primera",
+      "titulo": "Primera salida en Millonarios: extremo no sería renovado para 2027",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://www.colombia.com/futbol/futbol-colombiano/carlos-darwin-quintero-saldria-de-millonarios-en-diciembre-610418",
+          "is_first": true,
+          "when_label": "6 nov 21:25"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "elcolombiano.com",
+      "name": "Colombia",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
