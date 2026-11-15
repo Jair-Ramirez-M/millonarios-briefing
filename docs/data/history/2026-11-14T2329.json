@@ -1,0 +1,334 @@
+{
+  "generated_at": "2026-11-14T23:29:58.480850-05:00",
+  "shift": "tarde",
+  "shift_label": "Edicion Tarde",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 12,
+    "sources": 6,
+    "rumors": 5
+  },
+  "summary": "Se procesaron 12 publicaciones de 6 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Nacional arranca en Manizales y Millonarios en Cali: así quedaron los cuadrangulares de la Liga; Millonarios clasificó a los cuadrangulares de la Liga BetPlay: vea las fotos del partido; Gamero analiza el grupo de Millonarios en los cuadrangulares: 'Es un grupo fuerte y para pelearlo'.",
+  "items": [
+    {
+      "id": "a82bb046a3b3f4b7",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Nacional arranca en Manizales y Millonarios en Cali: así quedaron los cuadrangulares de la Liga",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:29",
+      "url": "https://primertiempo.co/futbol/nacional-arranca-en-manizales-y-millonarios-en-cali-asi-quedaron-los-cuadrangulares-de-la-liga/"
+    },
+    {
+      "id": "888905b0b68356df",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios clasificó a los cuadrangulares de la Liga BetPlay: vea las fotos del partido",
+      "source": "El Espectador",
+      "source_handle": "elespectador.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "23:29",
+      "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-clasifico-a-los-cuadrangulares-de-la-liga-betplay-vea-las-fotos-del-partido/"
+    },
+    {
+      "id": "483d780c9ac6b3be",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Gamero analiza el grupo de Millonarios en los cuadrangulares: 'Es un grupo fuerte y para pelearlo'",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:15",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/alberto-gamero-analiza-grupo-de-millonarios-en-los-cuadrangulares-semifinales-275275"
+    },
+    {
+      "id": "835ad58096396208",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Alberto Gamero analizó el grupo que le tocó a Millonarios en los cuadrangulares: 'El que más resto físico tenga va a llegar a la final'",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "20:09",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/alberto-gamero-analizo-el-grupo-que-le-toco-a-millonarios-en-los-cuadrangulares-el-que-mas-resto-fisico-tenga-va-a-llegar-a-la-final-3601180"
+    },
+    {
+      "id": "0ed17835f308b8c6",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Liga BetPlay: así quedaron los cuadrangulares semifinales del segundo semestre",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "18:17",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/liga-betplay-asi-quedaron-los-cuadrangulares-semifinales-del-segundo-semestre-3601175"
+    },
+    {
+      "id": "99e4950260637273",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios venció a Alianza y ratificó su clasificación con solvencia",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "18:12",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vence-a-alianza-en-el-campin-y-cierra-la-liga-betplay-2026-ii-con-triunfo-275262"
+    },
+    {
+      "id": "5ad7aa715f308e07",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "Millonarios venció 2-0 a Alianza Valledupar en El Campín por Liga BetPlay",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "17:50",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vencio-2-0-a-alianza-valledupar-en-el-campin-por-liga-betplay-275268"
+    },
+    {
+      "id": "19aec86f754c67ab",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios, en la fiesta de los ocho: Vence a Alianza en El Campín",
+      "source": "As",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:50",
+      "url": "https://colombia.as.com/futbol/millonarios-en-la-fiesta-de-los-ocho-vence-a-alianza-en-el-campin-f202611-n/"
+    },
+    {
+      "id": "b264ca302419de21",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios clasificó a los cuadrangulares",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:50",
+      "url": "https://www.colombia.com/futbol/futbol-colombiano/millonarios-derrota-a-alianza-y-clasifica-a-los-cuadrangulares-612703"
+    },
+    {
+      "id": "ad4b7f9465d7b834",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Primera salida de Millonarios para el 2027: delantero se baja del barco",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:50",
+      "url": "https://www.colombia.com/futbol/futbol-colombiano/andrey-estupinan-saldria-de-millonarios-para-el-2027-612643"
+    },
+    {
+      "id": "4b935f4e5e786ace",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios - Alianza: TV, horario y cómo ver online la Liga BetPlay",
+      "source": "As",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "22:50",
+      "url": "https://colombia.as.com/futbol/millonarios-alianza-tv-horario-y-como-ver-online-la-liga-betplay-f202611-n/"
+    },
+    {
+      "id": "f08f7a51bfe9d3d0",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios hizo la tarea, le ganó a Alianza y clasificó a los cuadrangulares",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "17:37",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-hizo-la-tarea-le-gano-a-alianza-y-clasifico-a-los-cuadrangulares-3601165"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "llegada-alberto-gamero",
+      "titulo": "Alberto Gamero analizó el grupo que le tocó a Millonarios en los cuadrangulares: 'El que más resto físico tenga va a llegar a la final'",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "El Tiempo Deportes",
+      "timeline": [
+        {
+          "source": "El Tiempo Deportes",
+          "handle": "eltiempo.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-15T01:09:25+00:00",
+          "url": "https://www.eltiempo.com/deportes/futbol-colombiano/alberto-gamero-analizo-el-grupo-que-le-toco-a-millonarios-en-los-cuadrangulares-el-que-mas-resto-fisico-tenga-va-a-llegar-a-la-final-3601180",
+          "is_first": true,
+          "when_label": "Hoy 20:09"
+        }
+      ]
+    },
+    {
+      "tema": "salida-primera",
+      "titulo": "Primera salida de Millonarios para el 2027: delantero se baja del barco",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-14T22:50:00-05:00",
+          "url": "https://www.colombia.com/futbol/futbol-colombiano/andrey-estupinan-saldria-de-millonarios-para-el-2027-612643",
+          "is_first": true,
+          "when_label": "Hoy 22:50"
+        }
+      ]
+    },
+    {
+      "tema": "interes-así",
+      "titulo": "¿De dónde sale el dinero para pagar los millonarios salarios de los futbolistas? Así funciona el negocio del fútbol",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia",
+      "timeline": [
+        {
+          "source": "Colombia",
+          "handle": "elcolombiano.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-11T22:35:00-05:00",
+          "url": "https://www.elcolombiano.com/deportes/futbol/cuanto-dinero-mueve-futbol-colombiano-ingresos-clubes-GH43448187",
+          "is_first": true,
+          "when_label": "11 nov 22:35"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-millonarios-asegura-una",
+      "titulo": "Millonarios asegura una renovación hasta 2032 y prepara un premio histórico para sus hinchas",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/millonarios-asegura-una-renovacion-hasta-2032-y-prepara-un-premio-historico-para-sus-hinchas/",
+          "is_first": true,
+          "when_label": "6 nov 21:25"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-primera",
+      "titulo": "Primera salida en Millonarios: extremo no sería renovado para 2027",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-06T21:25:00-05:00",
+          "url": "https://www.colombia.com/futbol/futbol-colombiano/carlos-darwin-quintero-saldria-de-millonarios-en-diciembre-610418",
+          "is_first": true,
+          "when_label": "6 nov 21:25"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "eltiempo.com",
+      "name": "El Tiempo Deportes",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 2,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "elcolombiano.com",
+      "name": "Colombia",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
