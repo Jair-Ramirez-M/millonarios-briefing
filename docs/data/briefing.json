@@ -1,15 +1,80 @@
 {
-  "generated_at": "2026-11-15T23:27:13.119908-05:00",
+  "generated_at": "2026-11-16T16:46:24.323328-05:00",
   "shift": "tarde",
   "shift_label": "Edicion Tarde",
   "team": "Millonarios FC",
   "stats": {
-    "items": 6,
-    "sources": 4,
-    "rumors": 4
+    "items": 9,
+    "sources": 8,
+    "rumors": 6
   },
-  "summary": "Se procesaron 6 publicaciones de 4 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Abonos de Millonarios para cuadrangulares 2026-2: fechas, descuentos y requisitos; Abonos de Millonarios para los cuadrangulares semifinales de la Liga BetPlay 2026-II: precios, fechas y cómo renovar; Millonarios enfrenta un desafiante Grupo B en los cuadrangulares.",
+  "summary": "Se procesaron 9 publicaciones de 8 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Salarios millonarios en el fútbol: ¿de dónde sale tanta plata para pagarles a los jugadores?; 🔴EN VIVO🔴 NACIONAL QUEDÓ EN UN GRUPO CÓMODO? | AMÉRICA, CALI, MILLOS O B/MANGA ¿CUÁL ES FAVORITO?; Millonarios 2 Alianza FC 0  - Liga Beptlay 2026-2: de la mano de García y Cuadrado nos clasificamos.",
   "items": [
+    {
+      "id": "58af2a56b28c534c",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Salarios millonarios en el fútbol: ¿de dónde sale tanta plata para pagarles a los jugadores?",
+      "source": "elcolombiano.com",
+      "source_handle": "elcolombiano.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "16:46",
+      "url": "https://www.elcolombiano.com/deportes/futbol/de-donde-sale-el-dinero-para-sostener-el-futbol-mundial-AF43641562"
+    },
+    {
+      "id": "504e5fbce2fd7c2f",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔴EN VIVO🔴 NACIONAL QUEDÓ EN UN GRUPO CÓMODO? | AMÉRICA, CALI, MILLOS O B/MANGA ¿CUÁL ES FAVORITO?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "13:16",
+      "url": "https://www.youtube.com/watch?v=7RB8U0vhp78"
+    },
+    {
+      "id": "6ef4edae9a05cc9b",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios 2 Alianza FC 0  - Liga Beptlay 2026-2: de la mano de García y Cuadrado nos clasificamos",
+      "source": "Los Millonarios .NET TV",
+      "source_handle": "@LosMillonariosNetTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "12:11",
+      "url": "https://www.youtube.com/watch?v=qS5RUiw_kDU"
+    },
+    {
+      "id": "f04d6b9704067dfe",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios 2 Alianza FC 0  - Liga Beptlay 2026-2: de la mano de García y Cuadrado nos clasificamos",
+      "source": "Las 5 de Millos",
+      "source_handle": "@Las5DeMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "12:10",
+      "url": "https://www.youtube.com/watch?v=gTXyGQ6IW14"
+    },
+    {
+      "id": "452d2db7fed02ad3",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "EN VIVO | COLOMBIA vs CHILE: Análisis | Nations League y Liga BetPlay Dimayor | Los de Abajo",
+      "source": "Casale Sports",
+      "source_handle": "@CasaleSports",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "08:44",
+      "url": "https://www.youtube.com/watch?v=utNStzxljRc"
+    },
     {
       "id": "de59c7c2d4660119",
       "tag": "Plantel",
@@ -19,22 +84,9 @@
       "source_handle": "futbolred.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "19:35",
       "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/abonos-de-millonarios-para-cuadrangulares-2026-2-fechas-descuentos-y-requisitos-275297"
-    },
-    {
-      "id": "51a349937119fc52",
-      "tag": "Renovacion",
-      "tipo": "noticia",
-      "title": "Abonos de Millonarios para los cuadrangulares semifinales de la Liga BetPlay 2026-II: precios, fechas y cómo renovar",
-      "source": "El Tiempo Deportes",
-      "source_handle": "eltiempo.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "19:22",
-      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/abonos-de-millonarios-para-los-cuadrangulares-semifinales-de-la-liga-betplay-2026-ii-precios-fechas-y-como-renovar-3601327"
     },
     {
       "id": "16347f21f6bc5f37",
@@ -45,7 +97,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:27",
       "url": "https://primertiempo.co/futbol/millonarios-enfrenta-un-desafiante-grupo-b-en-los-cuadrangulares/"
     },
@@ -58,7 +110,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:27",
       "url": "https://primertiempo.co/futbol/nacional-arranca-en-manizales-y-millonarios-en-cali-asi-quedaron-los-cuadrangulares-de-la-liga/"
     },
@@ -71,42 +123,29 @@
       "source_handle": "elespectador.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:27",
       "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-clasifico-a-los-cuadrangulares-de-la-liga-betplay-vea-las-fotos-del-partido/"
-    },
-    {
-      "id": "483d780c9ac6b3be",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Gamero analiza el grupo de Millonarios en los cuadrangulares: 'Es un grupo fuerte y para pelearlo'",
-      "source": "Futbolred",
-      "source_handle": "futbolred.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "08:19",
-      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/alberto-gamero-analiza-grupo-de-millonarios-en-los-cuadrangulares-semifinales-275275"
     }
   ],
   "rumors": [
     {
-      "tema": "renovacion-abonos",
-      "titulo": "Abonos de Millonarios para los cuadrangulares semifinales de la Liga BetPlay 2026-II: precios, fechas y cómo renovar",
-      "categoria": "Renovacion",
+      "tema": "salida-urgente-amrica-pierde",
+      "titulo": "🚨URGENTE: AMÉRICA PIERDE PUNTOS EN EL TAS | FIDRY SE VA DEL JUNIOR? |¿EL MEJOR JUGADOR DE LA LIGA?",
+      "categoria": "Salida",
       "status": "desarrollo",
-      "score": 62,
-      "first_source": "El Tiempo Deportes",
+      "score": 80,
+      "first_source": "Eduardo Luis",
       "timeline": [
         {
-          "source": "El Tiempo Deportes",
-          "handle": "eltiempo.com",
-          "tier": 2,
+          "source": "Eduardo Luis",
+          "handle": "@EduardoLuisOficial",
+          "tier": 1,
           "postura": "afirma",
-          "when": "2026-11-16T00:22:21+00:00",
-          "url": "https://www.eltiempo.com/deportes/futbol-colombiano/abonos-de-millonarios-para-los-cuadrangulares-semifinales-de-la-liga-betplay-2026-ii-precios-fechas-y-como-renovar-3601327",
+          "when": "2026-11-12T18:05:03+00:00",
+          "url": "https://www.youtube.com/watch?v=AL3DyTDjMhs",
           "is_first": true,
-          "when_label": "Hoy 19:22"
+          "when_label": "12 nov 13:05"
         }
       ]
     },
@@ -126,7 +165,7 @@
           "when": "2026-11-14T22:50:00-05:00",
           "url": "https://www.colombia.com/futbol/futbol-colombiano/andrey-estupinan-saldria-de-millonarios-para-el-2027-612643",
           "is_first": true,
-          "when_label": "Ayer 22:50"
+          "when_label": "14 nov 22:50"
         }
       ]
     },
@@ -169,14 +208,54 @@
           "when_label": "6 nov 21:25"
         }
       ]
+    },
+    {
+      "tema": "interes-negocio-cado-los",
+      "titulo": "🚫💰 ¡NEGOCIO CAÍDO! LOS DETALLES DE LA VENTA FALLIDA DE MILLONARIOS Ⓜ️",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Guillo Arango",
+      "timeline": [
+        {
+          "source": "Guillo Arango",
+          "handle": "@GuilloArango",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-10-27T23:26:52+00:00",
+          "url": "https://www.youtube.com/watch?v=dpTYgdVVlLo",
+          "is_first": true,
+          "when_label": "27 oct 18:26"
+        }
+      ]
+    },
+    {
+      "tema": "llegada-asb-colmundo-radio",
+      "titulo": "⚽ ASB COLMUNDO RADIO LLEGA A LA UNIVERSIDAD SANTO TOMÁS",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 35,
+      "first_source": "Casa Azul Radio TV",
+      "timeline": [
+        {
+          "source": "Casa Azul Radio TV",
+          "handle": "@CasaAzulRadioTV",
+          "tier": 3,
+          "postura": "afirma",
+          "when": "2026-11-12T17:09:28+00:00",
+          "url": "https://www.youtube.com/shorts/y3T4DucXaq0",
+          "is_first": true,
+          "when_label": "12 nov 12:09"
+        }
+      ]
     }
   ],
   "sources": [
     {
-      "handle": "eltiempo.com",
-      "name": "El Tiempo Deportes",
-      "type": "prensa",
-      "tier": 2,
+      "handle": "@EduardoLuisOficial",
+      "name": "Eduardo Luis",
+      "type": "periodista",
+      "tier": 1,
       "n_claims": 1,
       "hits": 0,
       "misses": 0,
@@ -222,6 +301,36 @@
       "name": "Primer Tiempo",
       "type": "prensa",
       "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@GuilloArango",
+      "name": "Guillo Arango",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@CasaAzulRadioTV",
+      "name": "Casa Azul Radio TV",
+      "type": "partidario",
+      "tier": 3,
       "n_claims": 1,
       "hits": 0,
       "misses": 0,
