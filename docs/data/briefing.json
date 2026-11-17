@@ -1,26 +1,39 @@
 {
-  "generated_at": "2026-11-16T16:46:24.323328-05:00",
-  "shift": "tarde",
-  "shift_label": "Edicion Tarde",
+  "generated_at": "2026-11-17T01:12:27.794843-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
   "team": "Millonarios FC",
   "stats": {
-    "items": 9,
-    "sources": 8,
+    "items": 6,
+    "sources": 6,
     "rumors": 6
   },
-  "summary": "Se procesaron 9 publicaciones de 8 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Salarios millonarios en el fútbol: ¿de dónde sale tanta plata para pagarles a los jugadores?; 🔴EN VIVO🔴 NACIONAL QUEDÓ EN UN GRUPO CÓMODO? | AMÉRICA, CALI, MILLOS O B/MANGA ¿CUÁL ES FAVORITO?; Millonarios 2 Alianza FC 0  - Liga Beptlay 2026-2: de la mano de García y Cuadrado nos clasificamos.",
+  "summary": "Se procesaron 6 publicaciones de 6 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: #CharlaAlbiazul 📺 | Capítulo 36 | Sexta Temporada; Salarios millonarios en el fútbol: ¿de dónde sale tanta plata para pagarles a los jugadores?; 🔴EN VIVO🔴 NACIONAL QUEDÓ EN UN GRUPO CÓMODO? | AMÉRICA, CALI, MILLOS O B/MANGA ¿CUÁL ES FAVORITO?.",
   "items": [
+    {
+      "id": "b461e7e6b7fa28e1",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "#CharlaAlbiazul 📺 | Capítulo 36 | Sexta Temporada",
+      "source": "Dimension Azul 1946",
+      "source_handle": "@dimensionazul1946",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "19:44",
+      "url": "https://www.youtube.com/watch?v=LWdUF1oHAJA"
+    },
     {
       "id": "58af2a56b28c534c",
       "tag": "Mercado",
       "tipo": "noticia",
       "title": "Salarios millonarios en el fútbol: ¿de dónde sale tanta plata para pagarles a los jugadores?",
-      "source": "elcolombiano.com",
+      "source": "El Espectador",
       "source_handle": "elcolombiano.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
-      "time": "16:46",
+      "date": "Ayer",
+      "time": "20:30",
       "url": "https://www.elcolombiano.com/deportes/futbol/de-donde-sale-el-dinero-para-sostener-el-futbol-mundial-AF43641562"
     },
     {
@@ -32,7 +45,7 @@
       "source_handle": "@EduardoLuisOficial",
       "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "13:16",
       "url": "https://www.youtube.com/watch?v=7RB8U0vhp78"
     },
@@ -45,7 +58,7 @@
       "source_handle": "@LosMillonariosNetTV",
       "source_type": "partidario",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "12:11",
       "url": "https://www.youtube.com/watch?v=qS5RUiw_kDU"
     },
@@ -58,7 +71,7 @@
       "source_handle": "@Las5DeMillos",
       "source_type": "partidario",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "12:10",
       "url": "https://www.youtube.com/watch?v=gTXyGQ6IW14"
     },
@@ -71,61 +84,9 @@
       "source_handle": "@CasaleSports",
       "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "08:44",
       "url": "https://www.youtube.com/watch?v=utNStzxljRc"
-    },
-    {
-      "id": "de59c7c2d4660119",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Abonos de Millonarios para cuadrangulares 2026-2: fechas, descuentos y requisitos",
-      "source": "Futbolred",
-      "source_handle": "futbolred.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "19:35",
-      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/abonos-de-millonarios-para-cuadrangulares-2026-2-fechas-descuentos-y-requisitos-275297"
-    },
-    {
-      "id": "16347f21f6bc5f37",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Millonarios enfrenta un desafiante Grupo B en los cuadrangulares",
-      "source": "Primer Tiempo",
-      "source_handle": "primertiempo.co",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "21:27",
-      "url": "https://primertiempo.co/futbol/millonarios-enfrenta-un-desafiante-grupo-b-en-los-cuadrangulares/"
-    },
-    {
-      "id": "a82bb046a3b3f4b7",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Nacional arranca en Manizales y Millonarios en Cali: así quedaron los cuadrangulares de la Liga",
-      "source": "Primer Tiempo",
-      "source_handle": "primertiempo.co",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "21:27",
-      "url": "https://primertiempo.co/futbol/nacional-arranca-en-manizales-y-millonarios-en-cali-asi-quedaron-los-cuadrangulares-de-la-liga/"
-    },
-    {
-      "id": "888905b0b68356df",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "Millonarios clasificó a los cuadrangulares de la Liga BetPlay: vea las fotos del partido",
-      "source": "El Espectador",
-      "source_handle": "elespectador.com",
-      "source_type": "prensa",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "21:27",
-      "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/millonarios-clasifico-a-los-cuadrangulares-de-la-liga-betplay-vea-las-fotos-del-partido/"
     }
   ],
   "rumors": [
