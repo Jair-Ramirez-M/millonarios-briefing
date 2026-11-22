@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-21T23:45:21.755042-05:00",
+  "generated_at": "2026-11-22T14:12:43.979205-05:00",
   "shift": "tarde",
   "shift_label": "Edicion Tarde",
   "team": "Millonarios FC",
   "stats": {
-    "items": 24,
-    "sources": 15,
+    "items": 14,
+    "sources": 9,
     "rumors": 5
   },
-  "summary": "Se procesaron 24 publicaciones de 14 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Un hincha de Millonarios y uno de Nacional, unidos por su amor a Boca; Rafael Dudamel insta al Deportivo Cali a mejorar tras empate con Millonarios; ONCE CALDAS 0 ATL NACIONAL 0 NO ERA ROJA, ABURRIERON Y JUGARON PARA EL DIM..",
+  "summary": "Se procesaron 14 publicaciones de 8 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: Un hincha de Millonarios y uno de Nacional, unidos por su amor a Boca; Rafael Dudamel insta al Deportivo Cali a mejorar tras empate con Millonarios; 🔵🟡 BOCA JUNIORS CAMPEÓN DE LA COPA SUDAMÉRICANA.",
   "items": [
     {
       "id": "863e715e845641d2",
@@ -20,7 +20,7 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "23:45",
+      "time": "14:12",
       "url": "https://colombia.as.com/videos/un-hincha-de-millonarios-y-uno-de-nacional-unidos-por-boca-f202611-v/"
     },
     {
@@ -33,8 +33,21 @@
       "source_type": "prensa",
       "cred": "media",
       "date": "Hoy",
-      "time": "23:45",
+      "time": "14:12",
       "url": "https://primertiempo.co/futbol/rafael-dudamel-insta-al-deportivo-cali-a-mejorar-tras-empate-con-millonarios/"
+    },
+    {
+      "id": "0b89e5f030e5a1db",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵🟡 BOCA JUNIORS CAMPEÓN DE LA COPA SUDAMÉRICANA",
+      "source": "Guillo Arango",
+      "source_handle": "@GuilloArango",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "01:57",
+      "url": "https://www.youtube.com/shorts/Vk6FE9Syv9A"
     },
     {
       "id": "d620698e98352060",
@@ -45,7 +58,7 @@
       "source_handle": "@EduardoLuisOficial",
       "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "23:12",
       "url": "https://www.youtube.com/watch?v=P-nvhw35nRA"
     },
@@ -58,7 +71,7 @@
       "source_handle": "elpais.com.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:29",
       "url": "https://www.elpais.com.co/deportes/rafael-dudamel-tecnico-del-deportivo-cali-tras-empatar-con-millonarios-nos-dejo-amargura-perder-puntos-en-casa-2122.html"
     },
@@ -71,7 +84,7 @@
       "source_handle": "colombia.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:29",
       "url": "https://www.colombia.com/futbol/futbol-colombiano/millonarios-perderia-a-mackalister-silva-para-los-cuadrangulares-613610"
     },
@@ -84,7 +97,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:29",
       "url": "https://primertiempo.co/futbol/defensor-de-junior-podria-llegar-a-millonarios-el-rumor-que-toma-fuerza-en-el-mercado/"
     },
@@ -97,7 +110,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:29",
       "url": "https://primertiempo.co/futbol/deportivo-cali-y-millonarios-no-se-sacaron-ventaja-en-el-inicio-de-los-cuadrangulares/"
     },
@@ -110,7 +123,7 @@
       "source_handle": "primertiempo.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:29",
       "url": "https://primertiempo.co/futbol/millonarios-tendria-encaminada-la-renovacion-de-rodrigo-contreras-su-goleador-de-17-tantos/"
     },
@@ -123,7 +136,7 @@
       "source_handle": "elpais.com.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:29",
       "url": "https://www.elpais.com.co/deportes/deportivo-cali-cedio-terreno-en-casa-y-empato-ante-millonarios-en-el-inicio-del-grupo-b-de-los-cuadrangulares-de-la-liga-betplay-2006.html"
     },
@@ -136,7 +149,7 @@
       "source_handle": "colombia.as.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:29",
       "url": "https://colombia.as.com/futbol/todo-igualado-en-el-grupo-b-cali-y-millonarios-se-van-en-cero-f202611-n/"
     },
@@ -149,7 +162,7 @@
       "source_handle": "elespectador.com",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:29",
       "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/cali-vs-millonarios-en-vivo-siga-el-minuto-a-minuto-del-juego-de-cuadrangulares-de-liga/"
     },
@@ -162,7 +175,7 @@
       "source_handle": "elpais.com.co",
       "source_type": "prensa",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "21:29",
       "url": "https://www.elpais.com.co/deportes/deportivo-cali-vs-millonarios-en-vivo-sigue-las-emociones-de-la-primera-fecha-de-los-cuadrangulares-de-la-liga-betplay-ii-2026-2016.html"
     },
@@ -175,152 +188,9 @@
       "source_handle": "@CasaleSports",
       "source_type": "periodista",
       "cred": "media",
-      "date": "Hoy",
+      "date": "Ayer",
       "time": "15:28",
       "url": "https://www.youtube.com/watch?v=m5lVxXFkfIU"
-    },
-    {
-      "id": "a71d07689f122d71",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Millonarios vs Deportivo Cali | EN VIVO",
-      "source": "Pache Andrade Multimedia",
-      "source_handle": "@pacheandrademultimedia",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "13:32",
-      "url": "https://www.youtube.com/watch?v=gTR4rgFWXkY"
-    },
-    {
-      "id": "95252b1940fe6375",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "Reacción Cali vs Millonarios",
-      "source": "Barba Azul 1946",
-      "source_handle": "@BarbaAzul1946",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "13:26",
-      "url": "https://www.youtube.com/watch?v=I5r2Q3H2HHM"
-    },
-    {
-      "id": "8c04f086d76fbd04",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "Cali 0 Millonarios 0 - Cuadrangulares Liga Betplay 2026-2: valioso empate jugando con temple",
-      "source": "Las 5 de Millos",
-      "source_handle": "@Las5DeMillos",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "12:20",
-      "url": "https://www.youtube.com/watch?v=8l6q58bjjxU"
-    },
-    {
-      "id": "4bd8fb09e6894114",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "Cali 0 Millonarios 0 - Cuadrangulares Liga Betplay 2026-2: valioso empate jugando con temple",
-      "source": "Los Millonarios .NET TV",
-      "source_handle": "@LosMillonariosNetTV",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "12:20",
-      "url": "https://www.youtube.com/watch?v=TI72SY0Upmc"
-    },
-    {
-      "id": "c695992c199fa33a",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "CASA AZUL RADIO - POST PARTIDO CALI VS MILLONARIOS - FECHA 1 CUADRANGULARES",
-      "source": "Casa Azul Radio TV",
-      "source_handle": "@CasaAzulRadioTV",
-      "source_type": "partidario",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "11:26",
-      "url": "https://www.youtube.com/watch?v=W0gkV60nBr0"
-    },
-    {
-      "id": "0c32efc46723903b",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "HIGHLIGHTS: vs Deportivo Cali | Cuadrangulares: Grupo B - Fecha 1 | Liga 2026 - ll  Ⓜ️",
-      "source": "Millonarios FC (Canal Oficial)",
-      "source_handle": "@MillonariosFCOficial",
-      "source_type": "oficial",
-      "cred": "alta",
-      "date": "Hoy",
-      "time": "10:24",
-      "url": "https://www.youtube.com/watch?v=w_OGtIRffi0"
-    },
-    {
-      "id": "9be295b6e56b3929",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "DIM vs. Santa Fe EN VIVO: Fecha 1 Cuadrangulares Liga BetPlay Dimayor | Los de abajo",
-      "source": "Casale Sports",
-      "source_handle": "@CasaleSports",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "05:55",
-      "url": "https://www.youtube.com/watch?v=fx6MZSo59Xc"
-    },
-    {
-      "id": "009e464b32f11626",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "MEDELLÍN VS SANTA FE EN VIVO DESDE EL ATANASIO TOXI STREAM RADIO. COMIENZAN LAS FINALES EN MPT",
-      "source": "Eduardo Luis",
-      "source_handle": "@EduardoLuisOficial",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "04:12",
-      "url": "https://www.youtube.com/watch?v=sAY98l-sxzk"
-    },
-    {
-      "id": "b463460b3d8622a7",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "¡Viaje al fondo del clásico añejo! ⚽️",
-      "source": "Pache Andrade Multimedia",
-      "source_handle": "@pacheandrademultimedia",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "01:47",
-      "url": "https://www.youtube.com/watch?v=0ki0dLfwtcY"
-    },
-    {
-      "id": "7e555533c6891ad7",
-      "tag": "Partido",
-      "tipo": "noticia",
-      "title": "🟰 PALMASECA SIN QUEDÓ SIN GOLES | 🟢 CALI 0-0 MILLONARIOS Ⓜ️",
-      "source": "Guillo Arango",
-      "source_handle": "@GuilloArango",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Hoy",
-      "time": "00:43",
-      "url": "https://www.youtube.com/watch?v=Ed2h_BfzfcQ"
-    },
-    {
-      "id": "4aeb5ba53e2c82fb",
-      "tag": "Plantel",
-      "tipo": "noticia",
-      "title": "BUCARAMANGA 2 AMÉRICA 2 PICAO BACANO. BUEN PUNTO DE LA MECHA",
-      "source": "Eduardo Luis",
-      "source_handle": "@EduardoLuisOficial",
-      "source_type": "periodista",
-      "cred": "media",
-      "date": "Ayer",
-      "time": "23:51",
-      "url": "https://www.youtube.com/watch?v=bb5u0VmbznU"
     }
   ],
   "rumors": [
@@ -340,7 +210,7 @@
           "when": "2026-11-21T21:29:00-05:00",
           "url": "https://primertiempo.co/futbol/defensor-de-junior-podria-llegar-a-millonarios-el-rumor-que-toma-fuerza-en-el-mercado/",
           "is_first": true,
-          "when_label": "Hoy 21:29"
+          "when_label": "Ayer 21:29"
         }
       ]
     },
@@ -360,7 +230,7 @@
           "when": "2026-11-21T21:29:00-05:00",
           "url": "https://primertiempo.co/futbol/millonarios-tendria-encaminada-la-renovacion-de-rodrigo-contreras-su-goleador-de-17-tantos/",
           "is_first": true,
-          "when_label": "Hoy 21:29"
+          "when_label": "Ayer 21:29"
         }
       ]
     },
@@ -380,7 +250,7 @@
           "when": "2026-11-20T18:32:00-05:00",
           "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-muestra-interes-en-daniel-rivera-de-junior-613486",
           "is_first": true,
-          "when_label": "Ayer 18:32"
+          "when_label": "20 nov 18:32"
         }
       ]
     },
