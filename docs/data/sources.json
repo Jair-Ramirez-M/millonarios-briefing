@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:51:20.811668+00:00",
+  "generated_at": "2026-11-22T04:45:21.564891+00:00",
   "sources": [
     {
       "name": "Millonarios FC (Canal Oficial)",
@@ -118,8 +118,8 @@
       "handle": "espn.com",
       "type": "rss",
       "tier": 2,
-      "items": 34,
-      "status": "ok"
+      "items": 0,
+      "status": "vacio"
     },
     {
       "name": "Futbolred",
