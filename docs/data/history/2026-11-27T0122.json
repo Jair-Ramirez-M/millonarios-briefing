@@ -1,0 +1,628 @@
+{
+  "generated_at": "2026-11-27T01:22:32.935042-05:00",
+  "shift": "manana",
+  "shift_label": "Edicion Manana",
+  "team": "Millonarios FC",
+  "stats": {
+    "items": 30,
+    "sources": 14,
+    "rumors": 8
+  },
+  "summary": "Se procesaron 30 publicaciones de 16 fuentes en las ultimas horas sobre Millonarios FC. Lo mas reciente: América de Cali reveló sus convocados para medirse ante Millonarios en un duelo clave por el Grupo B de los cuadrangulares; Sorpresiva decisión de Millonarios con uno de sus jugadores; Millonarios repetirá la fórmula contra América.",
+  "items": [
+    {
+      "id": "8451c95253b8e506",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "América de Cali reveló sus convocados para medirse ante Millonarios en un duelo clave por el Grupo B de los cuadrangulares",
+      "source": "El Pais Cali",
+      "source_handle": "elpais.com.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "01:22",
+      "url": "https://www.elpais.com.co/deportes/america-de-cali-revelo-sus-convocados-para-medirse-ante-millonarios-en-un-duelo-clave-por-el-grupo-b-de-los-cuadrangulares-2610.html"
+    },
+    {
+      "id": "248a08e71cf76e99",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Sorpresiva decisión de Millonarios con uno de sus jugadores",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "01:22",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/la-decision-que-tomaria-millonarios-con-juan-jose-ramirez-614386"
+    },
+    {
+      "id": "996db1b24b1a17d0",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios repetirá la fórmula contra América",
+      "source": "Pache Andrade Multimedia",
+      "source_handle": "@pacheandrademultimedia",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Hoy",
+      "time": "01:12",
+      "url": "https://www.youtube.com/watch?v=3Fxpod78jVE"
+    },
+    {
+      "id": "ea5a0f4e2ce37845",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "🤔🇦🇷Ⓜ️ ¿SABÍAN QUE…? CONTRERAS REGISTRA CON MILLOS EL TERCER MEJOR PROMEDIO GOLEADOR DE SU CARRERA",
+      "source": "Guillo Arango",
+      "source_handle": "@GuilloArango",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:28",
+      "url": "https://www.youtube.com/shorts/-zdbXsbyjy0"
+    },
+    {
+      "id": "a528bf155bbceb23",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "🤔🇺🇾🦁 ¿SABÍAN QUE…? FRANCO FAGÚNDEZ VIVE EL MEJOR AÑO GOLEADOR DE SU CARRERA CON SANTA FE",
+      "source": "Guillo Arango",
+      "source_handle": "@GuilloArango",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:21",
+      "url": "https://www.youtube.com/shorts/3tgGLOtJjNA"
+    },
+    {
+      "id": "0d1b2c27909d3989",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Previa Millonarios vs América - Cuadrangulares 2026-2: primeros 90' de una serie definitiva",
+      "source": "Las 5 de Millos",
+      "source_handle": "@Las5DeMillos",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:13",
+      "url": "https://www.youtube.com/watch?v=kSZVczp4-G8"
+    },
+    {
+      "id": "90c8140c51c04f1e",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Previa Millonarios vs América - Cuadrangulares 2026-2: primeros 90' de una serie definitiva",
+      "source": "Los Millonarios .NET TV",
+      "source_handle": "@LosMillonariosNetTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "23:13",
+      "url": "https://www.youtube.com/watch?v=-AvpUY-V6Ek"
+    },
+    {
+      "id": "22db40733bad4d4f",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Polémicas designaciones arbitrales para Millonarios Vs América",
+      "source": "Noticias Millonarios FC",
+      "source_handle": "@NoticiasMillonariosFC",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "21:44",
+      "url": "https://www.youtube.com/shorts/gTTU5bgRj8U"
+    },
+    {
+      "id": "42820f4ca2d6b4b3",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios-América: partidazo de alta tensión por el liderato del grupo B en la Liga Betplay",
+      "source": "El Tiempo Deportes",
+      "source_handle": "eltiempo.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "21:21",
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-america-partidazo-de-alta-tension-por-el-liderato-del-grupo-b-en-la-liga-betplay-3604726"
+    },
+    {
+      "id": "1b469930be625853",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Millonarios vs América de Cali: Duelo de líderes en el Campín por Liga BetPlay",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "20:45",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-america-de-cali-duelo-de-lideres-en-el-campin-por-liga-betplay-275773"
+    },
+    {
+      "id": "ee232765af00d0eb",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "JUGAMOS 12 CONTRA 10. EL MEDALLO PERDIÓ DE NUEVO EL CLÁSICO. ¿AY CON QUÉ SUPERAR ESTO? MPT CAP 36",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "20:06",
+      "url": "https://www.youtube.com/watch?v=_RKoipCld5w"
+    },
+    {
+      "id": "b68855a35777578c",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Se define el FUTURO de Juan J. Ramírez ¿VUELVE? | Ortega y Gallo ÁRBITROS Vs América | FICHAJES 2027",
+      "source": "Noticias Millonarios FC",
+      "source_handle": "@NoticiasMillonariosFC",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "18:04",
+      "url": "https://www.youtube.com/watch?v=fOayNeYT81s"
+    },
+    {
+      "id": "2f1ebfcdad874d3c",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵 ¿MANTENER EL 4-4-2 PARA ENFRENTAR AL AMÉRICA? ⚪️",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "18:03",
+      "url": "https://www.youtube.com/shorts/3hzyZYRJvJQ"
+    },
+    {
+      "id": "bbdeb0805821a5fe",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "El Campín recibe un choque decisivo entre Millonarios y América: hora y cómo ver EN VIVO",
+      "source": "Futbolred",
+      "source_handle": "futbolred.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "18:00",
+      "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-america-de-cali-previa-fecha-y-claves-del-duelo-por-la-liga-betplay-2026-ii-275761"
+    },
+    {
+      "id": "51f67a65bfc19003",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵⚪ HOY HAY BANDERAZO AZUL Ⓜ️",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "17:55",
+      "url": "https://www.youtube.com/shorts/zMmeSZi0Sso"
+    },
+    {
+      "id": "79bdaaa16d339403",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🧐 ¿SE PUEDE CANTAR A UNA SOLA VOZ EN TODO EL ESTADIO? 🔵⚪",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "17:31",
+      "url": "https://www.youtube.com/shorts/czDEiv6S16E"
+    },
+    {
+      "id": "04eaaf262fe9a364",
+      "tag": "Mercado",
+      "tipo": "noticia",
+      "title": "Millonarios busca comprar a Rodrigo Contreras: el delantero argentino presentó una contraoferta",
+      "source": "Primer Tiempo",
+      "source_handle": "primertiempo.co",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "21:25",
+      "url": "https://primertiempo.co/futbol/millonarios-busca-comprar-a-rodrigo-contreras-el-delantero-argentino-presento-una-contraoferta/"
+    },
+    {
+      "id": "157d0d90494bcde8",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Estos son los tres jugadores que regresan en América ante Millonarios",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "21:25",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/tres-jugadores-que-regresaran-en-america-de-cali-ante-millonarios-614325"
+    },
+    {
+      "id": "04b00207f2d3d5e9",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "El duro comunicado de Bucaramanga contra el árbitro Ferney Ossa tras caer con Millonarios",
+      "source": "Primer Tiempo",
+      "source_handle": "elcolombiano.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "21:25",
+      "url": "https://www.elcolombiano.com/deportes/futbol/atletico-bucaramanga-queja-formal-arbitraje-dimayor-JA44110797"
+    },
+    {
+      "id": "101a74210749a6d2",
+      "tag": "Partido",
+      "tipo": "noticia",
+      "title": "El reclamo de Bucaramanga a la Dimayor en derrota con Millonarios",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "21:25",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/reclamo-de-bucaramanga-a-la-dimayor-en-derrota-con-millonarios-614314"
+    },
+    {
+      "id": "7c3cced62d9ea581",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Del Barcelona al FPC? Ojo al europeo que ofrecieron a ‘Millos’",
+      "source": "Colombia.com",
+      "source_handle": "colombia.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "21:25",
+      "url": "https://www.colombia.com/futbol/liga-colombiana/halilovic-a-millonarios-lo-que-se-sabe-del-messi-croata-614289"
+    },
+    {
+      "id": "eb59702cf7043917",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿Dónde ver el Millonarios - América de cuadrangulares?",
+      "source": "Primer Tiempo",
+      "source_handle": "colombia.as.com",
+      "source_type": "prensa",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "21:25",
+      "url": "https://colombia.as.com/futbol/millonarios-america-fecha-horario-canal-tv-y-como-seguir-online-el-partido-de-los-cuadrangulares-de-la-liga-betplay-f202611-n/"
+    },
+    {
+      "id": "3f7d97158b1543f3",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵⚪ ¡NO… NO ME DES ESPERANZA! 😂",
+      "source": "Barba Azul 1946",
+      "source_handle": "@BarbaAzul1946",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "13:57",
+      "url": "https://www.youtube.com/watch?v=Ex8IeTXVAEc"
+    },
+    {
+      "id": "ff173bf9691ee7ee",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🚨NACIONAL LÍDER! OTRA CACHETADA AL DIM ¿EL ÁRBITRO INFLUYÓ? |SANTA FE VIVE! ONCE, A PENSAR EN COPA?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "13:05",
+      "url": "https://www.youtube.com/watch?v=9g-eGS5rUj8"
+    },
+    {
+      "id": "ebd82eba20709bad",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "🔵 LA DECISIÓN QUE TOMÓ MILLONARIOS CON RODRIGO CONTRERAS ¿SIGUE? 🔥 AMÉRICA VIENE AGRANDADO?",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "12:44",
+      "url": "https://www.youtube.com/watch?v=SRhEJP7K510"
+    },
+    {
+      "id": "562f8dd8e8362206",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "#Top3 📹 | MILLONARIOS LUCHARÁ ANTE AMÉRICA POR EL LIDERATO EN EL GRUPO ✅",
+      "source": "Dimension Azul 1946",
+      "source_handle": "@dimensionazul1946",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "12:08",
+      "url": "https://www.youtube.com/watch?v=0S70-vvCXj4"
+    },
+    {
+      "id": "106c96a7a6ff6ea2",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "Ⓜ️ 65 AÑOS DE LA SEXTA ESTRELLA AZUL ⭐Hoy, en nuestro jueves de TBT, recordamos una fecha especial.",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "11:30",
+      "url": "https://www.youtube.com/shorts/LQ-poKRyUls"
+    },
+    {
+      "id": "869556db6e730e80",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "¿QUIÉN JUEGA VS AMÉRICA? | JUEVES DE BARRAS DE MILLONARIOS  EN CASA AZUL RADIO",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "11:21",
+      "url": "https://www.youtube.com/watch?v=BHN1gQ_YN8Y"
+    },
+    {
+      "id": "d6a5d5473e040976",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "NACIONAL VS MEDELLÍN EN VIVO DESDE EL ATANASIO. CUADRANGULARES  LIGA BETPLAYFECHA 2. PREVIO DE MPT.",
+      "source": "Eduardo Luis",
+      "source_handle": "@EduardoLuisOficial",
+      "source_type": "periodista",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "08:18",
+      "url": "https://www.youtube.com/watch?v=liflT24mKFM"
+    },
+    {
+      "id": "227d1f624ffb74bd",
+      "tag": "Plantel",
+      "tipo": "noticia",
+      "title": "MILLONARIOS HOY EN VIVO 1PM | MUJERES AZULES: ANÁLISIS DEL 4-1 VS BUCARAMANGA EN EL CAMPÍN",
+      "source": "Casa Azul Radio TV",
+      "source_handle": "@CasaAzulRadioTV",
+      "source_type": "partidario",
+      "cred": "media",
+      "date": "Ayer",
+      "time": "02:05",
+      "url": "https://www.youtube.com/watch?v=YmQ61ekJgEc"
+    }
+  ],
+  "rumors": [
+    {
+      "tema": "llegada-rodrigo-contreras",
+      "titulo": "Rodrigo Contreras se une al clamor del hincha de Millonarios: \"ojalá poder renovar\"",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "El Espectador",
+      "timeline": [
+        {
+          "source": "El Espectador",
+          "handle": "elespectador.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-25T19:33:00-05:00",
+          "url": "https://www.elespectador.com/deportes/futbol-colombiano/millonarios/en-que-va-la-renovacion-de-rodrigo-contreras/",
+          "is_first": true,
+          "when_label": "25 nov 19:33"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-contreras-grita-renovacin",
+      "titulo": "📢 ¡CONTRERAS GRITA RENOVACIÓN! | Ⓜ️ MILLONARIOS 4-1 BUCARAMANGA 🐆",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Guillo Arango",
+      "timeline": [
+        {
+          "source": "Guillo Arango",
+          "handle": "@GuilloArango",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-25T02:38:05+00:00",
+          "url": "https://www.youtube.com/watch?v=9T7yn3UT6A4",
+          "is_first": true,
+          "when_label": "24 nov 21:38"
+        }
+      ]
+    },
+    {
+      "tema": "interes-jannenson-sarmiento",
+      "titulo": "Millonarios quiere a Jannenson Sarmiento, campeón del fútbol colombiano con Junior",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-24T22:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/millonarios-quiere-a-jannenson-sarmiento-campeon-del-futbol-colombiano-con-junior/",
+          "is_first": true,
+          "when_label": "24 nov 22:25"
+        }
+      ]
+    },
+    {
+      "tema": "interes-rodrigo-contreras",
+      "titulo": "Millonarios negocia la continuidad de Rodrigo Contreras y los hinchas se ilusionan",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-24T22:25:00-05:00",
+          "url": "https://primertiempo.co/futbol/millonarios-negocia-la-continuidad-de-rodrigo-contreras-y-los-hinchas-se-ilusionan/",
+          "is_first": true,
+          "when_label": "24 nov 22:25"
+        }
+      ]
+    },
+    {
+      "tema": "salida-sudamérica",
+      "titulo": "¿Se va de Millonarios? Un grande de Sudamérica puso sus ojos en Javier Burrai",
+      "categoria": "Salida",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-23T23:50:00-05:00",
+          "url": "https://primertiempo.co/futbol/se-va-de-millonarios-un-grande-de-sudamerica-puso-sus-ojos-en-javier-burrai/",
+          "is_first": true,
+          "when_label": "23 nov 23:50"
+        }
+      ]
+    },
+    {
+      "tema": "llegada-defensor",
+      "titulo": "¿Defensor de Junior podría llegar a Millonarios? El rumor que toma fuerza en el mercado",
+      "categoria": "Llegada",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-21T21:29:00-05:00",
+          "url": "https://primertiempo.co/futbol/defensor-de-junior-podria-llegar-a-millonarios-el-rumor-que-toma-fuerza-en-el-mercado/",
+          "is_first": true,
+          "when_label": "21 nov 21:29"
+        }
+      ]
+    },
+    {
+      "tema": "renovacion-rodrigo-contreras",
+      "titulo": "Millonarios tendría encaminada la renovación de Rodrigo Contreras, su goleador de 17 tantos",
+      "categoria": "Renovacion",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Primer Tiempo",
+      "timeline": [
+        {
+          "source": "Primer Tiempo",
+          "handle": "primertiempo.co",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-21T21:29:00-05:00",
+          "url": "https://primertiempo.co/futbol/millonarios-tendria-encaminada-la-renovacion-de-rodrigo-contreras-su-goleador-de-17-tantos/",
+          "is_first": true,
+          "when_label": "21 nov 21:29"
+        }
+      ]
+    },
+    {
+      "tema": "interes-junior",
+      "titulo": "Millonarios apunta a figura del bicampeonato de Junior, para 2027",
+      "categoria": "Interes",
+      "status": "desarrollo",
+      "score": 62,
+      "first_source": "Colombia.com",
+      "timeline": [
+        {
+          "source": "Colombia.com",
+          "handle": "colombia.com",
+          "tier": 2,
+          "postura": "afirma",
+          "when": "2026-11-20T18:32:00-05:00",
+          "url": "https://www.colombia.com/futbol/liga-colombiana/millonarios-muestra-interes-en-daniel-rivera-de-junior-613486",
+          "is_first": true,
+          "when_label": "20 nov 18:32"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "handle": "elespectador.com",
+      "name": "El Espectador",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "@GuilloArango",
+      "name": "Guillo Arango",
+      "type": "periodista",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "primertiempo.co",
+      "name": "Primer Tiempo",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 5,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    },
+    {
+      "handle": "colombia.com",
+      "name": "Colombia.com",
+      "type": "prensa",
+      "tier": 2,
+      "n_claims": 1,
+      "hits": 0,
+      "misses": 0,
+      "scoops": 0,
+      "humo": 0,
+      "resolved": 0,
+      "accuracy": null,
+      "humo_rate": 0,
+      "tier_earned": "Sin datos"
+    }
+  ]
+}
